@@ -2,7 +2,7 @@
 
 ## Repository Overview
 
-This is a **content-only repository** for the "Coach Aki" (@sirakinb) brand. It contains Markdown video scripts, content strategy documents, TikTok analytics, course session notes, and DOCX meeting/coaching transcripts. There is no application code, no build system, and no runtime dependencies.
+This is a **content-only repository** for Aki's (@sirakinb) personal brand. It contains Markdown video scripts, content strategy documents, TikTok analytics, course session notes, and DOCX meeting/coaching transcripts. There is no application code, no build system, and no runtime dependencies.
 
 ### Repository Structure
 
