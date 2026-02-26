@@ -1,0 +1,505 @@
+# AI Tools & Trends — Scripts
+**Source:** Coaching calls, community calls, industry knowledge
+**Style:** Builder sharing what he knows | **Length:** 30-90 sec | **Format:** Talking head (teleprompter)
+**Primary Platform:** TikTok (cross-post to IG Reels, YouTube Shorts, LinkedIn)
+
+**Every script includes the 3-Layer Hook System:**
+- **AUDIO HOOK** = What you say (first sentence, under 1.5 seconds)
+- **TEXT ON SCREEN** = What they read (shorter/punchier, catches sound-off scrollers)
+- **VISUAL HOOK** = What they see (your energy, gesture, expression)
+
+**Teleprompter formatting:** Short sentences. **Bold** = words to punch with energy. Read naturally, not robotically.
+
+**Quick Reference:**
+- Bold words = punch with energy (louder or pause before)
+- Hook gets 120% energy, then settle into natural tone
+- Each line break = natural breath point
+- Don't be perfect. Raw > polished.
+
+---
+
+## SCRIPT 1: "Go High Level -- The All-in-One Marketing Platform"
+**Category:** AI Tools | **Hook:** Demystifier | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "If you're paying for **six different tools**, you need to know about **Go High Level**."
+- TEXT ON SCREEN: "6 tools → 1 platform"
+- VISUAL: Count on fingers on "six different tools." Point at camera on "you need to know."
+
+**CAPTION:**
+If you're running a service business or agency and you're paying for 6 different tools, you need to know about this. Save it.
+
+#gohighlevel #ghl #marketingtools #crm #automation #aitools #agency #servicebusiness
+
+**SCRIPT:**
+
+If you're paying for **six different tools**,
+you need to know about **Go High Level**.
+
+It's an all-in-one marketing and sales **platform**.
+
+CRM. Email marketing. **SMS**.
+Reputation management. Workflow automation.
+Lead generation. Booking calendars.
+**Website builder**.
+
+All in **one** place.
+
+Instead of paying for Mailchimp **plus** Calendly
+**plus** Typeform **plus** a separate CRM --
+GHL **bundles** it all.
+
+Here's where it gets interesting.
+
+It has **white labeling**.
+You can resell it under your **own** brand
+with sub-accounts for each of your clients.
+
+And it has a **30%** affiliate program.
+
+Now -- it's not **perfect**.
+There's a love-hate relationship with it.
+
+But for service businesses and **agencies**,
+it's one of the most **complete** platforms available.
+
+Worth knowing about
+even if you don't **use** it.
+
+**CTA:** "Save this if you're running a service business or agency. Follow for more tools that simplify your stack."
+
+---
+
+## SCRIPT 2: "AI Creative Tools You Need to Know"
+**Category:** AI Tools | **Hook:** Hard Number | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "**Five** AI creative tools that are changing the game right now."
+- TEXT ON SCREEN: "5 AI tools you NEED to know"
+- VISUAL: Hold up five fingers. Count down as you go. High energy, rapid fire.
+
+**CAPTION:**
+These five tools are changing how creators make content. Most have free tiers. Save this list and start experimenting.
+
+#aitools #midjourney #clingai #hagen #runway #ideogram #aicreative #contentcreation
+
+**SCRIPT:**
+
+**Five** AI creative tools that are changing the game right now.
+
+**One** -- Midjourney.
+Still the best for high-quality **image** generation.
+Professional grade.
+
+**Two** -- Cling AI.
+Turn images into **videos** with motion.
+New versions now add **audio** behind the video.
+
+**Three** -- Hagen.
+AI video generation
+that's getting scary **realistic**.
+
+**Four** -- Runway.
+Video editing and generation
+with the most **control**.
+
+**Five** -- Ideogram.
+Best for **text** in images.
+Logos, posters, **marketing** materials.
+
+Here's the power move.
+
+You can **combine** these.
+Create an image in Midjourney,
+**animate** it in Cling,
+add it to your app or **marketing**.
+
+The creative possibilities are **endless**
+and most of these have **free** tiers.
+
+**CTA:** "Save this list. Follow for more AI tools that give you an unfair advantage."
+
+---
+
+## SCRIPT 3: "Claude Skills and Codex Skills Explained"
+**Category:** AI Tools | **Hook:** Demystifier | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Most people use AI like a **search engine**. **Skills** turn it into a power tool."
+- TEXT ON SCREEN: "search engine → power tool"
+- VISUAL: Shake head on "search engine." Fist pump energy on "power tool."
+
+**CAPTION:**
+Skills are the difference between beginner AI use and power-user AI use. If you're doing the same task repeatedly, build a skill for it.
+
+#claudeai #codex #openai #aitools #vibecoding #cursorai #automation #aiskills
+
+**SCRIPT:**
+
+Most people use AI like a **search engine**.
+**Skills** turn it into a power tool.
+
+Skills are reusable scripts or instructions you create
+that make AI perform specific, **repeatable** tasks.
+
+Think of them like **macros** or **templates** for your AI.
+
+In Claude Code, you can create a skill
+that generates a slide deck in a specific **format** every time.
+
+Or one that writes app store submissions
+with your preferred **structure**.
+
+Codex has **similar** functionality.
+
+The power is that these aren't one-off **prompts** --
+they're deterministic, **consistent** workflows
+you can run over and **over**.
+
+This is a **differentiator**
+between using Lovable -- beginner tier --
+and using Cursor or Claude Code -- **power** tier.
+
+If you're doing the same kind of task **repeatedly**,
+build a **skill** for it.
+
+**CTA:** "Save this if you're ready to level up from prompting to building real workflows. Follow for more power-user tips."
+
+---
+
+## SCRIPT 4: "Decentralized AI -- What Comes After OpenAI and Google"
+**Category:** AI & Emerging Tech | **Hook:** Nobody Talks About This | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Everyone talks about OpenAI and Google. **Nobody** talks about decentralized AI."
+- TEXT ON SCREEN: "nobody's talking about THIS"
+- VISUAL: Lean in close. Lower voice slightly. Hand up like you're sharing insider info.
+
+**CAPTION:**
+Decentralized AI is the backup plan nobody's watching. Whether you invest or not, you should know it exists. Follow for more.
+
+#decentralizedai #bittensor #web3 #aitrends #openai #google #anthropic #emergingtech
+
+**SCRIPT:**
+
+Everyone talks about OpenAI and Google and Anthropic.
+**Nobody** talks about decentralized AI.
+
+Platforms like Bittensor are building an **alternative**
+where AI models aren't controlled by **one** company.
+
+Instead, they use **subnets** --
+networks of people contributing computing power.
+
+Think of it like how Bitcoin decentralized **money**,
+but for **AI**.
+
+Crowdsourced compute.
+Open models.
+No single point of **control**.
+
+This is still **early**.
+
+But if the centralized companies ever **restrict** access,
+raise prices too **high**,
+or start **gatekeeping** who can use their models --
+
+decentralized AI is the **backup plan**.
+
+Worth watching
+even if you're not **investing**.
+
+**CTA:** "Follow if you want to stay ahead of where AI is actually going. Save this -- you'll want to revisit it."
+
+---
+
+## SCRIPT 5: "Agent Orchestration is the Future of Software"
+**Category:** AI & Emerging Tech | **Hook:** Urgency Frame | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Software engineering is becoming a **completely** different field."
+- TEXT ON SCREEN: "coding is changing FOREVER"
+- VISUAL: Serious expression. Slow nod. Lean into camera with urgency.
+
+**CAPTION:**
+The people who learn to orchestrate AI agents now will have a massive advantage in 12 months. This shift is already happening.
+
+#agentai #aiagents #softwareengineering #cursorai #futureofcoding #vibecoding #aitrends
+
+**SCRIPT:**
+
+Software engineering is becoming a **completely** different field.
+
+Multiple leaders at major AI companies have said
+that by the end of **2026**,
+it will be more about **orchestrating** AI agents
+than writing code yourself.
+
+What does that **mean**?
+
+Instead of building everything **manually**,
+you direct **agents**.
+
+One agent writes the **code**.
+Another **tests** it.
+Another **deploys** it.
+Another **monitors** it.
+
+You're the **conductor**, not the musician.
+
+Tools like Cursor already let you run **parallel** agents --
+five at once,
+each working on a different part of your **app**.
+
+The people who learn to orchestrate agents **now**
+will have a **massive** advantage
+over everyone else in **12 months**.
+
+**CTA:** "Follow if you want to stay ahead of the biggest shift in software. The window to learn this is right now."
+
+---
+
+## SCRIPT 6: "Anti-Gravity -- Google's Free AI IDE"
+**Category:** AI Tools | **Hook:** Hard Number | **Length:** 30-45 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Google just launched an AI coding environment -- and it's **free**."
+- TEXT ON SCREEN: "Google's NEW free AI IDE"
+- VISUAL: Eyes wide. Lean in with surprise energy. Point at camera on "free."
+
+**CAPTION:**
+Google's new AI IDE is free right now with Firebase and Stripe built in. That won't last forever. Try it while you can.
+
+#antigravity #google #aiide #cursoralternative #vibecoding #firebase #stripe #freetools
+
+**SCRIPT:**
+
+Google just launched an AI coding environment
+called **Anti-Gravity**.
+
+It's very similar to Cursor --
+same concept, same **workflow**.
+
+But here's the difference.
+It's currently **free**.
+
+It has **Firebase** and **Stripe** integrations built in.
+
+So if you're building something
+that needs a database and **payments**,
+the infrastructure is already **connected**.
+
+It's Google's play to compete with **Cursor**
+and it's worth trying while it's **free**.
+
+The interface will feel familiar
+if you've used any AI **IDE**.
+
+Free won't last **forever**,
+so take advantage **now**.
+
+**CTA:** "Save this before Google starts charging. Follow for more free tools that won't stay free."
+
+---
+
+## SCRIPT 7: "Platforms That Lock Your Code vs Platforms That Don't"
+**Category:** Vibe Coding Reality | **Hook:** Nobody Talks About This | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Not all vibe coding platforms are **equal** when it comes to owning your code."
+- TEXT ON SCREEN: "does YOUR platform lock your code?"
+- VISUAL: Lean in with concern. Serious face. Shake head slowly on "not equal."
+
+**CAPTION:**
+Before you build anything serious, ask one question: can I take my code with me? If the answer is no, think twice. Save this.
+
+#vibecoding #codeownership #lovable #cursor #windsurf #github #appdevelopment #buildanapp
+
+**SCRIPT:**
+
+Not all vibe coding platforms are **equal**
+when it comes to owning your code.
+
+Some platforms -- Lovable, Cursor, Windsurf --
+let you **export** your code,
+push to **GitHub**,
+and take it wherever you **want**.
+
+Other platforms **lock** your code
+inside their ecosystem.
+
+You can't **export** it.
+You can't **move** it.
+
+If the platform shuts down
+or raises **prices**,
+your app goes **with** it.
+
+Before you build anything **serious**,
+ask one question:
+
+Can I take my code with **me**?
+
+If the answer is **no** -- think twice.
+
+Your code is your **asset**.
+Don't build on a platform
+that holds it **hostage**.
+
+**CTA:** "Save this before you pick a platform. Follow for more real talk about building the right way."
+
+---
+
+## SCRIPT 8: "When to Use Which AI Model"
+**Category:** AI Tools | **Hook:** Here's What I Tell Everyone | **Length:** 60-90 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "**Stop** using one model for everything."
+- TEXT ON SCREEN: "you're using the WRONG model"
+- VISUAL: Hand up in "stop" gesture. Direct eye contact. Shift to teaching mode.
+
+**CAPTION:**
+The skill isn't knowing one AI model well. It's knowing which model to reach for in each situation. Save this cheat sheet.
+
+#aimodels #chatgpt #claude #gemini #perplexity #midjourney #aitools #vibecoding #artificialintelligence
+
+**SCRIPT:**
+
+**Stop** using one model for everything.
+Different models have different **strengths**.
+
+For brainstorming and **ideation** -- ChatGPT.
+It's enthusiastic, creative, generates lots of **options**.
+
+For clean, structured **code** -- Claude.
+Sonnet or Opus.
+Pushes back, writes **organized** code, great for building.
+
+For research and **fact-checking** --
+Perplexity or Gemini with search.
+
+For image **generation** --
+Midjourney or Google AI Studio, which is **free**.
+
+For **multimodal** work --
+video, images, audio analysis --
+**Gemini**.
+It's the only one that handles video uploads **natively**.
+
+For cost-sensitive **projects** --
+use Sonnet over Opus,
+or use the Codex extension
+to route through your ChatGPT **subscription**.
+
+The skill isn't knowing one model **well**.
+
+It's knowing which model to **reach** for
+in each **situation**.
+
+**CTA:** "Save this cheat sheet. You'll come back to it every time you start a new project. Follow for more AI breakdowns."
+
+---
+
+## SCRIPT 9: "How New AI Models Affect Your Existing Projects"
+**Category:** AI & Emerging Tech | **Hook:** Nobody Talks About This | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Every few weeks a new AI model drops. And every time, there's an opportunity most people **miss**."
+- TEXT ON SCREEN: "new AI model? revisit your OLD projects"
+- VISUAL: Lean in. Eyes wide on "miss." Count on fingers as you list examples.
+
+**CAPTION:**
+Keep a list of things that didn't work. Every time a new model drops, revisit that list. What was impossible last month might be a weekend project today.
+
+#aimodels #newai #vibecoding #appdevelopment #aitrends #buildanapp #artificialintelligence
+
+**SCRIPT:**
+
+Every few weeks a new AI model drops.
+And every time, there's an opportunity most people **miss**.
+
+Projects you tried before
+and hit **roadblocks** on?
+
+Try them **again**.
+
+The model that struggled with your complex **dashboard**
+two months ago
+might handle it **easily** now.
+
+Features that seemed too **ambitious**?
+They might be **buildable** today.
+
+Each major model release isn't just **faster** --
+it's a step function improvement
+in what's **possible**.
+
+So keep a **list** of things that didn't work.
+
+Every time a new model **drops**,
+revisit that list.
+
+What was **impossible** last month
+might be a weekend project **today**.
+
+**CTA:** "Start your 'revisit list' today. Follow for more ways to stay ahead every time AI levels up."
+
+---
+
+## SCRIPT 10: "Make.com Automations Explained Simply"
+**Category:** AI Automation | **Hook:** Demystifier | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "You're doing the same **10 tasks** every day. **Make.com** does them for you."
+- TEXT ON SCREEN: "automate the boring stuff"
+- VISUAL: Count on fingers on "10 tasks." Point at camera on "for you." High energy.
+
+**CAPTION:**
+Make.com lets you automate the repetitive tasks that eat up your day. Free tier gives you 1,000 operations a month. Save this.
+
+#makecom #automation #nocode #aiautomation #smallbusiness #workflow #crm #productivity
+
+**SCRIPT:**
+
+You're doing the same **10 tasks** every day.
+**Make.com** does them for you.
+
+Make.com lets you connect different apps
+and automate workflows **visually**.
+
+Think of it like this:
+when **THIS** happens in one app,
+**DO** this in another app.
+
+A lead fills out a **form** --
+automatically add them to your **CRM**,
+send them a welcome **email**,
+and notify you on **Slack**.
+
+A customer calls your AI voice **agent** --
+automatically log the **call**,
+send a follow-up SMS via **Twilio**,
+and update the CRM in **Zoho**.
+
+You build these workflows
+by dragging and connecting **blocks**.
+No code.
+
+The free tier gives you
+**1,000** operations per month.
+
+For most small businesses,
+that's enough to start automating
+the repetitive tasks that eat up your **day**.
+
+**CTA:** "Save this if you're still doing things manually that a robot could do for you. Follow for more automation breakdowns."
