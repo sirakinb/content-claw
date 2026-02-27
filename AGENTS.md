@@ -2,21 +2,29 @@
 
 ## Repository Overview
 
-This is a **content-only repository** for Aki's (@sirakinb) personal brand. It contains Markdown video scripts, content strategy documents, TikTok analytics, course session notes, and DOCX meeting/coaching transcripts. There is no application code, no build system, and no runtime dependencies.
+This is Aki's (@sirakinb) personal brand repository. It contains:
+
+1. **Content Hub** (`content-hub/`) — A React web app for organizing and scheduling content
+2. **Content files** — Markdown video scripts, strategy docs, analytics, and session notes
+3. **Transcripts** (`transcripts/`) — DOCX meeting and coaching call transcripts
 
 ### Repository Structure
 
-- `SCRIPTS*.md` — TikTok/Reels video scripts organized by topic (AI Tools, Business, Technical, etc.)
+- `content-hub/` — React + Vite + Tailwind CSS content management app
+- `SCRIPTS*.md` — TikTok/Reels video scripts organized by topic
 - `CONTENT_IDEAS.md` — Content ideas extracted from meeting transcripts
 - `HOOK_GUIDE.md` — Guide for crafting video hooks
 - `TIKTOK_ANALYSIS.md` — TikTok performance analytics
-- `vibe-code-pioneers/` — Session notes (session-1 through session-9) for the "Vibe Code Pioneers" community/course
+- `vibe-code-pioneers/` — Session notes for the "Vibe Code Pioneers" community/course
 - `transcripts/batch-1/` — DOCX meeting and coaching call transcripts
 
 ## Cursor Cloud specific instructions
 
-- **No dependencies to install.** This repository has no `package.json`, `requirements.txt`, `Makefile`, `Dockerfile`, or any other dependency/build configuration.
-- **No services to run.** There are no applications, servers, or background processes.
-- **No tests or linting.** There are no automated tests or linting tools configured.
-- **Editing workflow** is limited to viewing and editing Markdown (`.md`) and Word (`.docx`) files.
-- The update script is a no-op (`true`) since there are no dependencies to refresh.
+### Content Hub App (`content-hub/`)
+
+- **Dev server:** `npm run dev` (Vite on port 5173)
+- **Build:** `npm run build`
+- **Lint:** `npm run lint` (ESLint)
+- **Tech stack:** React 19, Vite 7, Tailwind CSS 4, React Router, Lucide icons, date-fns
+- **Data persistence:** localStorage (no backend/database required)
+- The update script runs `npm install` in `content-hub/` to refresh dependencies.
