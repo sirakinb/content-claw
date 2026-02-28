@@ -1,10 +1,11 @@
 import { NavLink } from 'react-router-dom';
-import { LayoutDashboard, Library, CalendarDays, PlusCircle, Sparkles } from 'lucide-react';
+import { LayoutDashboard, Library, CalendarDays, PlusCircle, Sparkles, MessageSquareHeart } from 'lucide-react';
 
 const links = [
   { to: '/', icon: LayoutDashboard, label: 'Dashboard' },
   { to: '/library', icon: Library, label: 'Content Library' },
   { to: '/calendar', icon: CalendarDays, label: 'Calendar' },
+  { to: '/testimonials', icon: MessageSquareHeart, label: 'Testimonials' },
 ];
 
 export default function Sidebar({ onNewContent }) {
