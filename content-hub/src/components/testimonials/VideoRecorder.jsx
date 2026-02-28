@@ -68,15 +68,19 @@ export default function VideoRecorder({ maxDuration = 120, onComplete, brandColo
 
   const doStartRecording = useCallback(() => {
     chunksRef.current = [];
-    const mimeType = MediaRecorder.isTypeSupported('video/webm;codecs=vp9,opus')
-      ? 'video/webm;codecs=vp9,opus'
-      : 'video/webm';
-    const recorder = new MediaRecorder(streamRef.current, { mimeType });
+    const candidates = [
+      'video/webm;codecs=vp9,opus',
+      'video/webm;codecs=vp8,opus',
+      'video/webm',
+      'video/mp4',
+    ];
+    const mimeType = candidates.find((m) => MediaRecorder.isTypeSupported(m)) || '';
+    const recorder = new MediaRecorder(streamRef.current, mimeType ? { mimeType } : undefined);
     recorder.ondataavailable = (e) => {
       if (e.data.size > 0) chunksRef.current.push(e.data);
     };
     recorder.onstop = () => {
-      const blob = new Blob(chunksRef.current, { type: mimeType });
+      const blob = new Blob(chunksRef.current, { type: recorder.mimeType || mimeType });
       blobRef.current = blob;
       const url = URL.createObjectURL(blob);
       setVideoUrl(url);

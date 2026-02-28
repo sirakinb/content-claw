@@ -26,5 +26,8 @@ This is Aki's (@sirakinb) personal brand repository. It contains:
 - **Build:** `npm run build`
 - **Lint:** `npm run lint` (ESLint)
 - **Tech stack:** React 19, Vite 7, Tailwind CSS 4, React Router, Lucide icons, date-fns
-- **Data persistence:** localStorage (no backend/database required)
+- **Data persistence:** localStorage for content items, IndexedDB for testimonial video blobs/campaigns/testimonials
+- **Design:** Dark futuristic aesthetic throughout (gray-950 backgrounds, glass-morphism, gradient accents)
+- **Testimonial video recording** uses the browser MediaRecorder API. Cannot be tested in headless/VM environments without a camera. On real devices (phone/desktop with webcam) it records webm (Chrome/Firefox) or mp4 (Safari/iOS).
+- Fullscreen routes (`/respond/:id`, `/wall/:id`, `/testimonials/new`) render without the sidebar.
 - The update script runs `npm install` in `content-hub/` to refresh dependencies.
