@@ -37,25 +37,34 @@ export default function RespondPage() {
 
   const handleSubmit = async () => {
     setSubmitting(true);
-    const testimonialId = `t-${Date.now()}`;
-    const testimonial = {
-      id: testimonialId,
-      campaignId: id,
-      type: mode,
-      text: mode === 'text' ? textResponse : '',
-      name: details.name,
-      email: details.email,
-      company: details.company,
-      rating: details.rating,
-      status: 'pending',
-      createdAt: new Date().toISOString(),
-    };
-    await saveTestimonial(testimonial);
-    if (mode === 'video' && videoBlob) {
-      await saveVideo(testimonialId, videoBlob);
+    try {
+      let videoUrl = null;
+      let videoKey = null;
+      if (mode === 'video' && videoBlob) {
+        const result = await saveVideo(videoBlob);
+        videoUrl = result.url;
+        videoKey = result.key;
+      }
+      const testimonial = {
+        _isNew: true,
+        campaignId: id,
+        type: mode,
+        text: mode === 'text' ? textResponse : '',
+        name: details.name,
+        email: details.email,
+        company: details.company,
+        rating: details.rating,
+        status: 'pending',
+        videoUrl,
+        videoKey,
+      };
+      await saveTestimonial(testimonial);
+      setStep(STEPS.DONE);
+    } catch (err) {
+      console.error('Submit error:', err);
+    } finally {
+      setSubmitting(false);
     }
-    setSubmitting(false);
-    setStep(STEPS.DONE);
   };
 
   const bc = campaign?.brandColor || '#9333ea';

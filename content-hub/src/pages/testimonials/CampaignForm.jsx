@@ -45,10 +45,8 @@ export default function CampaignForm({ existingCampaign }) {
     setSaving(true);
     const campaign = {
       ...form,
-      id: existingCampaign?.id || `campaign-${Date.now()}`,
+      ...(existingCampaign?.id ? { id: existingCampaign.id } : {}),
       prompts: form.prompts.filter((p) => p.trim()),
-      createdAt: existingCampaign?.createdAt || new Date().toISOString(),
-      updatedAt: new Date().toISOString(),
     };
     await saveCampaign(campaign);
     setSaving(false);

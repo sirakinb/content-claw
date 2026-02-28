@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo, useCallback } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { ArrowLeft, Copy, Check, Trash2, MessageSquare, Eye, Heart } from 'lucide-react';
 import { format } from 'date-fns';
-import { getCampaign, getTestimonials, deleteTestimonial, saveTestimonial, getVideo } from '../../lib/db';
+import { getCampaign, getTestimonials, deleteTestimonial, saveTestimonial } from '../../lib/db';
 import StarRating from '../../components/testimonials/StarRating';
 
 export default function CampaignDetail() {
@@ -10,7 +10,6 @@ export default function CampaignDetail() {
   const navigate = useNavigate();
   const [campaign, setCampaign] = useState(null);
   const [testimonials, setTestimonials] = useState([]);
-  const [videoUrls, setVideoUrls] = useState({});
   const [copied, setCopied] = useState(false);
   const [filter, setFilter] = useState('all');
 
@@ -20,15 +19,6 @@ export default function CampaignDetail() {
     setCampaign(c);
     const t = await getTestimonials(id);
     setTestimonials(t.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt)));
-
-    const urls = {};
-    for (const item of t) {
-      if (item.type === 'video') {
-        const blob = await getVideo(item.id);
-        if (blob) urls[item.id] = URL.createObjectURL(blob);
-      }
-    }
-    setVideoUrls(urls);
   }, [id, navigate]);
 
   useEffect(() => { load(); }, [load]);
@@ -116,9 +106,9 @@ export default function CampaignDetail() {
         <div className="grid sm:grid-cols-2 gap-4">
           {filtered.map((t) => (
             <div key={t.id} className="rounded-2xl border border-border bg-white/[0.03] overflow-hidden hover:bg-white/[0.06] hover:border-border-hover transition-all group">
-              {t.type === 'video' && videoUrls[t.id] && (
+              {t.type === 'video' && t.videoUrl && (
                 <div className="aspect-video bg-black">
-                  <video src={videoUrls[t.id]} controls className="w-full h-full object-cover" />
+                  <video src={t.videoUrl} controls className="w-full h-full object-cover" />
                 </div>
               )}
 

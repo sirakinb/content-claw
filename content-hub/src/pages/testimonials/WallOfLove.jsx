@@ -1,14 +1,13 @@
 import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { Star, Heart, Sparkles, Quote } from 'lucide-react';
-import { getCampaign, getTestimonials, getVideo } from '../../lib/db';
+import { getCampaign, getTestimonials } from '../../lib/db';
 import StarRating from '../../components/testimonials/StarRating';
 
 export default function WallOfLove() {
   const { id } = useParams();
   const [campaign, setCampaign] = useState(null);
   const [testimonials, setTestimonials] = useState([]);
-  const [videoUrls, setVideoUrls] = useState({});
   const [notFound, setNotFound] = useState(false);
 
   useEffect(() => {
@@ -20,15 +19,6 @@ export default function WallOfLove() {
       const featured = all.filter((t) => t.status === 'featured');
       const display = featured.length > 0 ? featured : all;
       setTestimonials(display.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt)));
-
-      const urls = {};
-      for (const t of display) {
-        if (t.type === 'video') {
-          const blob = await getVideo(t.id);
-          if (blob) urls[t.id] = URL.createObjectURL(blob);
-        }
-      }
-      setVideoUrls(urls);
     })();
   }, [id]);
 
@@ -90,9 +80,9 @@ export default function WallOfLove() {
                 style={{ animationDelay: `${idx * 80}ms` }}
               >
                 {/* Video */}
-                {t.type === 'video' && videoUrls[t.id] && (
+                {t.type === 'video' && t.videoUrl && (
                   <div className="aspect-video bg-black">
-                    <video src={videoUrls[t.id]} controls className="w-full h-full object-cover" />
+                    <video src={t.videoUrl} controls className="w-full h-full object-cover" />
                   </div>
                 )}
 
