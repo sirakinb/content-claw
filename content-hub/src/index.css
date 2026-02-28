@@ -12,20 +12,23 @@
   --color-brand-700: #7e22ce;
   --color-brand-800: #6b21a8;
   --color-brand-900: #581c87;
-  --color-surface: #fafafa;
-  --color-surface-raised: #ffffff;
-  --color-surface-overlay: #f5f3ff;
-  --color-ink: #1a1a2e;
-  --color-ink-muted: #6b7280;
-  --color-ink-faint: #9ca3af;
+  --color-surface: #0a0a0f;
+  --color-surface-raised: rgba(255, 255, 255, 0.04);
+  --color-surface-overlay: rgba(255, 255, 255, 0.06);
+  --color-ink: #f0f0f5;
+  --color-ink-muted: rgba(255, 255, 255, 0.45);
+  --color-ink-faint: rgba(255, 255, 255, 0.25);
   --color-coral: #f97066;
   --color-amber: #f59e0b;
   --color-emerald: #10b981;
   --color-sky: #38bdf8;
+  --color-border: rgba(255, 255, 255, 0.08);
+  --color-border-hover: rgba(255, 255, 255, 0.15);
 }
 
 html {
   scroll-behavior: smooth;
+  color-scheme: dark;
 }
 
 body {
@@ -52,4 +55,24 @@ body {
 
 .animate-slide-in {
   animation: slide-in 0.3s ease-out forwards;
+}
+
+::selection {
+  background-color: rgba(147, 51, 234, 0.3);
+  color: white;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
 }

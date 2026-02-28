@@ -10,15 +10,15 @@ const links = [
 
 export default function Sidebar({ onNewContent }) {
   return (
-    <aside className="fixed top-0 left-0 h-screen w-64 bg-surface-raised border-r border-gray-200/60 flex flex-col z-30">
+    <aside className="fixed top-0 left-0 h-screen w-64 bg-white/[0.02] border-r border-border flex flex-col z-30 backdrop-blur-xl">
       {/* Brand */}
       <div className="px-6 py-6 flex items-center gap-3">
-        <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-brand-500 to-brand-700 flex items-center justify-center shadow-md">
+        <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-brand-500 to-brand-700 flex items-center justify-center shadow-lg shadow-brand-500/20">
           <Sparkles className="w-5 h-5 text-white" />
         </div>
         <div>
-          <h1 className="text-lg font-bold tracking-tight text-ink">Aki</h1>
-          <p className="text-[11px] text-ink-muted -mt-0.5 tracking-wide uppercase">Content Hub</p>
+          <h1 className="text-lg font-bold tracking-tight text-white">Aki</h1>
+          <p className="text-[11px] text-white/30 -mt-0.5 tracking-widest uppercase">Content Hub</p>
         </div>
       </div>
 
@@ -26,7 +26,11 @@ export default function Sidebar({ onNewContent }) {
       <div className="px-4 mb-2">
         <button
           onClick={onNewContent}
-          className="w-full flex items-center gap-2 px-4 py-2.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white text-sm font-medium transition-colors shadow-sm cursor-pointer"
+          className="w-full flex items-center gap-2 px-4 py-2.5 rounded-xl text-white text-sm font-medium transition-all shadow-lg cursor-pointer"
+          style={{
+            background: 'linear-gradient(135deg, #9333ea, #7e22cecc)',
+            boxShadow: '0 4px 20px rgba(147, 51, 234, 0.3)',
+          }}
         >
           <PlusCircle className="w-4 h-4" />
           New Content
@@ -43,8 +47,8 @@ export default function Sidebar({ onNewContent }) {
             className={({ isActive }) =>
               `flex items-center gap-3 px-4 py-2.5 rounded-xl text-sm font-medium transition-all ${
                 isActive
-                  ? 'bg-brand-50 text-brand-700 shadow-sm'
-                  : 'text-ink-muted hover:bg-gray-100 hover:text-ink'
+                  ? 'bg-white/[0.08] text-white shadow-sm'
+                  : 'text-white/40 hover:bg-white/[0.04] hover:text-white/70'
               }`
             }
           >
@@ -55,8 +59,8 @@ export default function Sidebar({ onNewContent }) {
       </nav>
 
       {/* Footer */}
-      <div className="px-6 py-4 border-t border-gray-100">
-        <p className="text-xs text-ink-faint">@sirakinb</p>
+      <div className="px-6 py-4 border-t border-border">
+        <p className="text-[11px] text-white/15 tracking-wider">@sirakinb</p>
       </div>
     </aside>
   );
