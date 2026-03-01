@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #0a0a0c;
+  --color-surface-50: #141416;
+  --color-surface-100: #1a1a1c;
+  --color-surface-200: #232326;
+  --color-primary: #8b5cf6;
+  --color-primary-hover: #7c3aed;
+  --color-primary-light: #a78bfa;
+  --color-primary-transparent: rgba(139, 92, 246, 0.1);
+  --shadow-glow: 0 0 20px rgba(139, 92, 246, 0.15);
+  --shadow-glow-strong: 0 0 30px rgba(139, 92, 246, 0.3);
+}
+
+@layer base {
+  body {
+    background-color: var(--color-background);
+    color: #e5e7eb;
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow: hidden;
+    background-image: radial-gradient(circle at 50% 0%, rgba(139, 92, 246, 0.05), transparent 70%);
+  }
+}
+
+@layer utilities {
+  .glass {
+    background-color: color-mix(in srgb, var(--color-surface-100) 60%, transparent);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+  }
+  
+  .glass-card {
+    background-color: color-mix(in srgb, var(--color-surface-200) 50%, transparent);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    transition: all 300ms;
+  }
+
+  .glass-card:hover {
+    border-color: color-mix(in srgb, var(--color-primary) 30%, transparent);
+  }
+  
+  .glass-column {
+    background-color: color-mix(in srgb, var(--color-surface-50) 40%, transparent);
+    backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+  }
+
+  .text-gradient {
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: linear-gradient(to right, var(--color-primary-light), var(--color-primary));
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

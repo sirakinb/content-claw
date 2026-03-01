@@ -503,3 +503,80 @@ that's enough to start automating
 the repetitive tasks that eat up your **day**.
 
 **CTA:** "Save this if you're still doing things manually that a robot could do for you. Follow for more automation breakdowns."
+
+---
+
+## SCRIPT: "The US Government Just Blacklisted an AI Company"
+**Category:** AI News / Industry | **Hook:** Breaking News | **Length:** 60-90 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "The US government just labeled an **American** AI company a **national security threat**."
+- TEXT ON SCREEN: "US blacklists American AI company"
+- VISUAL: Lean in close. Eyes wide. Shake head slowly like you can't believe it. Dead serious energy.
+
+**CAPTION:**
+The Pentagon just designated Anthropic -- the company behind Claude AI -- a "supply chain risk." This is the first time they've ever done this to an American company. Here's what happened and why it matters.
+
+#ai #anthropic #claude #pentagon #ainews #techpolitics #aitechnology #vibecoding
+
+**SCRIPT:**
+
+The US government just labeled an **American** AI company
+a **national security threat**.
+
+This is **wild**.
+
+Anthropic -- the company behind **Claude** AI --
+just got designated a "supply chain **risk**" by the Pentagon.
+
+That label is usually reserved
+for companies tied to **foreign adversaries**.
+Like Chinese tech firms.
+
+This is the **first** time
+they've done this to an American company.
+
+So what **happened**?
+
+The Pentagon has a contract with Anthropic
+to use Claude on **classified** networks.
+
+They told Anthropic --
+remove **all** restrictions on how the military uses your AI.
+
+Anthropic said **no**.
+
+They drew two lines.
+**One** -- Claude can't be used for mass surveillance of American citizens.
+**Two** -- Claude can't be used in weapons that fire without a human involved.
+
+The Pentagon said that's **unacceptable**.
+They want full access with **no** guardrails.
+
+Anthropic's CEO said they "cannot in good **conscience**" agree to that.
+
+So the Trump administration **blacklisted** them.
+
+Federal agencies have **six months** to stop using Anthropic entirely.
+And any company that does business with the **military**
+now has to prove they don't use **anything** from Anthropic.
+
+Here's why this matters
+if you're building with AI.
+
+This isn't just about one company.
+This is the government telling **every** AI company --
+if you put limits on how we use your tech,
+we will **cut you off**.
+
+Over 330 employees from **Google** and **OpenAI**
+signed an open letter backing Anthropic.
+
+This is a defining moment
+for whether AI companies get to have **safety lines**
+or whether the government gets **unlimited** access.
+
+Pay attention to this one.
+
+**CTA:** "Follow if you want to stay up to date on what's happening in AI. This story is just getting started."
