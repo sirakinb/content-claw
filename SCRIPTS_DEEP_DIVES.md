@@ -627,3 +627,137 @@ It's not just backup.
 It's your **central hub**.
 
 **CTA:** "Save this if you use more than one tool. Follow for more vibe coding fundamentals."
+
+---
+
+# DEEP DIVES — AI News Breakdown Format (Nate B. Jones Style)
+**Style:** Builder breaking down AI news with personality | **Length:** 90-180 sec | **Format:** Talking head / green screen
+**Inspired by Nate B. Jones (@nate.b.jones) but delivered with Aki's energy:**
+- Same information density — real news, real facts, real takeaways
+- But conversational, not scripted-reading. You're TALKING to people, not presenting.
+- Builder angle: "here's what this means for people actually building stuff"
+- Each script uses the 3-Layer Hook System + a HOT TAKE closer
+
+---
+
+## DEEP DIVE 1: "Claude Just Became a Full Dev Team"
+**Category:** AI News / Vibe Coding | **Hook:** Bold Claim | **Length:** 90-120 sec
+**Status:** NOT YET FILMED
+**Topic:** Claude Code's recent feature drops — scheduled tasks, remote coding, desktop improvements
+
+**HOOK:**
+- AUDIO: "Claude just quietly dropped **three features** that turn it into a full development team. And nobody's talking about it."
+- TEXT ON SCREEN: "Claude just became a full dev team" (appear word by word)
+- VISUAL: Hold up three fingers. Lean in. Slight pause after "nobody's talking about it" — let it land.
+
+**CAPTION:**
+Anthropic just turned Claude Code into something scary powerful. Scheduled tasks, remote coding from your phone, and a desktop that actually feels good to use. Here's what you need to know.
+
+#claudecode #anthropic #ai #vibecoding #aitools #learnontiktok #coding #developer #tech #aiagent
+
+**SCRIPT:**
+
+Claude just quietly dropped **three features**
+that turn it into a full development team.
+And nobody's talking about it.
+
+So let me break this down for you.
+
+**Number one** -- scheduled tasks.
+You can now set up **automated jobs** inside Claude Code.
+That means you can tell Claude,
+"Hey, every two hours, check my error logs.
+If something's broken -- **fix it**.
+Open a pull request. Done."
+
+You wake up in the morning,
+your bugs are **already fixed**.
+That's not a coding assistant anymore.
+That's an **employee** that works while you sleep.
+
+This is similar to what OpenAI was doing with their heartbeat feature --
+but Claude actually **shipped** it
+and it works **today**.
+
+**Number two** -- remote coding from your **phone**.
+You can now start a Claude Code session on your computer,
+walk away,
+pull out your **phone**,
+and keep coding from **anywhere**.
+
+Your files never leave your machine. It's all **local**.
+But you're controlling it remotely.
+I could be at the **gym**, on my phone,
+telling Claude to refactor my entire codebase.
+That's **insane**.
+
+And by the way --
+Claude Code just hit **two and a half billion dollars** in annual revenue.
+29 million daily installs in VS Code.
+This is not some side project.
+This is taking **over**.
+
+**Number three** -- the desktop experience.
+They rewrote the whole interface.
+It's **fast** now. Like, buttery smooth.
+They added plan mode --
+where Claude shows you **exactly** what it's about to do
+before it touches your code.
+Background agents that only ping you when they **need** you.
+App preview so you can see your app running **inside** Claude.
+
+They basically built the entire developer workflow into **one place**.
+Code, review, deploy, monitor -- all from Claude.
+
+Here's my take.
+If you're vibe coding right now
+and you're **not** using Claude Code --
+you're leaving **speed** on the table.
+This is the most complete AI coding environment out right now.
+**Period**.
+
+**CTA:** "Follow me if you want to stay ahead on AI tools that actually matter for builders. Drop a comment -- what AI coding tool are you using right now?"
+
+---
+
+### RESEARCH NOTES — Claude Code Feature Drops (March 2026)
+
+**Feature 1: Scheduled Tasks / Cron Jobs**
+- Claude Code now supports local scheduled tasks via `/loop` command (CLI) and persistent scheduled tasks (Desktop)
+- CLI version: Set recurring jobs at fixed intervals (minutes, hours, days). Uses cron expressions. Auto-deletes after 3 days. Session-scoped.
+- Desktop version: Persistent scheduled tasks in Cowork. Survives restarts. Runs as long as app is open. Available on Pro, Max, Team, Enterprise plans.
+- Use cases cited by Anthropic devs:
+  - Check error logs every few hours, auto-create PRs for fixable bugs (Thariq Shihipar, Anthropic)
+  - Auto-monitor pull requests with self-fixing (Boris Cherny, Claude Code creator)
+  - Daily briefings, weekly reports, recurring research
+- Limitation: Desktop scheduled tasks only run while computer is awake and app is open. Not available on Linux for Desktop.
+- Sources: [Claude Code Docs](https://code.claude.com/docs/en/scheduled-tasks), [The Decoder](https://the-decoder.com/anthropic-turns-claude-code-into-a-background-worker-with-local-scheduled-tasks/)
+
+**Feature 2: Remote Control (Launched Feb 24, 2026)**
+- Start a coding session in terminal, continue on phone/tablet/browser
+- NOT cloud computing — session runs on local machine. Phone/browser is a window into that session.
+- Security: All connections outbound. Never opens an inbound port. HTTPS relay through Anthropic's API.
+- Auto-reconnects if laptop sleeps or Wi-Fi drops
+- Available on Pro and Max plans. Individual use only (no Team/Enterprise yet).
+- Sources: [VentureBeat](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote), [DevOps.com](https://devops.com/claude-code-remote-control-keeps-your-agent-local-and-puts-it-in-your-pocket/)
+
+**Feature 3: Claude Code on the Web (Cloud Environment)**
+- Separate from Remote Control. Runs in Anthropic-managed cloud infrastructure — sandboxed Linux VM.
+- No access to local filesystem or MCP servers — self-contained cloud environment.
+- Each `--remote` command creates its own independent web session.
+- Source: [Claude Code Docs - Web](https://code.claude.com/docs/en/claude-code-on-the-web)
+
+**Feature 4: Desktop UI/UX Improvements (Jan-March 2026)**
+- Plan Mode (Jan): Claude shows plan before making changes
+- Background notifications: Alerts only when input needed
+- App Preview (Feb): Preview running apps inside Claude Code
+- Terminal rewrite: "Buttery smooth UI"
+- Performance: 74% reduction in prompt input re-renders. ~500ms faster startup.
+- Cowork: Agentic capabilities for knowledge work beyond coding. Runs locally in isolated VM.
+- Plugin System: Custom commands, agents, hooks, MCP servers
+- Source: [Claude Code Changelog](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
+
+**Business Stats**
+- $2.5 billion annualized run rate as of Feb 2026 (doubled since start of year)
+- 29 million daily installs in VS Code
+- Source: [Coder Blog](https://coder.com/blog/building-for-2026-why-anthropic-engineers-are-running-claude-code-remotely-with-c)
