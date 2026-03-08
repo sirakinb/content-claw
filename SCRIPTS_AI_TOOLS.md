@@ -580,3 +580,79 @@ or whether the government gets **unlimited** access.
 Pay attention to this one.
 
 **CTA:** "Follow if you want to stay up to date on what's happening in AI. This story is just getting started."
+
+---
+
+## SCRIPT: "Software Is About to Be Built for Agents, Not People"
+**Category:** AI & Emerging Tech | **Hook:** Nobody Talks About This | **Length:** 60-90 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "In **two years**, the main user of your software won't be a **person**."
+- TEXT ON SCREEN: "software's next user ISN'T human"
+- VISUAL: Lean in. Dead serious face. Pause after "person" -- let it land. Point at camera.
+
+**CAPTION:**
+Paul Graham said "make something people want." The new version? Make something AGENTS want. If your software doesn't have an API, it might as well not exist. Here's the shift nobody's ready for.
+
+#aiagents #software #api #futureoftech #vibecoding #saas #claudecode #openai #manus #ai
+
+**SCRIPT:**
+
+In **two years**, the main user of your software
+won't be a **person**.
+
+It'll be an **agent**.
+
+Here's what's happening.
+
+AI agents aren't **chatbots** anymore.
+They have their own **computers**.
+Their own **file systems**.
+Their own **memory**.
+They write and run **code**.
+They call **APIs** directly.
+
+And they're **everywhere** now.
+
+Claude Code. Devin. Codex. **Manus**.
+Agents that run **24/7**
+in their own persistent environments.
+
+Here's the number that matters.
+
+Every employee will soon have
+not one, not ten --
+but potentially **hundreds** of agents
+working on their **behalf**.
+
+Companies could have **1,000X** more agents than people.
+
+That means agents become the **primary user**
+of all software.
+
+So Paul Graham said "make something **people** want."
+
+The new version?
+
+Make something **agents** want.
+
+And what do agents want?
+
+**APIs**. If your feature doesn't have an API,
+it might as well not **exist**.
+
+If an agent can't sign up for your product
+**programmatically** -- you're dead to agents.
+
+If your pricing doesn't support
+**consumption-based** billing -- you're going to have problems.
+
+The companies that redesign their software
+for agents to **use** at scale
+will **dominate** the next decade.
+
+The ones that don't
+will get left **behind**.
+
+**CTA:** "Follow if you want to understand where software is actually going. This shift is already happening and most people aren't paying attention."
