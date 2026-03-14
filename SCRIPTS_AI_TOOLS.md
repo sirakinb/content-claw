@@ -656,3 +656,193 @@ The ones that don't
 will get left **behind**.
 
 **CTA:** "Follow if you want to understand where software is actually going. This shift is already happening and most people aren't paying attention."
+
+---
+
+## SCRIPT: "A Guy With No Biology Degree Just Made a Cancer Vaccine With AI"
+**Category:** AI & Emerging Tech | **Hook:** Pattern Interrupt | **Length:** 60-90 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "A guy with **zero** biology training just used ChatGPT to create a **cancer vaccine**."
+- TEXT ON SCREEN: "no science degree. built a cancer vaccine with AI."
+- VISUAL: Lean in. Eyes wide. Dead serious. Let it land. Point at camera on "cancer vaccine."
+
+**CAPTION:**
+His dog was dying of cancer. Vets said there was nothing left to try. So he opened ChatGPT, sequenced her DNA, and designed a personalized mRNA cancer vaccine. The tumor shrank 75%. This is the most insane AI story of the year.
+
+#ai #mrna #cancervaccine #chatgpt #alphafold #personalizedmedicine #aistory #artificialintelligence #vibecoding
+
+**SCRIPT:**
+
+A guy with **zero** biology training
+just used ChatGPT to create a **cancer vaccine**.
+
+And it **worked**.
+
+Here's what happened.
+
+Paul Conyngham is a data engineer in **Sydney**.
+Not a doctor. Not a scientist.
+A **tech guy**.
+
+His rescue dog **Rosie** -- a staffy-shar pei cross --
+got diagnosed with **mast cell cancer** in 2024.
+
+He tried **everything**.
+Surgery. Chemo. Immunotherapy.
+Nothing **worked**.
+
+The tumors kept **growing**.
+Vets said there was nothing left to **try**.
+
+So Paul opened **ChatGPT**
+and asked it how to cure his dog's **cancer**.
+
+And then he **kept going**.
+
+He got Rosie's DNA **sequenced** at UNSW.
+Ran it through AI **pipelines** to find the mutations.
+Used **AlphaFold** to map the mutated proteins.
+Identified the **targets**.
+And designed a custom **mRNA** vaccine.
+
+A personalized cancer vaccine.
+For a **dog**.
+
+The **first** one ever made.
+
+He sent the formula to the UNSW **RNA Institute**.
+A professor there looked at it and said --
+"I can't **believe** a data engineer with no biology background
+generated this mRNA **recipe**."
+
+They built a **nanoparticle** from his design.
+
+But here's where it gets even **crazier**.
+
+He couldn't just inject it.
+He had to get **ethics approval** in Australia.
+That took **three months**.
+Two hours every **night**
+writing a 100-page **document**.
+
+He said the **red tape**
+was harder than designing the **vaccine**.
+
+Finally a professor at the University of **Queensland**
+had the approvals to run the trial.
+
+Paul drove **10 hours** with Rosie
+to get her first injection in **December**.
+
+One month later --
+the tumor shrank by **75 percent**.
+
+She went from barely being able to **walk**
+to jumping over a **fence** chasing rabbits.
+
+The scientists involved said --
+"If we can do this for a **dog**,
+why aren't we doing this for **humans**?"
+
+This is what AI **actually** looks like.
+
+Not replacing jobs.
+Not generating memes.
+
+A guy who **loved** his dog
+used AI to do something
+that entire research teams take **years** to do.
+
+**One person**. ChatGPT. AlphaFold.
+And a dying dog who's now **thriving**.
+
+The future of medicine
+is being built by people who **refuse** to accept
+"there's nothing we can do."
+
+**CTA:** "Save this. This is the most important AI story nobody's talking about. Follow for more real stories about how AI is changing everything."
+
+---
+
+## SCRIPT: "How Paul Actually Built the Vaccine — The AI Pipeline"
+**Category:** AI & Emerging Tech | **Hook:** Demystifier | **Length:** 60-90 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Let me break down **exactly** how a tech guy designed a cancer vaccine with **AI**."
+- TEXT ON SCREEN: "the AI pipeline behind the cancer vaccine"
+- VISUAL: Teaching mode. Hands out. Counting on fingers as you walk through steps.
+
+**CAPTION:**
+Everyone's sharing the story. Nobody's explaining HOW he did it. Here's the actual AI pipeline Paul Conyngham used to design a personalized mRNA cancer vaccine for his dog. This is a masterclass in using AI tools together.
+
+#ai #chatgpt #alphafold #mrna #cancerresearch #aipipeline #datascience #bioinformatics #personalizedmedicine
+
+**SCRIPT:**
+
+Everyone's sharing the story
+of the guy who built a cancer vaccine with **AI**.
+
+Nobody's explaining **how** he actually did it.
+
+So let me break it **down**.
+
+**Step one** -- he asked ChatGPT for ideas.
+Not for the vaccine itself.
+For **direction**.
+
+ChatGPT suggested **immunotherapy**.
+And pointed him to the UNSW Ramaciotti Centre
+for **genomic sequencing**.
+
+**Step two** -- he got Rosie's tumor DNA **sequenced**.
+That gave him **gigabytes** of raw genetic data.
+
+**Step three** -- he ran that data through
+AI **pipelines** to find the mutations
+that were specific to Rosie's **cancer**.
+
+These are called **neoantigens** --
+mutated proteins that only exist
+on the **cancer** cells.
+
+**Step four** -- he used **AlphaFold** --
+Google DeepMind's protein structure AI --
+to map those mutated proteins
+and figure out which ones
+the immune system could **target**.
+
+**Step five** -- he used algorithms
+to design an **mRNA sequence**
+that would teach Rosie's immune system
+to **attack** those specific proteins.
+
+Then he sent that half-page **formula**
+to the UNSW RNA Institute.
+
+They turned it into a **nanoparticle**.
+Cold-freighted it to a lab in **Queensland**.
+And injected it into **Rosie**.
+
+Her immune system learned to recognize
+the cancer as an **invader**.
+
+And started **destroying** it.
+
+This is exactly how Moderna's human cancer vaccines **work**.
+Same concept. Same **technology**.
+
+Except a guy with **no** biology degree
+did it from his laptop
+using tools that are available to **everyone**.
+
+That's the part that should **terrify**
+and **excite** you at the same time.
+
+The tools to do **extraordinary** things
+are sitting right there.
+Most people just use them to write **emails**.
+
+**CTA:** "Follow if you want to understand what's actually possible with AI right now. Save this for when someone tells you AI is just a chatbot."
