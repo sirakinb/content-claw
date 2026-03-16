@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@apify/actors-mcp-server": "^0.9.11",
     "apify-client": "^2.22.2"
   }
 }
