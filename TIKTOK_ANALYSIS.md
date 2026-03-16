@@ -1,8 +1,10 @@
 # TikTok Profile Analysis: @sirakinb
 
-**Generated:** 2026-02-21
-**Videos Analyzed:** 30 (most recent)
-**Total Videos on Profile:** 226
+**Generated:** 2026-02-21 (Updated 2026-03-16)
+**Videos Analyzed:** 30 (Feb 21) → 50 (Mar 16)
+**Total Videos on Profile:** 226 → 282
+**Latest Report:** See TIKTOK_PERFORMANCE_REPORT.md for full 30-day analysis
+**Script Rankings:** See SCRIPT_QUEUE_RANKED.md for data-driven filming priority
 
 ---
 
@@ -12,8 +14,8 @@
 |--------|-------|
 | **Username** | @sirakinb |
 | **Display Name** | Aki |
-| **Followers** | 1,531 |
-| **Total Videos** | 226 |
+| **Followers** | 1,758 (was 1,531 on Feb 21, +14.8%) |
+| **Total Videos** | 282 (was 226 on Feb 21) |
 | **Bio** | Top Vibe Coder · Building Systems and Software with AI · Founder @Pentridge Media |
 | **Bio Link** | skool.com/vibecodepioneers |
 | **Verified** | No |
