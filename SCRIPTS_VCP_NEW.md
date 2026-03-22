@@ -1,417 +1,447 @@
 # Vibe Code Pioneers — Scripts Batch 3
-**Source:** TikTok performance data (Feb 14–Mar 16, 2026) + VCP community topics
+**Source:** TikTok performance data (Feb 14–Mar 16, 2026) + VCP Sessions 10-13
 **Style:** Builder sharing what he knows | **Length:** 45-75 sec | **Format:** Talking head (teleprompter)
 **Primary Platform:** TikTok (cross-post to IG Reels, YouTube Shorts, LinkedIn)
 **Data-Backed:** All scripts designed around top-performing content patterns from @sirakinb analytics
 
 ---
 
-## SCRIPT 17: "Cursor vs Claude Code vs Codex — Which One Are You On?"
-**Category:** Platform Comparison | **Hook:** Question Flip | **Length:** 45-60 sec
+## SCRIPT 17: "I Set Up a Build Before Bed and Woke Up to a Finished App"
+**Category:** Autonomous Building | **Hook:** Story Open | **Length:** 50-65 sec
 **Status:** NOT YET FILMED
-**Predicted Performance:** HIGH (opinion-comparison = your #1 format, 1,797 views on similar video)
+**Predicted Performance:** HIGH (real story + mind-blowing result + practical = top combo)
 
 **HOOK:**
-- AUDIO: "Cursor, Claude Code, or Codex -- which one are you **actually** using right now?"
-- TEXT ON SCREEN: "Cursor vs Claude Code vs Codex — pick one"
-- VISUAL: Count on three fingers, then open palms like "which is it?" Direct eye contact, slight lean in.
+- AUDIO: "I set up a build before **bed**. Woke up. The entire app was **done** -- auth, payments, **everything**."
+- TEXT ON SCREEN: "went to sleep. woke up to a finished app."
+- VISUAL: Act like you're setting up the phone, then lean back with genuine disbelief. Hands up like "I'm not kidding."
 
 **CAPTION:**
-Three tools. Three different philosophies. I use all of them but not for the same thing. Here's how I actually decide which one to open.
+PRD. User stories. Ralph loop. Sleep. Wake up. App is built — auth, payments, the whole thing. This is where autonomous building is right now. And I still can't believe it works.
 
-#cursor #claudecode #codex #vibecoding #aitools #buildanapp
+#ralphloop #autonomousbuilding #vibecoding #cursor #claudecode #buildanapp #ai
 
 **SCRIPT:**
 
-Cursor, Claude Code, or Codex -- which one are you **actually** using right now?
+I set up a build before **bed**.
+Woke up.
+The entire app was **done** -- auth, payments, **everything**.
 
-Because here's the thing.
+I'm not exaggerating.
 
-These three tools look like they do the **same** thing
-but they're built on completely different **philosophies**.
+Here's what I did.
 
-**Cursor** is your IDE.
-It's where you **live**.
-You're in the code, you're editing files,
-you're building features in **real time**.
+I wrote a **PRD** -- a product requirements document.
+Broke it into **28** user stories.
+Each one a specific task the AI needs to **complete**.
 
-**Claude Code** is your terminal agent.
-It's not an IDE -- it's an **operator**.
-You give it a task and it **goes**.
-It reads your codebase, makes decisions,
-and executes **autonomously**.
+Then I triggered what's called a **Ralph loop**.
 
-**Codex** is OpenAI's version of that.
-Cloud-based, runs in the **background**,
-spins up its own environment.
+It's a script that mimics how an **engineering team** works.
+It picks up a user story, **implements** it,
+pushes it, picks up the **next** one,
+implements it, pushes it.
 
-Here's how I actually use them.
+Over and over until it's **done**.
 
-**Cursor** for the daily build.
-**Claude Code** for complex, multi-file tasks
-where I need it to **think** across the whole project.
-**Codex** when I want to run something
-and come back to it **later**.
+And because every user story starts
+with a **fresh** context window,
+the AI doesn't degrade.
+It stays **sharp** the whole time.
 
-Different tools. Different jobs.
+I set it off, went to **bed**.
+Woke up -- the app had **auth**,
+it had **payments**, it had a full **curriculum**.
 
-Stop trying to pick **one**.
+Two and a half **hours** of autonomous building
+while I was asleep.
 
-**CTA:** "Drop which one you're using most right now -- Cursor, Claude Code, or Codex. Go."
+This is not where things are **going**.
+This is where things **are**.
+
+**CTA:** "Save this. I'm dropping a full walkthrough of the Ralph loop setup in the group this week."
 
 ---
 
-## SCRIPT 18: "Your App is One API Key Away From Being a Real Business"
-**Category:** Builder Advice | **Hook:** Hard Number + Demystifier | **Length:** 45-60 sec
+## SCRIPT 18: "Why Your AI Gets Dumber the Longer You Talk to It"
+**Category:** Technical Insight | **Hook:** Nobody Talks About This | **Length:** 45-60 sec
 **Status:** NOT YET FILMED
-**Predicted Performance:** HIGH (Stripe video got 638 views + 50 likes, APIs explained got 663 views + 58 likes)
+**Predicted Performance:** HIGH (counterintuitive insight + practical fix = strong engagement)
 
 **HOOK:**
-- AUDIO: "**One** API key. That's the difference between a project and a **business**."
-- TEXT ON SCREEN: "1 API key = real business"
-- VISUAL: Hold up one finger. Dead serious face. Then shift to teacher energy.
+- AUDIO: "**Stop**. If you've been prompting your AI for more than **15 minutes**, your outputs are already getting **worse**."
+- TEXT ON SCREEN: "15 minutes. that's when your AI starts failing."
+- VISUAL: Hand up in stop gesture, lean towards camera with urgency. Then tap temple.
 
 **CAPTION:**
-You built the app. It works. But it's still a project until you connect it to money. One Stripe API key, 20 minutes of setup, and you're collecting payments. Stop building for free.
+It's called context rot. The more you dump into one conversation, the worse the outputs get. The fix is dead simple — and it'll change how you build immediately.
 
-#stripe #api #vibecoding #buildanapp #monetization #saas
+#contextwindow #contextrot #vibecoding #cursor #claudecode #aitools #prompting
 
 **SCRIPT:**
 
-**One** API key. That's the difference between a project and a **business**.
+**Stop**.
+If you've been prompting your AI
+for more than **15 minutes**,
+your outputs are already getting **worse**.
 
-I see this all the time.
+It's called **context rot**.
 
-Someone builds an **incredible** app.
-It works. It looks great.
-Users love it.
+Here's what's happening.
 
-But they're not **charging** for it.
+Every time you prompt,
+every response the AI gives,
+it all stays in the **context window**.
 
-Here's the thing.
+And the more that fills up,
+the less **precise** the AI becomes.
 
-Connecting **Stripe** to your app
-takes about **20 minutes**.
+It starts **forgetting** things you told it.
+It starts making **contradictory** decisions.
+It starts writing code that **breaks** what it just built.
 
-You grab the API key.
-You set up a checkout flow.
-And now your app **collects money**.
+And most people think the AI is just **bad**.
+No -- the context is just **full**.
 
-That's it.
+Here's the fix.
 
-You don't need a fancy billing system **first**.
-You don't need three pricing tiers **first**.
-You don't need a terms of service page **first**.
+When you're building something complex,
+**break it into separate tasks**.
 
-You need **one** checkout button
-that connects to **one** Stripe account.
+Each task gets a **fresh** context window.
+Fresh context means the AI is **sharp** again.
 
-The difference between a **project** and a **business**
-is that a business has a way to get **paid**.
+That's why the Ralph loop works --
+every user story starts **clean**.
+No leftover context from the last task.
 
-If your app is live and there's no way
-for someone to pay you --
-you don't have a business.
+If your outputs are getting **worse**
+the longer you work on something,
+it's not the model.
 
-You have an expensive **hobby**.
+It's the **window**.
 
-**CTA:** "Is your app collecting payments yet? If not, that's your homework this week. Save this."
+Clear it. Start **fresh**.
+
+**CTA:** "How many of you have hit this and didn't know what was happening? Drop a comment."
 
 ---
 
-## SCRIPT 19: "AI Agents Just Got Access to Your Entire Google Workspace"
+## SCRIPT 19: "User Stories Beat Feature Lists Every Time"
+**Category:** Builder Workflow | **Hook:** Stop Doing This | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+**Predicted Performance:** HIGH (practical workflow + contrarian take = strong combo)
+
+**HOOK:**
+- AUDIO: "Feature lists are **bullshit**. If you're still handing your AI a list of features, you're doing it **wrong**."
+- TEXT ON SCREEN: "feature lists are killing your builds"
+- VISUAL: Dismissive wave on "bullshit," then lean towards camera with conviction.
+
+**CAPTION:**
+A feature list says "add auth." A user story says "as a new user, I need to create an account so I can save my progress." One gives the AI a task. The other gives it context. Guess which one builds better software.
+
+#userstories #prd #vibecoding #cursor #claudecode #buildanapp #softwaredevelopment
+
+**SCRIPT:**
+
+Feature lists are **bullshit**.
+If you're still handing your AI a list of features,
+you're doing it **wrong**.
+
+Here's the difference.
+
+A feature list says
+'add **authentication**.'
+
+A user story says
+'as a new user, I need to **create an account**
+so I can save my **progress**.'
+
+One gives the AI a **task**.
+The other gives it **context**.
+
+And context is everything when you're building
+with these **tools**.
+
+When I break a project into **user stories**,
+the AI builds like an **engineering team**.
+
+It takes one story.
+**Implements** it.
+Moves to the **next**.
+Implements it.
+
+Each one is **scoped**.
+Each one is **clear**.
+Each one has a **definition** of done.
+
+And because each story is its **own** task,
+the AI doesn't try to do **everything** at once
+and break your whole **codebase**.
+
+This is how real engineering teams have **always** worked.
+The AI is no different.
+
+Scope it. Story it. **Ship** it.
+
+**CTA:** "Next time you start a build, try writing 5 user stories instead of a feature list. You'll see the difference immediately."
+
+---
+
+## SCRIPT 20: "Software Is Becoming an Assembly Line"
 **Category:** AI & Emerging Tech | **Hook:** Urgency Frame | **Length:** 50-65 sec
 **Status:** NOT YET FILMED
-**Predicted Performance:** HIGH (Google Workspace video got 616 views + 39 likes; RentAHuman got 1,105)
+**Predicted Performance:** HIGH (big idea + practical grounding = shareworthy)
 
 **HOOK:**
-- AUDIO: "Your AI agent can now read your **emails**, book your **meetings**, and write your **docs**. All at the same time."
-- TEXT ON SCREEN: "AI just took over Google Workspace"
-- VISUAL: Lean in, eyes slightly wide, hands out like you're presenting something massive.
+- AUDIO: "Everything you knew about building software just **changed**. It's an assembly line now. And you don't need to write **code** to run it."
+- TEXT ON SCREEN: "everything you knew about building software is wrong"
+- VISUAL: Hands moving left to right like a conveyor belt. Lean towards camera on "you don't need to write code."
 
 **CAPTION:**
-Google Docs, Sheets, Calendar, Gmail, Slides. One MCP connection and your agent controls all of it. This isn't a demo. This is how I actually work now.
+You define the product. You write the user stories. You set up the environment. Then the agents build it — story by story, in a loop, until it's done. This is the new production model.
 
-#googleworkspace #aiagents #mcp #automation #vibecoding #claudecode
+#assemblyline #autonomousbuilding #vibecoding #claudecode #cursor #aiagents #futureofwork
 
 **SCRIPT:**
 
-Your AI agent can now read your **emails**,
-book your **meetings**,
-and write your **docs**.
+Everything you knew about building software
+just **changed**.
+It's an assembly line now.
+And you don't need to write **code** to run it.
 
-All at the **same** time.
+Here's what I mean.
 
-Here's what just happened.
+You start with a **product idea**.
+You write the **PRD** -- what it does, who it's for.
+You break it into **user stories**.
 
-Google opened up their **entire** workspace
-through MCP servers.
+Then you set up the **environment** --
+your database connection, your payments,
+your API keys, all through **MCP**.
 
-That means from **Cursor** or **Claude Code**,
-you can connect to Google Docs,
-Google Sheets, Calendar, Gmail, **Slides** --
+And then you trigger the **loop**.
 
-And your agent can **operate** across all of them.
+The agent picks up story **one**.
+Implements it. Pushes it.
+Picks up story **two**.
+Implements it. Pushes it.
 
-I'm not talking about a **demo**.
+Story after story until the app is **built**.
 
-I'm talking about telling your agent
-"check my calendar for **Thursday**,
-draft an email to the **client**,
-and update the project tracker in **Sheets**."
+You're not writing code.
+You're **designing** the product
+and **orchestrating** the build.
 
-And it **does** all three.
+That's a fundamentally different **skill**
+than what software development used to be.
 
-This is the shift from AI as a **tool**
-to AI as a **coworker**.
+And the people who figure out
+how to set up that **line** effectively --
+the PRD, the stories, the environment --
 
-The people who set this up **now**
-are going to have a massive advantage
-over everyone still copy-pasting
-between **tabs**.
+Those are the people shipping **10x faster**
+than everyone still typing code
+one file at a **time**.
 
-**CTA:** "Are you using MCP servers yet? If not, you're leaving hours on the table. Follow for the setup guide."
+**CTA:** "Does this change how you think about building? Let me know in the comments."
 
 ---
 
-## SCRIPT 20: "Stop Building Features. Start Building Distribution."
-**Category:** Business Strategy | **Hook:** Stop Doing This | **Length:** 45-60 sec
+## SCRIPT 21: "Skills vs Sub-Agents — Your AI Needs an Org Chart"
+**Category:** AI Architecture | **Hook:** Nobody Talks About This | **Length:** 50-65 sec
 **Status:** NOT YET FILMED
-**Predicted Performance:** HIGH (First 10 users = 657 views; Distribution topic = proven pattern)
+**Predicted Performance:** HIGH (new concept for most builders + practical framework = saves)
 
 **HOOK:**
-- AUDIO: "**Stop** adding features. Your app doesn't have a **feature** problem. It has a **distribution** problem."
-- TEXT ON SCREEN: "Stop adding features."
-- VISUAL: Hand up in stop gesture, then lean forward pointing at camera. Frustrated-to-teacher energy shift.
+- AUDIO: "**99%** of builders are running everything through one AI agent. That's why their builds keep **breaking**."
+- TEXT ON SCREEN: "99% of builders do this wrong"
+- VISUAL: Hold up one finger on "one agent," then draw invisible org chart in air. Lean towards camera.
 
 **CAPTION:**
-You've been building for weeks. The app has 15 features. And zero users. The problem isn't your product. It's that nobody knows it exists. Here's the fix.
+Skills are what your agent knows HOW to do. Sub-agents are team members with specific jobs. Understanding the difference is the unlock most builders are missing right now.
 
-#distribution #vibecoding #buildanapp #marketing #startup #growth
+#subagents #skills #claudecode #aiagents #vibecoding #aiarchitecture #cursor
 
 **SCRIPT:**
 
-**Stop** adding features.
+**99%** of builders are running everything
+through one AI agent.
+That's why their builds keep **breaking**.
 
-Your app doesn't have a **feature** problem.
-It has a **distribution** problem.
+Think about it like a **company**.
 
-I watch this happen **every** week.
+**Skills** are what a person knows how to do.
+Like writing **emails**, or building a **frontend**,
+or creating a **PRD**.
 
-Someone comes into the community and says
-'I've been building for **two months**.
-I just added my **fifteenth** feature.'
+A **sub-agent** is the actual **person**.
+The marketer. The ops manager.
+The engineer.
 
-And I ask -- how many **users** do you have?
+And that sub-agent might have
+**multiple** skills.
 
-**Zero**.
+So in practice --
 
-Here's the truth nobody wants to hear.
+You have a **main** agent.
+That's your CEO.
 
-**Nobody** cares how many features you have
-if they don't know your app **exists**.
+It delegates to **sub-agents** --
+one handles your **database** setup,
+one handles your **frontend**,
+one handles your **testing**.
 
-So here's what I tell everyone.
+And each of those has **skills**
+that define what it's good at.
 
-For every **hour** you spend building,
-spend **thirty minutes** on distribution.
+But here's the real reason this matters.
 
-Post about what you're building.
-Share a screenshot. Share a bug you **fixed**.
-Share the **problem** your app solves.
+Every sub-agent gets its **own** context window.
+So instead of one agent trying to hold
+**everything** in its head at once --
 
-Because the algorithm doesn't care
-about your **code**.
+You have **specialized** agents
+each focused on their **lane**.
 
-It cares about your **content**.
+Better context. Better **output**.
+Faster **builds**.
 
-And your content is what gets your app
-in front of the people who **need** it.
+Anthropic, Codex, even Antigravity --
+they're all building around this **pattern** now.
 
-Build the audience **while** you build the product.
-Not after.
+This is the skill set to **develop**.
 
-**CTA:** "What's your distribution plan? If you don't have one, drop a comment and I'll help you think through it."
+**CTA:** "Are you using sub-agents yet or running everything through one agent? Drop where you're at."
 
 ---
 
-## SCRIPT 21: "The $0 Tech Stack That Actually Works"
-**Category:** Cost Hack | **Hook:** Hard Number | **Length:** 50-65 sec
+## SCRIPT 22: "Agents as a Backend — The 2026 Shift Nobody's Talking About"
+**Category:** AI & Emerging Tech | **Hook:** Urgency Frame | **Length:** 50-65 sec
 **Status:** NOT YET FILMED
-**Predicted Performance:** HIGH (cost hacks consistently overperform; Cursor bill video = 577 views)
+**Predicted Performance:** HIGH (trend prediction + practical = highly shareable)
 
 **HOOK:**
-- AUDIO: "**Zero** dollars a month. That's what my tech stack costs to start building."
-- TEXT ON SCREEN: "$0/month tech stack"
-- VISUAL: Hold up a zero with your hand. Confident, sharing-a-secret energy.
+- AUDIO: "GPT wrappers are **dead**. If you're still building chat interfaces on top of ChatGPT, you're already **behind**."
+- TEXT ON SCREEN: "GPT wrappers are dead."
+- VISUAL: Dismissive wave on "dead," then lean towards camera on "you're already behind."
 
 **CAPTION:**
-You don't need to spend $200/month on AI tools to start building. Here's the free stack I'd use if I was starting from scratch today. Save this.
+GPT wrappers put a chat interface on top of ChatGPT. Agent apps put an autonomous agent INSIDE the product. It can act, decide, and operate — not just answer questions. This is the next wave.
 
-#freetechstack #vibecoding #cursor #costhack #buildanapp #aitools #free
+#agentapps #gptwrappers #claudecode #agentsdk #vibecoding #saas #2026
 
 **SCRIPT:**
 
-**Zero** dollars a month.
-That's what my tech stack costs to **start** building.
+GPT wrappers are **dead**.
+If you're still building chat interfaces
+on top of ChatGPT, you're already **behind**.
 
-Everyone thinks you need
-**Cursor Pro**, **Claude Max**, **Replit** paid --
+Here's what's replacing them.
+Chat interface, specific **vertical**,
+powered by an LLM underneath.
 
-No.
+That still **works**.
+But it's not what's coming **next**.
 
-Here's the **free** stack.
+What's coming next are **agent-powered apps**.
 
-**Cursor** -- the free tier gives you access
-to the editor and limited AI completions.
-That's enough to **start**.
+And the difference is **massive**.
 
-**Claude.ai** -- free tier.
-Use it for **planning** and architecture
-before you write a single line of code.
+A GPT wrapper **answers** questions.
+An agent app **takes action**.
 
-**Supabase** -- free tier.
-Database, auth, and storage.
-That handles your **entire** backend.
+It can check your **database**.
+Update your **records**.
+Process a **payment**.
+Send a **notification**.
 
-**Vercel** -- free tier.
-**Deploy** your app to the internet in one click.
+All autonomously, inside the **product**.
 
-**GitHub** -- free.
-Version control so you don't **lose** everything.
+And here's why this is about to **explode**.
 
-That's a full production stack
-for **zero** dollars.
+Anthropic just launched the **Agent SDK**.
+It's the same framework
+they used to build **Claude Code**.
 
-Now -- when you start **growing**,
-yes, upgrade.
-The paid tiers are **worth** it.
+And they open-sourced it
+so anyone can build **agent-native** apps with it.
 
-But don't let the cost of tools
-be the reason you don't **start**.
+Claude Cowork -- their new workspace product --
+was built in a **week and a half**
+using this exact **SDK**.
 
-The tools are free.
-The only cost is your **time**.
+The tools to build agent apps
+are **here** right now.
 
-**CTA:** "Save this stack. And if you're already building, drop your monthly tool spend in the comments -- I'll tell you where you can cut."
+And barely anyone has **started**.
+
+**CTA:** "This is the window. If you want a walkthrough of the Agent SDK, follow — I'm building with it right now."
 
 ---
 
-## SCRIPT 22: "Why I Stopped Using One AI Model for Everything"
-**Category:** AI Tools / Workflow | **Hook:** Story Open | **Length:** 50-65 sec
+## SCRIPT 23: "Anthropic Open-Sourced the Clay That Built Claude Code"
+**Category:** AI Tools / Technical | **Hook:** Nobody Talks About This | **Length:** 50-65 sec
 **Status:** NOT YET FILMED
-**Predicted Performance:** HIGH (tool comparison + personal workflow = top format combo)
+**Predicted Performance:** HIGH (insider knowledge + practical application = strong)
 
 **HOOK:**
-- AUDIO: "I used to use **one** AI model for everything. It was the biggest mistake in my workflow."
-- TEXT ON SCREEN: "I stopped using one AI model"
-- VISUAL: Slight head shake, hand gesture like brushing away the old approach. Then lean in with the new one.
+- AUDIO: "Anthropic just **open-sourced** the exact framework they used to build Claude Code. And **nobody** is paying attention."
+- TEXT ON SCREEN: "they just open-sourced Claude Code's framework"
+- VISUAL: Lean towards camera, hands together, like sharing insider knowledge nobody else has.
 
 **CAPTION:**
-ChatGPT for thinking. Claude for building. Gemini for research. Perplexity for real-time data. Using one model for everything is like using a hammer for every job. Here's my actual stack.
+The Agent SDK is how Anthropic builds their own internal agents. They kept starting from scratch every time they needed a new one, so they built a framework. Then they gave it to everyone. This changes the game.
 
-#aiworkflow #chatgpt #claude #gemini #perplexity #vibecoding #aitools
+#agentsdk #anthropic #claudecode #vibecoding #opensource #aitools #buildanapp
 
 **SCRIPT:**
 
-I used to use **one** AI model for everything.
-It was the biggest mistake in my **workflow**.
+Anthropic just **open-sourced**
+the exact framework they used to build Claude Code.
+And **nobody** is paying attention.
 
-Here's what I do **now**.
+Every time their team needed a **new** agent,
+they were starting from **scratch**.
 
-**ChatGPT** for brainstorming and thinking **wide**.
-When I need to explore ideas,
-when I need to think through a **concept** --
-GPT is the most creative.
+So they took the core of what made
+Claude Code **work** --
+the architecture, the patterns,
+the way it **reasons** and **acts** --
 
-**Claude** for building.
-The code is **cleaner**.
-It handles complex projects **better**.
-When I'm in Cursor or Claude Code,
-Claude is doing the heavy lifting.
+And they packaged it into a **framework**.
 
-**Gemini** for anything that touches **Google**.
-Research, deep dives, working across
-Docs and Sheets and my email.
+They call it the **Agent SDK**.
 
-**Perplexity** for real-time **information**.
-If I need current data, market research,
-or anything that happened **this week** --
-Perplexity sits on top of the internet.
+And then they **open-sourced** it.
 
-The mistake most people make
-is picking **one** model
-and forcing it to do **everything**.
+So now **you** can use the same foundation
+that Claude Code is built on
+to create your **own** agents.
 
-That's like using a **hammer**
-for every single job.
+Your own agent for **customer support**.
+Your own agent for **data processing**.
+Your own agent for **internal ops**.
 
-Match the model to the **task**.
+And it's more straightforward
+than you would **think**.
 
-Your workflow gets **10x** faster
-when you stop asking one tool
-to be good at **everything**.
+Claude **Cowork** -- the workspace product
+they just launched --
+was built in a **week and a half**
+by their team using this **SDK**.
 
-**CTA:** "What's your AI stack look like? Drop it in the comments -- I want to see what combos people are running."
+The framework is **there**.
+The documentation is **there**.
+The examples are **there**.
 
----
+This is not something
+only engineers at Anthropic can **use**.
 
-## SCRIPT 23: "You're Not a Developer. You're a Builder. That's Better."
-**Category:** Builder Identity | **Hook:** Myth Killer | **Length:** 45-55 sec
-**Status:** NOT YET FILMED
-**Predicted Performance:** HIGH (builder identity content = strong engagement; LinkedIn full-stack builder = 636 views)
+This is something **builders** can use.
+Right now.
 
-**HOOK:**
-- AUDIO: "You're **not** a developer. And that's actually a **good** thing."
-- TEXT ON SCREEN: "You're NOT a developer. (that's good)"
-- VISUAL: Slow head shake on "not," then break into a confident smile on "good thing." Lean in.
-
-**CAPTION:**
-LinkedIn just created a new role: full-stack builder. Not developer. Builder. The people who understand business, design, AND technology are going to run circles around pure coders. The shift is here.
-
-#builder #fullstackbuilder #vibecoding #developer #ai #linkedin #futureofwork
-
-**SCRIPT:**
-
-You're **not** a developer.
-And that's actually a **good** thing.
-
-There's a new category emerging.
-LinkedIn literally created a role for it.
-
-The **full-stack builder**.
-
-Not someone who writes code all day.
-Someone who understands the **whole** picture.
-
-The **business** model.
-The **user** experience.
-The **technology** stack.
-And how to use AI to glue it all **together**.
-
-A traditional developer writes **code**.
-A builder ships **products**.
-
-And right now,
-builders who understand **business**
-are more valuable
-than developers who only understand **code**.
-
-Because AI is writing the code.
-
-What it **can't** do
-is decide what to build,
-who to build it **for**,
-and how to get it in front of **people**.
-
-That's the builder's job.
-
-And if that's **you** --
-if you're the person who sees the whole **picture** --
-you're in the best position
-you've **ever** been in.
-
-**CTA:** "Are you a developer or a builder? Drop it in the comments. I want to know where you fall."
+**CTA:** "I'm building an agent app with the SDK right now. Want to see the process? Follow — I'm documenting everything."
 
 ---
 
@@ -421,9 +451,9 @@ you've **ever** been in.
 **Predicted Performance:** MODERATE-HIGH (Google Workspace + MCP-adjacent content performed well)
 
 **HOOK:**
-- AUDIO: "**Nobody** is talking about the thing that completely changed how I build."
-- TEXT ON SCREEN: "This changed everything for me"
-- VISUAL: Lean in close, genuine excitement energy, finger pointing at camera.
+- AUDIO: "This **one** connection changed everything about how I build. And it takes **10 minutes** to set up."
+- TEXT ON SCREEN: "10 minutes to set up. changed everything."
+- VISUAL: Hold up one finger, lean towards camera. Genuine "you need to know this" energy.
 
 **CAPTION:**
 MCP servers let your AI agent talk to any tool — GitHub, databases, APIs, Google Workspace. One connection and your agent can DO things, not just talk about them. This is the upgrade most builders are sleeping on.
@@ -432,8 +462,9 @@ MCP servers let your AI agent talk to any tool — GitHub, databases, APIs, Goog
 
 **SCRIPT:**
 
-**Nobody** is talking about the thing
-that completely changed how I build.
+This **one** connection changed everything
+about how I build.
+And it takes **10 minutes** to set up.
 
 **MCP servers**.
 
@@ -479,68 +510,66 @@ to copy-pasting between tools.
 
 ---
 
-## SCRIPT 25: "The PRD Trick That Saves Me Hours Every Build"
-**Category:** Builder Workflow | **Hook:** Hard Number | **Length:** 45-55 sec
+## SCRIPT 25: "The Real Bottleneck Isn't Leads — It's What Happens After the Call"
+**Category:** Client Work / Case Study | **Hook:** Myth Killer | **Length:** 50-65 sec
 **Status:** NOT YET FILMED
-**Predicted Performance:** HIGH (PRD video got 526 views + 11.8% engagement — top engagement rate in the dataset)
+**Predicted Performance:** HIGH (real numbers + real client story + contrarian = strong)
 
 **HOOK:**
-- AUDIO: "**Twenty** minutes of planning just saved me **ten** hours of building."
-- TEXT ON SCREEN: "20 min planning = 10 hours saved"
-- VISUAL: Hold up fingers showing 20, then 10. Genuine surprise energy, like you're still amazed by the math.
+- AUDIO: "**100** calls a day. **15** answered. **85** going straight to voicemail. That was the problem I walked into."
+- TEXT ON SCREEN: "100 calls. 15 answered. 85 lost."
+- VISUAL: Count on fingers — 100, 15, 85. Lean towards camera on "that was the problem."
 
 **CAPTION:**
-A PRD isn't a corporate document. It's a cheat code. 20 minutes writing what your app does, who it's for, and what features it needs = 10x cleaner build. Stop winging it.
+Property management company. Small team. 100 calls a day, 85 going to voicemail. Voice agent now answers every single one. Every call gets a transcript. Every lead gets captured. The bottleneck was never leads — it was capacity.
 
-#prd #vibecoding #cursor #claudecode #planning #buildanapp #productivity
+#voiceagent #propertymanagement #aicasestudy #automation #vibecoding #aiagents
 
 **SCRIPT:**
 
-**Twenty** minutes of planning
-just saved me **ten** hours of building.
+**100** calls a day.
+**15** answered.
+**85** going straight to voicemail.
+That was the problem I walked into.
 
-Here's the cheat code
-that most builders **skip**.
+That was the situation
+at a property management company I worked with.
 
-Before I write a single line of code,
-I write a **PRD**.
+Small **team**.
+Massive call **volume**.
+Eighty-five calls a day just going to **voicemail**.
 
-Product Requirements Document.
+After hours. During **lunch**.
+When the team was already on another **call**.
 
-Sounds corporate.
-It's **not**.
+So we set up a **voice agent**.
 
-It's just a simple doc that says:
+Now every single call gets **answered**.
 
-**What** does this app do?
-**Who** is it for?
-What are the **core** features?
-What does the tech stack look like?
+And even if the AI isn't **perfect** --
+because it's still AI --
+at least every call has a **transcript**.
 
-That's **it**.
+Every question is **documented**.
+Every lead is **captured**.
 
-And here's why it matters.
+And that opened up the **next** problem.
 
-When you hand that PRD to **Cursor** or **Claude Code**,
-the AI builds **exactly** what you described.
+Because now all these leads are coming **in**,
+the bottleneck shifts to the **application process**.
+Onboarding. Follow-ups. **Scheduling**.
 
-No guessing.
-No going back and forth.
-No 'that's not what I **meant**.'
+And that becomes the next thing
+you can **automate**.
 
-The PRD is your **blueprint**.
+That's how client work **actually** goes.
+You solve **one** bottleneck
+and it reveals the **next** one.
 
-Without it,
-you're asking AI to read your **mind**.
+And every bottleneck is an **opportunity**
+to build something.
 
-And AI is good --
-but it's not a **mind reader**.
-
-**Twenty** minutes.
-That's all it takes.
-And it will save you **days**.
-
-**CTA:** "Want my PRD template? Follow and drop 'PRD' in the comments. I'll send it."
+**CTA:** "What's the bottleneck in your business or your client's business? That's your first build. Drop it below."
 
 ---
 
@@ -550,9 +579,9 @@ And it will save you **days**.
 **Predicted Performance:** MODERATE-HIGH (practical listicles with numbers perform consistently)
 
 **HOOK:**
-- AUDIO: "If your app doesn't have these **three** things, you're not ready to launch."
-- TEXT ON SCREEN: "3 things every app needs on day 1"
-- VISUAL: Hold up three fingers. Serious energy, building to teacher mode.
+- AUDIO: "**Don't** launch your app without these **3** things. I'm serious -- you're **not** ready."
+- TEXT ON SCREEN: "don't launch without these 3 things"
+- VISUAL: Hold up three fingers. Dead serious face, lean towards camera on "you're not ready."
 
 **CAPTION:**
 Auth, payments, analytics. That's it. Everything else is a feature you can add later. But these three are non-negotiable before you put your app in front of real users. Save this.
@@ -561,8 +590,8 @@ Auth, payments, analytics. That's it. Everything else is a feature you can add l
 
 **SCRIPT:**
 
-If your app doesn't have these **three** things,
-you're not ready to **launch**.
+**Don't** launch your app without these **3** things.
+I'm serious -- you're **not** ready.
 
 **Number one. Authentication.**
 
@@ -608,68 +637,61 @@ Get them in **first**.
 
 ---
 
-## SCRIPT 27: "I Built an App in a Weekend That Makes Money While I Sleep"
-**Category:** Builder Story | **Hook:** Story Open + Hard Number | **Length:** 55-70 sec
+## SCRIPT 27: "Your $200/Month AI Bill Isn't an Expense — It's a Staff Member"
+**Category:** Builder Mindset | **Hook:** Hard Number + Myth Killer | **Length:** 45-60 sec
 **Status:** NOT YET FILMED
-**Predicted Performance:** HIGH (story + proof + aspirational = strong combo)
+**Predicted Performance:** HIGH (cost reframe + contrarian = strong engagement)
 
 **HOOK:**
-- AUDIO: "I built an app in a **weekend** that now makes money while I **sleep**."
-- TEXT ON SCREEN: "built in a weekend. makes money while I sleep."
-- VISUAL: Casual lean back, palms up, real-talk energy. Then lean forward to share how.
+- AUDIO: "You're spending **$200** a month on AI and calling it expensive. Meanwhile it just built an entire **app** while you **slept**."
+- TEXT ON SCREEN: "$200/month. it built an app while I slept."
+- VISUAL: Wince on "expensive," then lean back with a knowing smile. Shift to confident energy.
 
 **CAPTION:**
-This isn't a flex. This is what's possible when you combine vibe coding tools with a clear business model. Weekend build. Stripe connected. Revenue on autopilot. Here's the formula.
+If your AI subscription is building whole apps while you sleep, handling multi-file refactors in minutes, and deploying to production autonomously — that's not a subscription. That's a hire. And it's the cheapest one you'll ever make.
 
-#passiveincome #vibecoding #saas #buildanapp #stripe #weekendproject #cursor
+#claudemax #aitools #vibecoding #claudecode #cursor #buildanapp #investment
 
 **SCRIPT:**
 
-I built an app in a **weekend**
-that now makes money while I **sleep**.
+You're spending **$200** a month on AI
+and calling it expensive.
+Meanwhile it just built an entire **app**
+while you **slept**.
 
-And before you think this is a flex --
-it's **not**.
+It built an entire app in **two and a half hours**
+while I was asleep.
 
-This is what's **possible** right now
-if you follow a simple formula.
+Auth. Payments. Full **curriculum**.
+Twenty-eight user stories **implemented**.
 
-Step one.
-Pick a **problem** people already pay to solve.
-Don't invent a problem.
-Find an **existing** one.
+If I hired a developer to do that,
+we're talking **thousands**.
 
-Step two.
-Write a **PRD** in twenty minutes.
-What the app does. Who it's for.
-Three core features. **Max**.
+And that's just **one** build.
 
-Step three.
-Build it in **Cursor** over the weekend.
-Not a month. A **weekend**.
-Ship an MVP, not a masterpiece.
+When I'm paying for Claude Max,
+I'm not paying for a **chatbot**.
+I'm paying for a **staff member**
+that works at 2 AM and doesn't take **breaks**.
 
-Step four.
-Connect **Stripe**.
-Put a price on it.
-Even ten dollars a month.
+And it's the same with **Cursor**.
+Same with any of these tools.
 
-Step five.
-Post about it.
-Share the **build**. Share the **problem** it solves.
-Let the algorithm do the **distribution**.
+The question isn't
+'can I **afford** this subscription?'
 
-That's the formula.
+The question is
+'what is this subscription **producing**?'
 
-Problem. PRD. Build. Stripe. **Content**.
+If it's helping you ship **faster**,
+if it's building things that make you **money**,
+if it's saving you **hours** every week --
 
-The tools are there.
-The models are there.
-The infrastructure is there.
+That's not an **expense**.
+That's the best hire you've ever **made**.
 
-The only thing missing is **you** starting.
-
-**CTA:** "What problem would you solve with a weekend build? Drop it in the comments. Best idea gets a shoutout."
+**CTA:** "What's your monthly AI spend? And what's it actually producing for you? Drop it below — I'm curious."
 
 ---
 
@@ -679,9 +701,9 @@ The only thing missing is **you** starting.
 **Predicted Performance:** HIGH (agent era content = 741 views previously; MoltBook = 683 views)
 
 **HOOK:**
-- AUDIO: "We just entered the **agent era**. And most people have no idea what that means for their **job**."
-- TEXT ON SCREEN: "The agent era just started."
-- VISUAL: Dead serious face, slow lean in, hands clasped. Then open up as you explain.
+- AUDIO: "If you're not using AI **agents** yet, you're already **behind**. And the gap is getting wider every single **week**."
+- TEXT ON SCREEN: "you're already behind."
+- VISUAL: Dead serious, slow lean towards camera, hands clasped. Then open up as you explain.
 
 **CAPTION:**
 Cursor has background agents. Claude Code runs autonomously. Codex spins up its own environment. Notion has agent teams. This isn't a feature update. This is a fundamental shift in how software gets built. And if you're not paying attention, you're falling behind.
@@ -690,9 +712,10 @@ Cursor has background agents. Claude Code runs autonomously. Codex spins up its 
 
 **SCRIPT:**
 
-We just entered the **agent era**.
-And most people have no idea
-what that means for their **job**.
+If you're not using AI **agents** yet,
+you're already **behind**.
+And the gap is getting wider
+every single **week**.
 
 Here's what happened in the last **few weeks**.
 
@@ -740,9 +763,9 @@ Not next year. **Now**.
 **Predicted Performance:** MODERATE-HIGH (reality check + practical fix = strong combo)
 
 **HOOK:**
-- AUDIO: "Your vibe-coded app keeps **breaking** and nobody will tell you **why**."
-- TEXT ON SCREEN: "Why your app keeps breaking"
-- VISUAL: Slight lean back, knowing look, like you've seen this a hundred times. Then lean in with the answer.
+- AUDIO: "You're vibe coding completely **wrong**. And that's exactly why your app keeps **breaking**."
+- TEXT ON SCREEN: "you're vibe coding wrong. that's why it breaks."
+- VISUAL: Lean towards camera, slight head shake. Knowing look, then shift to "here's the fix" energy.
 
 **CAPTION:**
 It's not the AI. It's not the platform. It's that you're building without a plan and letting the AI make architectural decisions for you. Here's the fix that takes 10 minutes.
@@ -751,8 +774,8 @@ It's not the AI. It's not the platform. It's that you're building without a plan
 
 **SCRIPT:**
 
-Your vibe-coded app keeps **breaking**
-and nobody will tell you **why**.
+You're vibe coding completely **wrong**.
+And that's exactly why your app keeps **breaking**.
 
 It's not the AI.
 It's not **Cursor** or **Lovable** or **Replit**.
@@ -794,156 +817,295 @@ Specific prompts create **solid** ones.
 
 ---
 
-## SCRIPT 30: "The LinkedIn Post That Got Me My Last 3 Clients"
-**Category:** Distribution / Personal Brand | **Hook:** Hard Number + Story Open | **Length:** 50-65 sec
+## SCRIPT 30: "Fresh Context Beats Long Context Every Time"
+**Category:** Technical Insight | **Hook:** Stop Doing This | **Length:** 45-55 sec
 **Status:** NOT YET FILMED
-**Predicted Performance:** HIGH (personal story + hard number + actionable = top combo)
+**Predicted Performance:** HIGH (counterintuitive + practical fix = high save rate)
 
 **HOOK:**
-- AUDIO: "One **LinkedIn** post got me my last **three** clients."
-- TEXT ON SCREEN: "1 LinkedIn post = 3 clients"
-- VISUAL: Hold up one finger, then three. Genuine surprise energy, then settle into sharing the formula.
+- AUDIO: "**Stop**. If you've been in the same AI chat for over **30 prompts**, you need to hear this. You're making it **worse**."
+- TEXT ON SCREEN: "30+ prompts = your AI is failing"
+- VISUAL: Hand up in stop gesture, lean towards camera, tap temple on "you need to hear this."
 
 **CAPTION:**
-I didn't DM anyone. I didn't run ads. I posted about a problem I solved, showed the result, and let people come to me. Distribution isn't about being loud. It's about being useful in public. Here's exactly what I posted.
+Every message fills the context window. The fuller it gets, the worse the output. Fresh context = sharp AI. This is why I clear the window after every task and why autonomous loops start clean every cycle.
 
-#linkedin #clientacquisition #distribution #personalbrand #vibecoding #buildanapp
+#contextwindow #prompting #vibecoding #cursor #claudecode #aitools #productivity
 
 **SCRIPT:**
 
-One **LinkedIn** post
-got me my last **three** clients.
+**Stop**.
+If you've been in the same AI chat
+for over **30 prompts**,
+you need to hear this.
+You're making it **worse**.
 
-I didn't DM anyone.
-I didn't run **ads**.
-I didn't pitch in anyone's **comments**.
+Here's the pattern.
 
-Here's what I **did**.
+You start a new chat.
+First few prompts -- the output is **great**.
+Sharp. Precise. Exactly what you **wanted**.
 
-I built something for a client.
-It solved a **real** problem.
-I posted about the **problem**,
-showed the **solution**,
-and shared what I **learned**.
+Thirty prompts in --
+it's **forgetting** things you told it.
+It's contradicting **itself**.
+It's writing code that breaks
+what it built **ten minutes** ago.
 
-That's it.
+That's not the model getting **dumb**.
+That's the context window getting **full**.
 
-Three people reached out and said
-'can you build something like that for **me**?'
+So here's what I do.
 
-This is what distribution looks like
-when you're a **builder**.
+One task per **conversation**.
+When the task is done, I start **fresh**.
 
-You don't need to be a **salesman**.
-You need to be useful in **public**.
+If I'm building a feature,
+that's **one** conversation.
+If I'm fixing a bug,
+that's a **new** conversation.
+If I'm refactoring a file,
+**new** conversation.
 
-Show the **problem** you solved.
-Show the **tool** you used.
-Show the **result**.
+Fresh context, sharp **output**.
+Every single time.
 
-Every build you do
-is a piece of **content**.
+And this is exactly why **autonomous loops** work.
+Every cycle starts **clean**.
+No leftover context from the last **task**.
 
-Every problem you solve
-is a potential **client magnet**.
+The AI stays sharp because you **let** it.
 
-Stop separating building from **marketing**.
-They're the **same** thing.
-
-Build in public.
-Share what you **learn**.
-And let the work bring the **clients** to you.
-
-**CTA:** "When's the last time you posted about something you built? If the answer is 'never,' start today. Follow for more."
+**CTA:** "Try this today. One task, one chat. Start fresh every time. You'll see the difference immediately."
 
 ---
 
-## SCRIPT 31: "I Spent $0 on Ads. Here's My Entire Growth Strategy."
-**Category:** Distribution / Growth | **Hook:** Hard Number + Myth Killer | **Length:** 55-70 sec
+## SCRIPT 31: "The Gap Is Widening — And It's Not About Skill"
+**Category:** Builder Mindset | **Hook:** Urgency Frame | **Length:** 45-60 sec
 **Status:** NOT YET FILMED
-**Predicted Performance:** HIGH ($0 hook = attention; growth strategy = saves + shares)
+**Predicted Performance:** HIGH (urgency + identity = strong engagement + shares)
 
 **HOOK:**
-- AUDIO: "I've spent **zero** dollars on ads. Ever. Here's how I grow."
-- TEXT ON SCREEN: "$0 on ads. here's my growth strategy."
-- VISUAL: Open palm showing zero, then count off the channels on your fingers. Confident, no-BS energy.
+- AUDIO: "**3 weeks** ago, autonomous builds weren't a thing. **Last week**, Claude Cowork didn't exist. If you blinked, you **missed** it."
+- TEXT ON SCREEN: "blinked? you missed it."
+- VISUAL: Count on fingers for each time frame. Hands apart showing widening gap. Lean towards camera.
 
 **CAPTION:**
-No paid ads. No cold DMs. No engagement pods. Just consistent content about the problems I solve. Here are the 4 channels that actually drive growth when you have zero budget.
+The people pulling ahead aren't smarter. They're just paying attention. The tools change every week. The capabilities double every month. Staying on the pulse IS the skill now.
 
-#growthhacking #zeroadspend #contentmarketing #distribution #vibecoding #personalbrand
+#aitools #vibecoding #futureofwork #builder #claudecode #cursor #mindset
 
 **SCRIPT:**
 
-I've spent **zero** dollars on ads.
-**Ever**.
+**3 weeks** ago, autonomous builds weren't a thing.
+**Last week**, Claude Cowork didn't exist.
+If you blinked, you **missed** it.
 
-Here's how I grow.
+Everything is moving so **fast**
+that the gap isn't between
+people who **can** code and people who **can't**.
 
-**Channel one. TikTok.**
-Short-form content about the **problems** I solve.
-Not about me.
-About the **problem**.
-The algorithm puts it in front of people
-who **have** that problem.
+It's between people who are staying
+on the **pulse** of what's happening
+and people who **aren't**.
 
-**Channel two. LinkedIn.**
-Every build, every lesson, every client win
-becomes a **post**.
-LinkedIn's algorithm favors **text** posts right now.
-A good post reaches thousands.
-For **free**.
+**Three weeks** ago,
+autonomous build loops weren't a thing
+most builders had **access** to.
 
-**Channel three. Community.**
-Vibe Code Pioneers on **Skool**.
-A free community where builders
-help each other.
-This builds **trust** at scale.
+**Two weeks** ago,
+the Agent SDK wasn't something
+you could just **install** and use.
 
-**Channel four. YouTube Shorts.**
-Cross-post from TikTok.
-Different audience, same **content**.
-Extra reach for **zero** extra work.
+**Last week**,
+Claude Cowork didn't **exist**.
 
-That's it.
-Four channels. **Zero** ad spend.
+Every week there's a new **capability**
+that changes what's **possible**.
 
-The playbook is simple.
+And the people who catch it **early**
+and start experimenting --
+they just move **away** faster.
 
-Talk about **problems**.
-Show **solutions**.
-Build **trust**.
-Let people come to **you**.
+It starts to feel like
+a completely different **reality**
+from people who checked out
+even a **month** ago.
 
-You don't need a marketing budget.
-You need a **content system**.
+This isn't about being a **genius**.
+It's about showing **up** every week
+and paying **attention**.
 
-**CTA:** "Which of these channels are you active on? Drop it below. And if the answer is zero, pick one and start this week."
+That's the whole **edge** right now.
+
+**CTA:** "What's the last tool or feature you discovered that changed how you build? Drop it below."
+
+---
+
+## SCRIPT 32: "Learn the Screwdriver Before You Grab the Jackhammer"
+**Category:** Builder Mindset | **Hook:** Story Open | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+**Predicted Performance:** HIGH (metaphor + practical wisdom = strong saves)
+
+**HOOK:**
+- AUDIO: "You want autonomous builds and **sub-agents**, but you can't explain why a fresh context window **matters**. Learn the **screwdriver** first."
+- TEXT ON SCREEN: "learn the screwdriver first."
+- VISUAL: Challenge face — lean towards camera, slight head tilt. Then mime screwdriver vs jackhammer.
+
+**CAPTION:**
+Autonomous loops, sub-agents, agent SDKs — they're powerful. But if you don't understand WHY a fresh context window matters, or HOW a user story should be scoped, the power tools won't save you. Fundamentals first.
+
+#fundamentals #vibecoding #claudecode #cursor #aitools #buildanapp #learning
+
+**SCRIPT:**
+
+You want autonomous builds and **sub-agents**,
+but you can't explain why a fresh context window **matters**.
+Learn the **screwdriver** first.
+
+Autonomous loops.
+Sub-agents running in **parallel**.
+Full apps built while you **sleep**.
+
+That's the **jackhammer**.
+
+But here's what actually matters.
+
+Do you understand **why**
+a fresh context window
+produces better **output**?
+
+Do you know **how** to write a user story
+that the AI can actually **implement**?
+
+Do you know **when** to use a skill
+versus **when** to use a sub-agent?
+
+Do you know **what** an MCP connection does
+and **why** it matters for your build?
+
+That's the **screwdriver**.
+
+And if you skip the screwdriver
+and go straight to the jackhammer,
+you're gonna make a **mess**.
+
+Because the autonomous loop
+is only as good as the **PRD** you wrote.
+
+The sub-agents are only as effective
+as how you **scoped** their tasks.
+
+The agent SDK is only useful
+if you understand what an agent
+actually **does**.
+
+Learn the **fundamentals**.
+Understand the **nuances**.
+Then pick up the power tools.
+
+Because once you do --
+you'll know exactly **how** to wield them.
+
+**CTA:** "What's one fundamental you wish you'd learned earlier? Drop it in the comments — let's help each other out."
+
+---
+
+## SCRIPT 33: "Jensen Huang Just Said Every SaaS Company Is Dead"
+**Category:** Breaking News / AI & Emerging Tech | **Hook:** Urgency Frame | **Length:** 55-70 sec
+**Status:** NOT YET FILMED | **PRIORITY: FILM IMMEDIATELY — breaking news from GTC yesterday**
+**Predicted Performance:** VERY HIGH (breaking news + Jensen quote + mainstream AI audience)
+
+**HOOK:**
+- AUDIO: "Jensen Huang just said the **software** you use every day is about to be **replaced**. And he compared this moment to the birth of **Linux**."
+- TEXT ON SCREEN: "Jensen just killed SaaS."
+- VISUAL: Dead serious, lean in, phone in hand like you just read the news. Eyes wide.
+
+**CAPTION:**
+GTC 2026. Yesterday. The CEO of NVIDIA said every software company is about to become an AI agent company. Not AI-assisted. AI-operated. Your apps won't just have features — they'll have agents that act for you. Adobe, Salesforce, SAP are already in. This is the biggest shift in software since the internet.
+
+#jensenhuang #nvidia #gtc2026 #openclaw #nemoclaw #agenticai #saas #ainews #artificialintelligence
+
+**SCRIPT:**
+
+Jensen Huang just said the **software** you use every day
+is about to be **replaced**.
+And he compared this moment
+to the birth of **Linux**.
+
+He said every **software** company
+is about to become an agentic company.
+
+Not AI-**assisted**.
+AI-**operated**.
+
+Here's what that means in plain English.
+
+Right now, you **log into** apps.
+You click buttons. You fill out forms.
+You do the **work** inside the software.
+
+What he's describing is a world
+where the software has **AI agents** inside it
+that do the work **for** you.
+
+Your CRM doesn't just store contacts --
+it **reaches out** to them.
+
+Your project manager doesn't just track tasks --
+it **assigns** and **completes** them.
+
+Your email doesn't just sit in your inbox --
+an agent **reads** it, **drafts** a response,
+and **schedules** the follow-up.
+
+And to prove this isn't just a **keynote** talking point,
+NVIDIA launched **NemoClaw** yesterday --
+enterprise infrastructure to make this **real**.
+
+**Adobe** is on board.
+**Salesforce** is on board.
+**SAP**, CrowdStrike, **Cisco** -- all in.
+
+He called this moment as big as **HTML**.
+As big as **Linux**.
+
+That's not hype.
+
+That's the CEO of a **trillion-dollar** company
+saying the way we use software
+is about to fundamentally **change**.
+
+**CTA:** "This is the biggest shift in software since the internet. Follow if you want to stay ahead of what's coming."
 
 ---
 
 ## Batch Summary
 
-| # | Title | Hook Type | Predicted Tier | Key Data Signal |
-|---|-------|-----------|---------------|-----------------|
-| 17 | Cursor vs Claude Code vs Codex | Question Flip | TOP | Opinion comparison = #1 format (1,797 views) |
-| 18 | One API Key = Business | Hard Number | TOP | Stripe (638) + APIs (663) = proven |
-| 19 | AI Agents + Google Workspace | Urgency Frame | TOP | Google Workspace (616) + agent content |
-| 20 | Stop Building Features | Stop Doing This | TOP | Distribution + builder advice = strong |
-| 21 | $0 Tech Stack | Hard Number | TOP | Cost hacks consistently overperform |
-| 22 | Multi-Model Workflow | Story Open | TOP | Tool comparison + personal workflow |
-| 23 | Builder Not Developer | Myth Killer | HIGH | Builder identity (636) + opinion |
-| 24 | MCP Servers Explained | Nobody Talks About This | HIGH | Google Workspace/MCP content performed |
-| 25 | PRD Trick | Hard Number | HIGH | PRD video = 11.8% engagement (top rate) |
-| 26 | 3 Things Day One | Hard Number + Callout | HIGH | Listicles with numbers = consistent |
-| 27 | Weekend App That Makes Money | Story Open + Hard Number | HIGH | Story + proof + aspirational |
-| 28 | Agent Era Is Here | Urgency Frame | HIGH | Agent era content = proven performer |
-| 29 | Why Your App Keeps Breaking | Nobody Talks About This | MODERATE-HIGH | Reality check + practical fix |
-| 30 | LinkedIn Post → 3 Clients | Hard Number + Story Open | HIGH | Personal story + actionable |
-| 31 | $0 Growth Strategy | Hard Number + Myth Killer | HIGH | $0 hook + growth strategy |
+| # | Title | Hook Type | Predicted Tier | Source |
+|---|-------|-----------|---------------|--------|
+| 17 | Woke Up to a Finished App | Story Open | TOP | VCP Session — Ralph loop real story |
+| 18 | AI Gets Dumber Over Time | Nobody Talks About This | TOP | VCP Session — context rot explanation |
+| 19 | User Stories Beat Feature Lists | Stop Doing This | TOP | VCP Session — engineering team approach |
+| 20 | Software = Assembly Line | Urgency Frame | TOP | VCP Session — autonomous build concept |
+| 21 | Skills vs Sub-Agents Org Chart | Nobody Talks About This | TOP | VCP Session — agent architecture |
+| 22 | Agent Apps > GPT Wrappers | Urgency Frame | TOP | VCP Session — 2026 prediction |
+| 23 | Anthropic Open-Sourced the Clay | Nobody Talks About This | HIGH | VCP Session — Agent SDK |
+| 24 | MCP Servers Changed Everything | Nobody Talks About This | HIGH | Keeper — MCP explainer |
+| 25 | The Real Bottleneck Isn't Leads | Myth Killer | HIGH | VCP Session — property mgmt case study |
+| 26 | 3 Things Every App Needs Day 1 | Hard Number + Callout | HIGH | Keeper — practical listicle |
+| 27 | $200/Month AI = Staff Member | Hard Number + Myth Killer | HIGH | VCP Session — cost reframe |
+| 28 | Agent Era Is Here | Urgency Frame | HIGH | Keeper — agent era overview |
+| 29 | Why Your App Keeps Breaking | Nobody Talks About This | HIGH | Keeper — reality check |
+| 30 | Fresh Context > Long Context | Stop Doing This | HIGH | VCP Session — context management |
+| 31 | The Gap Is Widening | Urgency Frame | HIGH | VCP Session — staying on pulse |
+| 32 | Screwdriver Before Jackhammer | Story Open | HIGH | VCP Session — fundamentals |
+| 33 | Jensen Huang Just Said Every SaaS Is Dead | Urgency Frame | VERY HIGH | GTC 2026 — breaking news |
 
-### Recommended Filming Order (Batch of 5 per week):
+### Filming Schedule (5 per day):
 
-**Week 1:** Scripts 17, 20, 21, 22, 25 (opinion + cost hack + practical)
-**Week 2:** Scripts 18, 19, 23, 27, 28 (builder identity + agent era + business)
-**Week 3:** Scripts 24, 26, 29, 30, 31 (technical + distribution + growth)
+**PRIORITY — Film first:** Script 33 (NemoClaw / Jensen GTC — breaking news, time-sensitive)
+**Day 1:** Scripts 33, 17, 18, 19, 20 (breaking news + Ralph + context rot + user stories + assembly line)
+**Day 2:** Scripts 21, 22, 23, 24, 25 (agent architecture + agent apps + SDK + MCP + case study)
+**Day 3:** Scripts 27, 28, 29, 30, 31 (cost reframe + agent era + app breaking + fresh context + gap)
+**Day 4:** Scripts 26, 32 (3 things day 1 + screwdriver)

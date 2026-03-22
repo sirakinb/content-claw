@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Script Queue — @sirakinb</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0a0a; color: #e0e0e0; }
+  .container { max-width: 900px; margin: 0 auto; padding: 20px; }
+  h1 { font-size: 24px; margin-bottom: 4px; color: #fff; }
+  .subtitle { color: #888; font-size: 14px; margin-bottom: 24px; }
+  .tier-label { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; padding: 8px 0; margin-top: 20px; margin-bottom: 8px; border-bottom: 1px solid #222; }
+  .tier-1 { color: #4ade80; }
+  .tier-2 { color: #60a5fa; }
+  .script-card { background: #141414; border: 1px solid #222; border-radius: 8px; margin-bottom: 6px; cursor: pointer; transition: border-color 0.15s; }
+  .script-card:hover { border-color: #444; }
+  .script-card.active { border-color: #4ade80; }
+  .script-header { display: flex; align-items: center; padding: 12px 16px; gap: 12px; }
+  .script-num { font-size: 13px; font-weight: 700; color: #666; min-width: 28px; }
+  .script-title { font-size: 15px; font-weight: 600; color: #fff; flex: 1; }
+  .script-meta { display: flex; gap: 8px; flex-shrink: 0; }
+  .badge { font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 600; white-space: nowrap; }
+  .badge-hook { background: #1a1a2e; color: #818cf8; }
+  .badge-dur { background: #1a2e1a; color: #4ade80; }
+  .badge-src { background: #2e1a1a; color: #f87171; }
+  .script-body { display: none; padding: 0 16px 16px 16px; }
+  .script-card.active .script-body { display: block; }
+  .section { margin-bottom: 16px; }
+  .section-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #666; margin-bottom: 6px; }
+  .hook-grid { display: grid; grid-template-columns: 1fr; gap: 6px; }
+  .hook-item { background: #1a1a1a; padding: 8px 12px; border-radius: 6px; font-size: 13px; line-height: 1.5; }
+  .hook-item strong, .hook-item b { color: #4ade80; }
+  .hook-item em { color: #888; font-style: normal; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .caption-box { background: #1a1a1a; padding: 10px 14px; border-radius: 6px; font-size: 13px; line-height: 1.6; color: #ccc; }
+  .hashtags { color: #60a5fa; }
+  .script-text { background: #111; padding: 14px 16px; border-radius: 6px; font-size: 14px; line-height: 1.8; white-space: pre-wrap; }
+  .script-text b { color: #fff; }
+  .cta-box { background: #0f1f0f; border: 1px solid #1a3a1a; padding: 10px 14px; border-radius: 6px; font-size: 13px; color: #4ade80; line-height: 1.5; }
+  .day-label { font-size: 12px; font-weight: 700; color: #f59e0b; margin-top: 24px; margin-bottom: 8px; padding: 6px 0; border-bottom: 1px solid #332800; }
+  .source-tag { font-size: 11px; color: #f87171; margin-top: 4px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Script Queue — @sirakinb</h1>
+  <p class="subtitle">17 scripts from VCP Sessions + GTC 2026 + TikTok data | 5/day = 4 days</p>
+  <div id="scripts"></div>
+</div>
+
+<script>
+const scripts = [
+  {
+    num: 33, day: 1,
+    title: "Jensen Huang Just Said Every SaaS Company Is Dead",
+    hook: "Urgency Frame", dur: "55-70s", src: "GTC 2026 — BREAKING",
+    hooks: {
+      audio: 'Jensen Huang just said the <b>software</b> you use every day is about to be <b>replaced</b>. And he compared this moment to the birth of <b>Linux</b>.',
+      text: 'Jensen just killed SaaS.',
+      visual: 'Dead serious, lean in, phone in hand like you just read the news. Eyes wide.'
+    },
+    caption: "GTC 2026. Yesterday. The CEO of NVIDIA said every software company is about to become an AI agent company. Not AI-assisted. AI-operated. Your apps won't just have features — they'll have agents that act for you. Adobe, Salesforce, SAP are already in. This is the biggest shift in software since the internet.",
+    hashtags: "#jensenhuang #nvidia #gtc2026 #openclaw #nemoclaw #agenticai #saas #ainews #artificialintelligence",
+    script: `Jensen Huang just said the <b>software</b> you use every day
+is about to be <b>replaced</b>.
+And he compared this moment
+to the birth of <b>Linux</b>.
+
+He said every <b>software</b> company
+is about to become an agentic company.
+
+Not AI-<b>assisted</b>.
+AI-<b>operated</b>.
+
+Here's what that means in plain English.
+
+Right now, you <b>log into</b> apps.
+You click buttons. You fill out forms.
+You do the <b>work</b> inside the software.
+
+What he's describing is a world
+where the software has <b>AI agents</b> inside it
+that do the work <b>for</b> you.
+
+Your CRM doesn't just store contacts --
+it <b>reaches out</b> to them.
+
+Your project manager doesn't just track tasks --
+it <b>assigns</b> and <b>completes</b> them.
+
+Your email doesn't just sit in your inbox --
+an agent <b>reads</b> it, <b>drafts</b> a response,
+and <b>schedules</b> the follow-up.
+
+And to prove this isn't just a <b>keynote</b> talking point,
+NVIDIA launched <b>NemoClaw</b> yesterday --
+enterprise infrastructure to make this <b>real</b>.
+
+<b>Adobe</b> is on board.
+<b>Salesforce</b> is on board.
+<b>SAP</b>, CrowdStrike, <b>Cisco</b> -- all in.
+
+He called this moment as big as <b>HTML</b>.
+As big as <b>Linux</b>.
+
+That's not hype.
+
+That's the CEO of a <b>trillion-dollar</b> company
+saying the way we use software
+is about to fundamentally <b>change</b>.`,
+    cta: 'This is the biggest shift in software since the internet. Follow if you want to stay ahead of what\'s coming.'
+  },
+  {
+    num: 17, day: 1,
+    title: "I Set Up a Build Before Bed and Woke Up to a Finished App",
+    hook: "Story Open", dur: "50-65s", src: "Ralph Loop",
+    hooks: {
+      audio: 'I set up a build before <b>bed</b>. Woke up. The entire app was <b>done</b> -- auth, payments, <b>everything</b>.',
+      text: 'went to sleep. woke up to a finished app.',
+      visual: 'Act like you\'re setting up the phone, then lean back with genuine disbelief. Hands up like "I\'m not kidding."'
+    },
+    caption: "PRD. User stories. Ralph loop. Sleep. Wake up. App is built — auth, payments, the whole thing. This is where autonomous building is right now. And I still can't believe it works.",
+    hashtags: "#ralphloop #autonomousbuilding #vibecoding #cursor #claudecode #buildanapp #ai",
+    script: `I set up a build before <b>bed</b>.
+Woke up.
+The entire app was <b>done</b> -- auth, payments, <b>everything</b>.
+
+I'm not exaggerating.
+
+Here's what I did.
+
+I wrote a <b>PRD</b> -- a product requirements document.
+Broke it into <b>28</b> user stories.
+Each one a specific task the AI needs to <b>complete</b>.
+
+Then I triggered what's called a <b>Ralph loop</b>.
+
+It's a script that mimics how an <b>engineering team</b> works.
+It picks up a user story, <b>implements</b> it,
+pushes it, picks up the <b>next</b> one,
+implements it, pushes it.
+
+Over and over until it's <b>done</b>.
+
+And because every user story starts
+with a <b>fresh</b> context window,
+the AI doesn't degrade.
+It stays <b>sharp</b> the whole time.
+
+I set it off, went to <b>bed</b>.
+Woke up -- the app had <b>auth</b>,
+it had <b>payments</b>, it had a full <b>curriculum</b>.
+
+Two and a half <b>hours</b> of autonomous building
+while I was asleep.
+
+This is not where things are <b>going</b>.
+This is where things <b>are</b>.`,
+    cta: 'Save this. I\'m dropping a full walkthrough of the Ralph loop setup in the group this week.'
+  },
+  {
+    num: 18, day: 1,
+    title: "Why Your AI Gets Dumber the Longer You Talk to It",
+    hook: "Nobody Talks About This", dur: "45-60s", src: "Context Rot",
+    hooks: {
+      audio: '<b>Stop</b>. If you\'ve been prompting your AI for more than <b>15 minutes</b>, your outputs are already getting <b>worse</b>.',
+      text: '15 minutes. that\'s when your AI starts failing.',
+      visual: 'Hand up in stop gesture, lean towards camera with urgency. Then tap temple.'
+    },
+    caption: "It's called context rot. The more you dump into one conversation, the worse the outputs get. The fix is dead simple — and it'll change how you build immediately.",
+    hashtags: "#contextwindow #contextrot #vibecoding #cursor #claudecode #aitools #prompting",
+    script: `<b>Stop</b>.
+If you've been prompting your AI
+for more than <b>15 minutes</b>,
+your outputs are already getting <b>worse</b>.
+
+It's called <b>context rot</b>.
+
+Here's what's happening.
+
+Every time you prompt,
+every response the AI gives,
+it all stays in the <b>context window</b>.
+
+And the more that fills up,
+the less <b>precise</b> the AI becomes.
+
+It starts <b>forgetting</b> things you told it.
+It starts making <b>contradictory</b> decisions.
+It starts writing code that <b>breaks</b> what it just built.
+
+And most people think the AI is just <b>bad</b>.
+No -- the context is just <b>full</b>.
+
+Here's the fix.
+
+When you're building something complex,
+<b>break it into separate tasks</b>.
+
+Each task gets a <b>fresh</b> context window.
+Fresh context means the AI is <b>sharp</b> again.
+
+That's why the Ralph loop works --
+every user story starts <b>clean</b>.
+No leftover context from the last task.
+
+If your outputs are getting <b>worse</b>
+the longer you work on something,
+it's not the model.
+
+It's the <b>window</b>.
+
+Clear it. Start <b>fresh</b>.`,
+    cta: 'How many of you have hit this and didn\'t know what was happening? Drop a comment.'
+  },
+  {
+    num: 19, day: 1,
+    title: "User Stories Beat Feature Lists Every Time",
+    hook: "Stop Doing This", dur: "45-60s", src: "User Stories",
+    hooks: {
+      audio: 'Feature lists are <b>bullshit</b>. If you\'re still handing your AI a list of features, you\'re doing it <b>wrong</b>.',
+      text: 'feature lists are killing your builds',
+      visual: 'Dismissive wave on "bullshit," then lean towards camera with conviction.'
+    },
+    caption: "A feature list says \"add auth.\" A user story says \"as a new user, I need to create an account so I can save my progress.\" One gives the AI a task. The other gives it context. Guess which one builds better software.",
+    hashtags: "#userstories #prd #vibecoding #cursor #claudecode #buildanapp #softwaredevelopment",
+    script: `Feature lists are <b>bullshit</b>.
+If you're still handing your AI a list of features,
+you're doing it <b>wrong</b>.
+
+Here's the difference.
+
+A feature list says
+'add <b>authentication</b>.'
+
+A user story says
+'as a new user, I need to <b>create an account</b>
+so I can save my <b>progress</b>.'
+
+One gives the AI a <b>task</b>.
+The other gives it <b>context</b>.
+
+And context is everything when you're building
+with these <b>tools</b>.
+
+When I break a project into <b>user stories</b>,
+the AI builds like an <b>engineering team</b>.
+
+It takes one story.
+<b>Implements</b> it.
+Moves to the <b>next</b>.
+Implements it.
+
+Each one is <b>scoped</b>.
+Each one is <b>clear</b>.
+Each one has a <b>definition</b> of done.
+
+And because each story is its <b>own</b> task,
+the AI doesn't try to do <b>everything</b> at once
+and break your whole <b>codebase</b>.
+
+This is how real engineering teams have <b>always</b> worked.
+The AI is no different.
+
+Scope it. Story it. <b>Ship</b> it.`,
+    cta: 'Next time you start a build, try writing 5 user stories instead of a feature list. You\'ll see the difference immediately.'
+  },
+  {
+    num: 20, day: 1,
+    title: "Software Is Becoming an Assembly Line",
+    hook: "Urgency Frame", dur: "50-65s", src: "Assembly Line",
+    hooks: {
+      audio: 'Everything you knew about building software just <b>changed</b>. It\'s an assembly line now. And you don\'t need to write <b>code</b> to run it.',
+      text: 'everything you knew about building software is wrong',
+      visual: 'Hands moving left to right like a conveyor belt. Lean towards camera on "you don\'t need to write code."'
+    },
+    caption: "You define the product. You write the user stories. You set up the environment. Then the agents build it — story by story, in a loop, until it's done. This is the new production model.",
+    hashtags: "#assemblyline #autonomousbuilding #vibecoding #claudecode #cursor #aiagents #futureofwork",
+    script: `Everything you knew about building software
+just <b>changed</b>.
+It's an assembly line now.
+And you don't need to write <b>code</b> to run it.
+
+Here's what I mean.
+
+You start with a <b>product idea</b>.
+You write the <b>PRD</b> -- what it does, who it's for.
+You break it into <b>user stories</b>.
+
+Then you set up the <b>environment</b> --
+your database connection, your payments,
+your API keys, all through <b>MCP</b>.
+
+And then you trigger the <b>loop</b>.
+
+The agent picks up story <b>one</b>.
+Implements it. Pushes it.
+Picks up story <b>two</b>.
+Implements it. Pushes it.
+
+Story after story until the app is <b>built</b>.
+
+You're not writing code.
+You're <b>designing</b> the product
+and <b>orchestrating</b> the build.
+
+That's a fundamentally different <b>skill</b>
+than what software development used to be.
+
+And the people who figure out
+how to set up that <b>line</b> effectively --
+the PRD, the stories, the environment --
+
+Those are the people shipping <b>10x faster</b>
+than everyone still typing code
+one file at a <b>time</b>.`,
+    cta: 'Does this change how you think about building? Let me know in the comments.'
+  },
+  {
+    num: 21, day: 2,
+    title: "Skills vs Sub-Agents — Your AI Needs an Org Chart",
+    hook: "Nobody Talks About This", dur: "50-65s", src: "Agent Architecture",
+    hooks: {
+      audio: '<b>99%</b> of builders are running everything through one AI agent. That\'s why their builds keep <b>breaking</b>.',
+      text: '99% of builders do this wrong',
+      visual: 'Hold up one finger on "one agent," then draw invisible org chart in air. Lean towards camera.'
+    },
+    caption: "Skills are what your agent knows HOW to do. Sub-agents are team members with specific jobs. Understanding the difference is the unlock most builders are missing right now.",
+    hashtags: "#subagents #skills #claudecode #aiagents #vibecoding #aiarchitecture #cursor",
+    script: `<b>99%</b> of builders are running everything
+through one AI agent.
+That's why their builds keep <b>breaking</b>.
+
+Think about it like a <b>company</b>.
+
+<b>Skills</b> are what a person knows how to do.
+Like writing <b>emails</b>, or building a <b>frontend</b>,
+or creating a <b>PRD</b>.
+
+A <b>sub-agent</b> is the actual <b>person</b>.
+The marketer. The ops manager.
+The engineer.
+
+And that sub-agent might have
+<b>multiple</b> skills.
+
+So in practice --
+
+You have a <b>main</b> agent.
+That's your CEO.
+
+It delegates to <b>sub-agents</b> --
+one handles your <b>database</b> setup,
+one handles your <b>frontend</b>,
+one handles your <b>testing</b>.
+
+And each of those has <b>skills</b>
+that define what it's good at.
+
+But here's the real reason this matters.
+
+Every sub-agent gets its <b>own</b> context window.
+So instead of one agent trying to hold
+<b>everything</b> in its head at once --
+
+You have <b>specialized</b> agents
+each focused on their <b>lane</b>.
+
+Better context. Better <b>output</b>.
+Faster <b>builds</b>.
+
+Anthropic, Codex, even Antigravity --
+they're all building around this <b>pattern</b> now.
+
+This is the skill set to <b>develop</b>.`,
+    cta: 'Are you using sub-agents yet or running everything through one agent? Drop where you\'re at.'
+  },
+  {
+    num: 22, day: 2,
+    title: "Agents as a Backend — The 2026 Shift Nobody's Talking About",
+    hook: "Urgency Frame", dur: "50-65s", src: "Agent Apps",
+    hooks: {
+      audio: 'GPT wrappers are <b>dead</b>. If you\'re still building chat interfaces on top of ChatGPT, you\'re already <b>behind</b>.',
+      text: 'GPT wrappers are dead.',
+      visual: 'Dismissive wave on "dead," then lean towards camera on "you\'re already behind."'
+    },
+    caption: "GPT wrappers put a chat interface on top of ChatGPT. Agent apps put an autonomous agent INSIDE the product. It can act, decide, and operate — not just answer questions. This is the next wave.",
+    hashtags: "#agentapps #gptwrappers #claudecode #agentsdk #vibecoding #saas #2026",
+    script: `GPT wrappers are <b>dead</b>.
+If you're still building chat interfaces
+on top of ChatGPT, you're already <b>behind</b>.
+
+Here's what's replacing them.
+
+<b>Agent-powered apps</b>.
+
+And the difference is <b>massive</b>.
+
+A GPT wrapper <b>answers</b> questions.
+An agent app <b>takes action</b>.
+
+It can check your <b>database</b>.
+Update your <b>records</b>.
+Process a <b>payment</b>.
+Send a <b>notification</b>.
+
+All autonomously, inside the <b>product</b>.
+
+And here's why this is about to <b>explode</b>.
+
+Anthropic just launched the <b>Agent SDK</b>.
+It's the same framework
+they used to build <b>Claude Code</b>.
+
+And they open-sourced it
+so anyone can build <b>agent-native</b> apps with it.
+
+Claude Cowork -- their new workspace product --
+was built in a <b>week and a half</b>
+using this exact <b>SDK</b>.
+
+The tools to build agent apps
+are <b>here</b> right now.
+
+And barely anyone has <b>started</b>.`,
+    cta: 'This is the window. If you want a walkthrough of the Agent SDK, follow — I\'m building with it right now.'
+  },
+  {
+    num: 23, day: 2,
+    title: "Anthropic Open-Sourced the Clay That Built Claude Code",
+    hook: "Nobody Talks About This", dur: "50-65s", src: "Agent SDK",
+    hooks: {
+      audio: 'Anthropic just <b>open-sourced</b> the exact framework they used to build Claude Code. And <b>nobody</b> is paying attention.',
+      text: 'they just open-sourced Claude Code\'s framework',
+      visual: 'Lean towards camera, hands together, like sharing insider knowledge nobody else has.'
+    },
+    caption: "The Agent SDK is how Anthropic builds their own internal agents. They kept starting from scratch every time they needed a new one, so they built a framework. Then they gave it to everyone. This changes the game.",
+    hashtags: "#agentsdk #anthropic #claudecode #vibecoding #opensource #aitools #buildanapp",
+    script: `Anthropic just <b>open-sourced</b>
+the exact framework they used to build Claude Code.
+And <b>nobody</b> is paying attention.
+
+Here's what happened.
+
+Every time their team needed a <b>new</b> agent,
+they were starting from <b>scratch</b>.
+
+So they took the core of what made
+Claude Code <b>work</b> --
+the architecture, the patterns,
+the way it <b>reasons</b> and <b>acts</b> --
+
+And they packaged it into a <b>framework</b>.
+
+They call it the <b>Agent SDK</b>.
+
+And then they <b>open-sourced</b> it.
+
+So now <b>you</b> can use the same foundation
+that Claude Code is built on
+to create your <b>own</b> agents.
+
+Your own agent for <b>customer support</b>.
+Your own agent for <b>data processing</b>.
+Your own agent for <b>internal ops</b>.
+
+And it's more straightforward
+than you would <b>think</b>.
+
+Claude <b>Cowork</b> -- the workspace product
+they just launched --
+was built in a <b>week and a half</b>
+by their team using this <b>SDK</b>.
+
+The framework is <b>there</b>.
+The documentation is <b>there</b>.
+The examples are <b>there</b>.
+
+This is not something
+only engineers at Anthropic can <b>use</b>.
+
+This is something <b>builders</b> can use.
+Right now.`,
+    cta: 'I\'m building an agent app with the SDK right now. Want to see the process? Follow — I\'m documenting everything.'
+  },
+  {
+    num: 24, day: 2,
+    title: "MCP Servers Changed Everything About How I Build",
+    hook: "Nobody Talks About This", dur: "50-65s", src: "Keeper",
+    hooks: {
+      audio: 'This <b>one</b> connection changed everything about how I build. And it takes <b>10 minutes</b> to set up.',
+      text: '10 minutes to set up. changed everything.',
+      visual: 'Hold up one finger, lean towards camera. Genuine "you need to know this" energy.'
+    },
+    caption: "MCP servers let your AI agent talk to any tool — GitHub, databases, APIs, Google Workspace. One connection and your agent can DO things, not just talk about them.",
+    hashtags: "#mcp #claudecode #cursor #aiagents #vibecoding #aitools #automation",
+    script: `This <b>one</b> connection changed everything
+about how I build.
+And it takes <b>10 minutes</b> to set up.
+
+<b>MCP servers</b>.
+
+Here's what they do in plain English.
+
+An MCP server is a <b>bridge</b>
+between your AI agent
+and an external <b>tool</b>.
+
+Your database.
+Your GitHub.
+Your Google Workspace.
+Your <b>Stripe</b> account.
+
+Before MCP,
+your AI could only <b>talk</b> to you.
+
+With MCP,
+your AI can <b>act</b> on your behalf.
+
+It can push code to <b>GitHub</b>.
+Check your <b>calendar</b>.
+Query your <b>database</b>.
+Process a <b>payment</b>.
+
+All from inside Cursor or Claude Code.
+
+This is the shift from AI as a <b>chatbot</b>
+to AI as an <b>operator</b>.
+
+And most builders haven't set this up <b>yet</b>
+because it sounds more technical
+than it <b>is</b>.
+
+It takes about <b>10 minutes</b>
+to connect your first MCP server.
+
+And once you do,
+you'll never go <b>back</b>
+to copy-pasting between tools.`,
+    cta: 'Save this. If you want me to walk through setting up your first MCP server, follow and comment \'MCP\' below.'
+  },
+  {
+    num: 25, day: 2,
+    title: "The Real Bottleneck Isn't Leads — It's What Happens After the Call",
+    hook: "Myth Killer", dur: "50-65s", src: "Case Study",
+    hooks: {
+      audio: '<b>100</b> calls a day. <b>15</b> answered. <b>85</b> going straight to voicemail. That was the problem I walked into.',
+      text: '100 calls. 15 answered. 85 lost.',
+      visual: 'Count on fingers — 100, 15, 85. Lean towards camera on "that was the problem."'
+    },
+    caption: "Property management company. Small team. 100 calls a day, 85 going to voicemail. Voice agent now answers every single one. Every call gets a transcript. Every lead gets captured. The bottleneck was never leads — it was capacity.",
+    hashtags: "#voiceagent #propertymanagement #aicasestudy #automation #vibecoding #aiagents",
+    script: `<b>100</b> calls a day.
+<b>15</b> answered.
+<b>85</b> going straight to voicemail.
+That was the problem I walked into
+at a property management company.
+
+Small <b>team</b>.
+Massive call <b>volume</b>.
+Eighty-five calls a day just going to <b>voicemail</b>.
+
+After hours. During <b>lunch</b>.
+When the team was already on another <b>call</b>.
+
+So we set up a <b>voice agent</b>.
+
+Now every single call gets <b>answered</b>.
+
+And even if the AI isn't <b>perfect</b> --
+because it's still AI --
+at least every call has a <b>transcript</b>.
+
+Every question is <b>documented</b>.
+Every lead is <b>captured</b>.
+
+And that opened up the <b>next</b> problem.
+
+Because now all these leads are coming <b>in</b>,
+the bottleneck shifts to the <b>application process</b>.
+Onboarding. Follow-ups. <b>Scheduling</b>.
+
+And that becomes the next thing
+you can <b>automate</b>.
+
+That's how client work <b>actually</b> goes.
+You solve <b>one</b> bottleneck
+and it reveals the <b>next</b> one.
+
+And every bottleneck is an <b>opportunity</b>
+to build something.`,
+    cta: 'What\'s the bottleneck in your business or your client\'s business? That\'s your first build. Drop it below.'
+  },
+  {
+    num: 27, day: 3,
+    title: "Your $200/Month AI Bill Isn't an Expense — It's a Staff Member",
+    hook: "Hard Number + Myth Killer", dur: "45-60s", src: "Cost Reframe",
+    hooks: {
+      audio: 'You\'re spending <b>$200</b> a month on AI and calling it expensive. Meanwhile it just built an entire <b>app</b> while you <b>slept</b>.',
+      text: '$200/month. it built an app while I slept.',
+      visual: 'Wince on "expensive," then lean back with a knowing smile. Shift to confident energy.'
+    },
+    caption: "If your AI subscription is building whole apps while you sleep, handling multi-file refactors in minutes, and deploying to production autonomously — that's not a subscription. That's a hire.",
+    hashtags: "#claudemax #aitools #vibecoding #claudecode #cursor #buildanapp #investment",
+    script: `You're spending <b>$200</b> a month on AI
+and calling it expensive.
+Meanwhile it just built an entire <b>app</b>
+while you <b>slept</b>.
+
+It built an entire app in <b>two and a half hours</b>
+while I was asleep.
+
+Auth. Payments. Full <b>curriculum</b>.
+Twenty-eight user stories <b>implemented</b>.
+
+If I hired a developer to do that,
+we're talking <b>thousands</b>.
+
+And that's just <b>one</b> build.
+
+When I'm paying for Claude Max,
+I'm not paying for a <b>chatbot</b>.
+I'm paying for a <b>staff member</b>
+that works at 2 AM and doesn't take <b>breaks</b>.
+
+And it's the same with <b>Cursor</b>.
+Same with any of these tools.
+
+The question isn't
+'can I <b>afford</b> this subscription?'
+
+The question is
+'what is this subscription <b>producing</b>?'
+
+If it's helping you ship <b>faster</b>,
+if it's building things that make you <b>money</b>,
+if it's saving you <b>hours</b> every week --
+
+That's not an <b>expense</b>.
+That's the best hire you've ever <b>made</b>.`,
+    cta: 'What\'s your monthly AI spend? And what\'s it actually producing for you? Drop it below — I\'m curious.'
+  },
+  {
+    num: 26, day: 3,
+    title: "Every App You Build Should Have These 3 Things on Day One",
+    hook: "Hard Number + Callout", dur: "50-65s", src: "Keeper",
+    hooks: {
+      audio: '<b>Don\'t</b> launch your app without these <b>3</b> things. I\'m serious -- you\'re <b>not</b> ready.',
+      text: 'don\'t launch without these 3 things',
+      visual: 'Hold up three fingers. Dead serious face, lean towards camera on "you\'re not ready."'
+    },
+    caption: "Auth, payments, analytics. That's it. Everything else is a feature you can add later. But these three are non-negotiable before you put your app in front of real users. Save this.",
+    hashtags: "#applaunch #authentication #stripe #analytics #vibecoding #buildanapp #mvp",
+    script: `<b>Don't</b> launch your app without these <b>3</b> things.
+I'm serious -- you're <b>not</b> ready.
+
+<b>Number one. Authentication.</b>
+
+Your app needs to know <b>who</b> is using it.
+Supabase, Firebase, Clerk --
+pick one and set it up.
+
+If you don't have auth,
+you can't track users,
+you can't personalize the experience,
+and you <b>definitely</b> can't charge for it.
+
+<b>Number two. Payments.</b>
+
+If you're building a business,
+connect <b>Stripe</b> on day one.
+Not day thirty. Day <b>one</b>.
+
+Even if it's just a simple checkout.
+A way to collect money
+is a way to <b>validate</b> your idea.
+
+<b>Number three. Analytics.</b>
+
+You need to know what people are <b>doing</b>
+inside your app.
+
+PostHog, Mixpanel, even Google Analytics.
+Pick one.
+
+Because if you don't know
+which features people actually <b>use</b>,
+you're building <b>blind</b>.
+
+Auth. Payments. Analytics.
+
+Everything else is a <b>feature</b>.
+These three are <b>infrastructure</b>.
+
+Get them in <b>first</b>.`,
+    cta: 'Which one of these are you missing? Be honest in the comments. No judgment.'
+  },
+  {
+    num: 28, day: 3,
+    title: "The Agent Era is Here and Most People Aren't Ready",
+    hook: "Urgency Frame", dur: "50-65s", src: "Keeper",
+    hooks: {
+      audio: 'If you\'re not using AI <b>agents</b> yet, you\'re already <b>behind</b>. And the gap is getting wider every single <b>week</b>.',
+      text: 'you\'re already behind.',
+      visual: 'Dead serious, slow lean towards camera, hands clasped. Then open up as you explain.'
+    },
+    caption: "Cursor has background agents. Claude Code runs autonomously. Codex spins up its own environment. Notion has agent teams. This isn't a feature update. This is a fundamental shift in how software gets built.",
+    hashtags: "#agentera #aiagents #cursor #claudecode #codex #notion #futureofwork #vibecoding",
+    script: `If you're not using AI <b>agents</b> yet,
+you're already <b>behind</b>.
+And the gap is getting wider
+every single <b>week</b>.
+
+Here's what happened in the last <b>few weeks</b>.
+
+<b>Cursor</b> launched background agents
+that build while you <b>sleep</b>.
+
+<b>Claude Code</b> runs from your <b>phone</b> now
+and operates autonomously on your codebase.
+
+<b>Codex</b> spins up its own environment
+and runs for <b>hours</b> without you.
+
+<b>Notion</b> launched autonomous agent <b>teams</b>.
+
+This isn't a feature update.
+
+This is a fundamental <b>shift</b>
+in how software gets built.
+
+We're moving from a world
+where you <b>write</b> code
+to a world where you <b>orchestrate</b> agents
+that write code <b>for</b> you.
+
+And the people who learn
+how to <b>manage</b> agents effectively --
+how to prompt them,
+how to set up their <b>environment</b>,
+how to review their <b>output</b> --
+
+Those are the people
+who will be <b>10x</b> more productive
+than everyone else.
+
+The window to learn this is <b>now</b>.
+Not next year. <b>Now</b>.`,
+    cta: 'Are you using agents yet? Or still doing everything manually? Let me know where you are.'
+  },
+  {
+    num: 29, day: 3,
+    title: "Why Your Vibe-Coded App Keeps Breaking",
+    hook: "Nobody Talks About This", dur: "45-60s", src: "Keeper",
+    hooks: {
+      audio: 'You\'re vibe coding completely <b>wrong</b>. And that\'s exactly why your app keeps <b>breaking</b>.',
+      text: 'you\'re vibe coding wrong. that\'s why it breaks.',
+      visual: 'Lean towards camera, slight head shake. Knowing look, then shift to "here\'s the fix" energy.'
+    },
+    caption: "It's not the AI. It's not the platform. It's that you're building without a plan and letting the AI make architectural decisions for you. Here's the fix that takes 10 minutes.",
+    hashtags: "#vibecoding #debugging #cursor #lovable #buildanapp #appdevelopment",
+    script: `You're vibe coding completely <b>wrong</b>.
+And that's exactly why your app keeps <b>breaking</b>.
+
+It's not the AI.
+It's not <b>Cursor</b> or <b>Lovable</b> or <b>Replit</b>.
+
+It's <b>you</b>.
+
+Here's what's happening.
+
+You're giving the AI <b>vague</b> instructions.
+It's making <b>architectural</b> decisions for you.
+And those decisions <b>compound</b>.
+
+One bad decision leads to <b>three</b> more.
+And by the time you notice,
+the whole codebase is a <b>mess</b>.
+
+The fix takes <b>ten minutes</b>.
+
+Before you start building,
+tell the AI your <b>tech stack</b>.
+Tell it your <b>file structure</b>.
+Tell it what <b>patterns</b> to follow.
+
+Give it <b>rules</b>.
+
+Not 'build me a todo app.'
+More like 'build me a todo app
+using <b>React</b>, <b>Supabase</b> for the backend,
+follow this <b>file structure</b>,
+and use <b>server components</b>.'
+
+The more <b>specific</b> you are upfront,
+the less time you spend <b>fixing</b> things later.
+
+Vague prompts create <b>fragile</b> apps.
+Specific prompts create <b>solid</b> ones.`,
+    cta: 'What\'s the worst bug you\'ve dealt with in a vibe-coded app? Drop it in the comments. I\'ve probably seen it.'
+  },
+  {
+    num: 30, day: 3,
+    title: "Fresh Context Beats Long Context Every Time",
+    hook: "Stop Doing This", dur: "45-55s", src: "Context Mgmt",
+    hooks: {
+      audio: '<b>Stop</b>. If you\'ve been in the same AI chat for over <b>30 prompts</b>, you need to hear this. You\'re making it <b>worse</b>.',
+      text: '30+ prompts = your AI is failing',
+      visual: 'Hand up in stop gesture, lean towards camera, tap temple on "you need to hear this."'
+    },
+    caption: "Every message fills the context window. The fuller it gets, the worse the output. Fresh context = sharp AI. This is why I clear the window after every task.",
+    hashtags: "#contextwindow #prompting #vibecoding #cursor #claudecode #aitools #productivity",
+    script: `<b>Stop</b>.
+If you've been in the same AI chat
+for over <b>30 prompts</b>,
+you need to hear this.
+You're making it <b>worse</b>.
+
+Here's the pattern.
+
+You start a new chat.
+First few prompts -- the output is <b>great</b>.
+Sharp. Precise. Exactly what you <b>wanted</b>.
+
+Thirty prompts in --
+it's <b>forgetting</b> things you told it.
+It's contradicting <b>itself</b>.
+It's writing code that breaks
+what it built <b>ten minutes</b> ago.
+
+That's not the model getting <b>dumb</b>.
+That's the context window getting <b>full</b>.
+
+So here's what I do.
+
+One task per <b>conversation</b>.
+When the task is done, I start <b>fresh</b>.
+
+If I'm building a feature,
+that's <b>one</b> conversation.
+If I'm fixing a bug,
+that's a <b>new</b> conversation.
+If I'm refactoring a file,
+<b>new</b> conversation.
+
+Fresh context, sharp <b>output</b>.
+Every single time.
+
+And this is exactly why <b>autonomous loops</b> work.
+Every cycle starts <b>clean</b>.
+No leftover context from the last <b>task</b>.
+
+The AI stays sharp because you <b>let</b> it.`,
+    cta: 'Try this today. One task, one chat. Start fresh every time. You\'ll see the difference immediately.'
+  },
+  {
+    num: 31, day: 4,
+    title: "The Gap Is Widening — And It's Not About Skill",
+    hook: "Urgency Frame", dur: "45-60s", src: "Mindset",
+    hooks: {
+      audio: '<b>3 weeks</b> ago, autonomous builds weren\'t a thing. <b>Last week</b>, Claude Cowork didn\'t exist. If you blinked, you <b>missed</b> it.',
+      text: 'blinked? you missed it.',
+      visual: 'Count on fingers for each time frame. Hands apart showing widening gap. Lean towards camera.'
+    },
+    caption: "The people pulling ahead aren't smarter. They're just paying attention. The tools change every week. The capabilities double every month. Staying on the pulse IS the skill now.",
+    hashtags: "#aitools #vibecoding #futureofwork #builder #claudecode #cursor #mindset",
+    script: `<b>3 weeks</b> ago, autonomous builds weren't a thing.
+<b>Last week</b>, Claude Cowork didn't exist.
+If you blinked, you <b>missed</b> it.
+
+Everything is moving so <b>fast</b>
+that the gap isn't between
+people who <b>can</b> code and people who <b>can't</b>.
+
+It's between people who are staying
+on the <b>pulse</b> of what's happening
+and people who <b>aren't</b>.
+
+<b>Three weeks</b> ago,
+autonomous build loops weren't a thing
+most builders had <b>access</b> to.
+
+<b>Two weeks</b> ago,
+the Agent SDK wasn't something
+you could just <b>install</b> and use.
+
+<b>Last week</b>,
+Claude Cowork didn't <b>exist</b>.
+
+Every week there's a new <b>capability</b>
+that changes what's <b>possible</b>.
+
+And the people who catch it <b>early</b>
+and start experimenting --
+they just move <b>away</b> faster.
+
+It starts to feel like
+a completely different <b>reality</b>
+from people who checked out
+even a <b>month</b> ago.
+
+This isn't about being a <b>genius</b>.
+It's about showing <b>up</b> every week
+and paying <b>attention</b>.
+
+That's the whole <b>edge</b> right now.`,
+    cta: 'What\'s the last tool or feature you discovered that changed how you build? Drop it below.'
+  },
+  {
+    num: 32, day: 4,
+    title: "Learn the Screwdriver Before You Grab the Jackhammer",
+    hook: "Story Open", dur: "45-60s", src: "Fundamentals",
+    hooks: {
+      audio: 'You want autonomous builds and <b>sub-agents</b>, but you can\'t explain why a fresh context window <b>matters</b>. Learn the <b>screwdriver</b> first.',
+      text: 'learn the screwdriver first.',
+      visual: 'Challenge face — lean towards camera, slight head tilt. Then mime screwdriver vs jackhammer.'
+    },
+    caption: "Autonomous loops, sub-agents, agent SDKs — they're powerful. But if you don't understand WHY a fresh context window matters, or HOW a user story should be scoped, the power tools won't save you. Fundamentals first.",
+    hashtags: "#fundamentals #vibecoding #claudecode #cursor #aitools #buildanapp #learning",
+    script: `You want autonomous builds and <b>sub-agents</b>,
+but you can't explain why a fresh context window <b>matters</b>.
+Learn the <b>screwdriver</b> first.
+
+Autonomous loops.
+Sub-agents running in <b>parallel</b>.
+Full apps built while you <b>sleep</b>.
+
+That's the <b>jackhammer</b>.
+
+But here's what actually matters.
+
+Do you understand <b>why</b>
+a fresh context window
+produces better <b>output</b>?
+
+Do you know <b>how</b> to write a user story
+that the AI can actually <b>implement</b>?
+
+Do you know <b>when</b> to use a skill
+versus <b>when</b> to use a sub-agent?
+
+Do you know <b>what</b> an MCP connection does
+and <b>why</b> it matters for your build?
+
+That's the <b>screwdriver</b>.
+
+And if you skip the screwdriver
+and go straight to the jackhammer,
+you're gonna make a <b>mess</b>.
+
+Because the autonomous loop
+is only as good as the <b>PRD</b> you wrote.
+
+The sub-agents are only as effective
+as how you <b>scoped</b> their tasks.
+
+The agent SDK is only useful
+if you understand what an agent
+actually <b>does</b>.
+
+Learn the <b>fundamentals</b>.
+Understand the <b>nuances</b>.
+Then pick up the power tools.
+
+Because once you do --
+you'll know exactly <b>how</b> to wield them.`,
+    cta: 'What\'s one fundamental you wish you\'d learned earlier? Drop it in the comments — let\'s help each other out.'
+  }
+];
+
+const container = document.getElementById('scripts');
+let currentDay = 0;
+
+scripts.forEach((s, i) => {
+  if (s.day !== currentDay) {
+    currentDay = s.day;
+    const dayLabel = document.createElement('div');
+    dayLabel.className = 'day-label';
+    const dayScripts = scripts.filter(x => x.day === currentDay).map(x => '#' + x.num).join(', ');
+    const dayCount = scripts.filter(x => x.day === currentDay).length;
+    dayLabel.textContent = `DAY ${currentDay} — ${dayCount} scripts (${dayScripts})`;
+    container.appendChild(dayLabel);
+  }
+
+  const card = document.createElement('div');
+  card.className = 'script-card';
+  card.innerHTML = `
+    <div class="script-header">
+      <span class="script-num">#${s.num}</span>
+      <span class="script-title">${s.title}</span>
+      <div class="script-meta">
+        <span class="badge badge-hook">${s.hook}</span>
+        <span class="badge badge-dur">${s.dur}</span>
+      </div>
+    </div>
+    <div class="script-body">
+      <div class="section">
+        <div class="section-label">3-Layer Hook</div>
+        <div class="hook-grid">
+          <div class="hook-item"><em>Audio:</em> ${s.hooks.audio}</div>
+          <div class="hook-item"><em>Text on Screen:</em> ${s.hooks.text}</div>
+          <div class="hook-item"><em>Visual:</em> ${s.hooks.visual}</div>
+        </div>
+      </div>
+      <div class="section">
+        <div class="section-label">Caption</div>
+        <div class="caption-box">${s.caption}<br><span class="hashtags">${s.hashtags}</span></div>
+      </div>
+      <div class="section">
+        <div class="section-label">Teleprompter Script</div>
+        <div class="script-text">${s.script}</div>
+      </div>
+      <div class="section">
+        <div class="section-label">CTA</div>
+        <div class="cta-box">${s.cta}</div>
+      </div>
+    </div>
+  `;
+
+  card.querySelector('.script-header').addEventListener('click', () => {
+    const wasActive = card.classList.contains('active');
+    document.querySelectorAll('.script-card').forEach(c => c.classList.remove('active'));
+    if (!wasActive) card.classList.add('active');
+  });
+
+  container.appendChild(card);
+});
+</script>
+</body>
+</html>
