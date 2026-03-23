@@ -2569,3 +2569,64 @@ The early movers **always** win.
 | 48 | AI is Replacing Entire Consulting Budgets | |
 | 49 | Stop Saying You Built an App in One Sentence | |
 | 50 | The ChatGPT App Store Just Opened | |
+
+---
+
+# POSTHOG SCRIPT
+
+---
+
+## SCRIPT: "You Built an App and Have No Idea What's Happening Inside It"
+**Category:** Tools & Infrastructure | **Hook:** Callout | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "You built an app and you have **no idea** what your users are doing inside it."
+- TEXT ON SCREEN: "you built an app. you have NO IDEA what users are doing."
+- VISUAL: Lean in. Slight head shake. Point at camera on "you." Direct eye contact, challenging energy.
+
+**CAPTION:**
+You shipped the app. But do you actually know what's happening inside it? Most builders don't. Here's what I just set up on mine.
+
+#vibecoding #buildanapp #analytics #appdevelopment #posthog #startup
+
+**SCRIPT:**
+
+You built an app and you have **no idea**
+what your users are doing inside it.
+
+You don't know which screens they visit.
+You don't know where they **drop off**.
+You don't know if they even finish **onboarding**.
+
+You're flying **blind**.
+
+And I was doing the **same** thing
+with my meditation app.
+
+So I set up **PostHog**.
+It's open source. It's **free** up to a million events a month.
+And now I can see **everything**.
+
+Which sessions people **complete**.
+Where they **abandon** the app.
+Which features **nobody** uses.
+
+I can literally watch **session replays**
+of real people using my app.
+
+And here's what surprised me --
+it took less than **30 minutes** to set up.
+
+You don't need a data team.
+You don't need to pay for **Mixpanel** or **Amplitude**.
+PostHog gives you analytics, error tracking,
+session replay, feature flags -- all in **one** tool.
+
+If you shipped an app and you're not tracking
+what happens **after** someone downloads it --
+you're just **guessing**.
+
+Stop guessing.
+
+**CTA:** "How many of you have an app live right now with zero analytics? Be honest. Drop a comment."
