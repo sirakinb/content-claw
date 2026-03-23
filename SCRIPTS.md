@@ -2630,3 +2630,62 @@ you're just **guessing**.
 Stop guessing.
 
 **CTA:** "How many of you have an app live right now with zero analytics? Be honest. Drop a comment."
+
+---
+
+# INTRO SCRIPT
+
+---
+
+## SCRIPT: "You Probably Think I Just Vibe Code"
+**Category:** Builder Identity | **Hook:** Myth Killer | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "You probably think I just sit here and **vibe code** all day."
+- TEXT ON SCREEN: "you think I just vibe code all day?"
+- VISUAL: Smirk. Lean back, then lean in. Relaxed but confident energy — like you're about to set the record straight.
+
+**CAPTION:**
+A lot of new faces here. Let me properly introduce myself. What do YOU do? Drop it in the comments — I want to know who's in here.
+
+#vibecoding #entrepreneur #buildwithAI #automation #appdeveloper #startup
+
+**SCRIPT:**
+
+You probably think I just sit here
+and **vibe code** all day.
+
+A lot of new people just followed me
+so let me tell you who I **actually** am.
+
+My name is Aki. I run **Pentridge Media** --
+an automation and AI implementation company.
+
+I build AI workflows for **service businesses** --
+intake, onboarding, internal operations --
+and I build software for **early-stage founders**.
+
+I've launched **multiple** apps.
+A meditation app. A digital business card app.
+A voice app that's about to drop.
+
+But here's the part most people don't know.
+
+Before all of this I spent over **ten years**
+in entrepreneurship.
+
+I helped launch a **biotech incubator** in Philly.
+I ran a media organization tied to the **African diaspora**.
+I've been a licensed **Realtor** for seven years.
+I'm a **trader**. I invest in real estate.
+
+So when I talk about building apps
+and launching products --
+I'm not just **coding**.
+
+I'm building **businesses**.
+
+And that's what I'm here to teach **you** how to do.
+
+**CTA:** "New here? Drop what you're building in the comments. I want to know who just joined."
