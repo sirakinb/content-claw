@@ -2689,3 +2689,66 @@ I'm building **businesses**.
 And that's what I'm here to teach **you** how to do.
 
 **CTA:** "New here? Drop what you're building in the comments. I want to know who just joined."
+
+---
+
+# CLAUDE COMPUTER USE SCRIPT
+
+---
+
+## SCRIPT: "Claude Just Took Over Your Computer"
+**Category:** Breaking News / AI Tools | **Hook:** Urgency Frame | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Anthropic just gave Claude the ability to **control your entire computer** from your **phone**."
+- TEXT ON SCREEN: "Claude can now CONTROL your computer from your phone."
+- VISUAL: Hold up phone in one hand. Point at it. Wide eyes — this-is-a-big-deal energy. Lean in.
+
+**CAPTION:**
+Claude can now click, type, open apps, and finish tasks on your Mac — while you're not even there. You assign it from your phone. This changes everything for builders. What would YOU have it do first?
+
+#claude #anthropic #ai #aiagent #automation #vibecoding #computeruse #buildinpublic
+
+**SCRIPT:**
+
+Anthropic just gave Claude the ability
+to **control your entire computer**
+from your **phone**.
+
+This literally just dropped.
+
+You pull out your phone.
+You tell Claude "export this pitch deck as a **PDF**
+and attach it to my meeting invite."
+
+Claude opens the app on your **Mac**.
+Clicks through the menus.
+Exports the file. Attaches it.
+**Done** -- while you're not even at your desk.
+
+It can open your **browser**.
+Fill out **spreadsheets**.
+Run your **dev tools**.
+Submit **pull requests**.
+
+And if it doesn't have a direct integration --
+it literally uses your **screen**
+like a human would.
+Point. Click. Navigate.
+
+Right now it's Mac only.
+Pro and Max subscribers.
+And it's still in **research preview** --
+so it's not perfect yet.
+
+But think about what this **means**.
+
+You're at lunch.
+You send Claude a task from your **phone**.
+You come back and the work is **done**.
+
+This is not a chatbot anymore.
+This is a **digital employee**.
+
+**CTA:** "What's the first task you'd hand off to Claude? Drop it in the comments. I want to see how people would use this."
