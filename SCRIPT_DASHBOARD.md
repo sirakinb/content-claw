@@ -1,6 +1,6 @@
 # SCRIPT DASHBOARD
 **Last Updated:** 2026-03-25
-**Quick Stats:** 3 Filmed | 1 Skipped | 80+ Ready to Film
+**Quick Stats:** 6 Filmed | 3 Skipped | 80+ Ready to Film
 
 ---
 
@@ -19,12 +19,17 @@ When you film a script, tell me and I'll update both this dashboard AND the orig
 | 2 | The Feature Trap | SCRIPTS.md | MVP & Launch | Callout | 45-60s |
 | 3 | GitHub in 30 Seconds | SCRIPTS.md | Vibe Coding 101 | Demystifier | 30-45s |
 | 6 | Lovable vs Replit vs Cursor | SCRIPTS.md | Platform Comparison | Question Flip | 45-60s |
+| 33 | Jensen Huang — Every SaaS Is Dead | VCP_NEW | Breaking News | Urgency Frame | 60-90s |
+| 18 | Why Your AI Gets Dumber Over Time | VCP_NEW | Technical Insight | Nobody Talks About This | 45-60s |
+| — | Claude Just Took Over Your Computer | SCRIPTS.md (new) | Breaking News | Urgency Frame | 45-60s |
 
 ## SKIPPED
 
 | # | Title | File | Reason |
 |---|-------|------|--------|
 | 9 | AI is Moving Too Fast | SCRIPTS.md | Skipped |
+| 17 | I Woke Up to a Finished App | VCP_NEW | Skipped |
+| — | You Probably Think I Just Vibe Code (Intro) | SCRIPTS.md (new) | Skipped |
 
 ---
 
@@ -34,16 +39,21 @@ These are ranked by predicted performance based on your TikTok data (breaking ne
 
 | Priority | # | Title | File | Category | Hook | Length |
 |----------|---|-------|------|----------|------|--------|
-| **NOW** | 33 | Jensen Huang Just Said Every SaaS Is Dead | VCP_NEW | Breaking News | Urgency Frame | 60-90s |
-| **NOW** | — | Claude Just Took Over Your Computer | SCRIPTS.md (new) | Breaking News | Urgency Frame | 45-60s |
-| 1 | 17 | I Woke Up to a Finished App | VCP_NEW | Builder Story | Story Open | 45-60s |
-| 2 | 18 | Why Your AI Gets Dumber Over Time | VCP_NEW | Technical Insight | Nobody Talks About This | 45-60s |
-| 3 | 19 | User Stories Beat Feature Lists | VCP_NEW | Vibe Coding | Stop Doing This | 45-60s |
-| 4 | 20 | Software Is an Assembly Line | VCP_NEW | AI & Emerging Tech | Urgency Frame | 45-60s |
-| 5 | — | You Probably Think I Just Vibe Code (Intro) | SCRIPTS.md (new) | Builder Identity | Myth Killer | 45-60s |
-| 6 | 22 | Agents as a Backend — 2026 Shift | VCP_NEW | AI & Emerging Tech | Urgency Frame | 45-60s |
-| 7 | 27 | $200/Month AI Bill = Staff Member | VCP_NEW | Cost Hack | Hard Number | 45-60s |
-| 8 | — | You Have No Idea What Users Are Doing (PostHog) | SCRIPTS.md (new) | Builder Advice | Callout | 45-60s |
+| 1 | 19 | User Stories Beat Feature Lists | VCP_NEW | Vibe Coding | Stop Doing This | 45-60s |
+| 2 | 20 | Software Is an Assembly Line | VCP_NEW | AI & Emerging Tech | Urgency Frame | 45-60s |
+| 3 | 21 | Skills vs Sub-Agents Org Chart | VCP_NEW | AI & Emerging Tech | Nobody Talks About This | 45-60s |
+| 4 | 22 | Agents as a Backend — 2026 Shift | VCP_NEW | AI & Emerging Tech | Urgency Frame | 45-60s |
+| 5 | 23 | Anthropic Open-Sourced the Clay | VCP_NEW | AI Tools | Nobody Talks About This | 45-60s |
+| 6 | 24 | MCP Servers Changed Everything | VCP_NEW | AI Tools | Nobody Talks About This | 45-60s |
+| 7 | 25 | Real Bottleneck Isn't Leads | VCP_NEW | Business Strategy | Myth Killer | 45-60s |
+| 8 | 26 | 3 Things Every App Needs Day 1 | VCP_NEW | Vibe Coding 101 | Hard Number + Callout | 45-60s |
+| 9 | 27 | $200/Month AI = Staff Member | VCP_NEW | Cost Hack | Hard Number + Myth Killer | 45-60s |
+| 10 | 28 | The Agent Era is Here | VCP_NEW | AI & Emerging Tech | Urgency Frame | 45-60s |
+| 11 | 29 | Why Your Vibe-Coded App Keeps Breaking | VCP_NEW | Vibe Coding Reality | Nobody Talks About This | 45-60s |
+| 12 | 30 | Fresh Context > Long Context | VCP_NEW | Technical Insight | Stop Doing This | 45-60s |
+| 13 | 31 | The Gap Is Widening | VCP_NEW | Urgency / Mindset | Urgency Frame | 45-60s |
+| 14 | 32 | Screwdriver Before Jackhammer | VCP_NEW | Vibe Coding 101 | Story Open | 45-60s |
+| 15 | — | You Have No Idea What Users Are Doing (PostHog) | SCRIPTS.md (new) | Builder Advice | Callout | 45-60s |
 
 ---
 
@@ -108,8 +118,8 @@ These are ranked by predicted performance based on your TikTok data (breaking ne
 
 | # | Title | Status | Category | Hook | Length |
 |---|-------|--------|----------|------|--------|
-| 17 | I Woke Up to a Finished App | NOT FILMED | Builder Story | Story Open | 45-60s |
-| 18 | Why Your AI Gets Dumber Over Time | NOT FILMED | Technical Insight | Nobody Talks About This | 45-60s |
+| 17 | I Woke Up to a Finished App | **SKIPPED** | Builder Story | Story Open | 45-60s |
+| 18 | Why Your AI Gets Dumber Over Time | **FILMED** | Technical Insight | Nobody Talks About This | 45-60s |
 | 19 | User Stories Beat Feature Lists | NOT FILMED | Vibe Coding | Stop Doing This | 45-60s |
 | 20 | Software Is an Assembly Line | NOT FILMED | AI & Emerging Tech | Urgency Frame | 45-60s |
 | 21 | Skills vs Sub-Agents Org Chart | NOT FILMED | AI & Emerging Tech | Nobody Talks About This | 45-60s |
@@ -124,7 +134,7 @@ These are ranked by predicted performance based on your TikTok data (breaking ne
 | 30 | Fresh Context > Long Context | NOT FILMED | Technical Insight | Stop Doing This | 45-60s |
 | 31 | The Gap Is Widening | NOT FILMED | Urgency / Mindset | Urgency Frame | 45-60s |
 | 32 | Screwdriver Before Jackhammer | NOT FILMED | Vibe Coding 101 | Story Open | 45-60s |
-| 33 | Jensen Huang — Every SaaS Is Dead | NOT FILMED | Breaking News | Urgency Frame | 60-90s |
+| 33 | Jensen Huang — Every SaaS Is Dead | **FILMED** | Breaking News | Urgency Frame | 60-90s |
 
 ---
 
@@ -133,8 +143,8 @@ These are ranked by predicted performance based on your TikTok data (breaking ne
 | Title | Status | Category | Hook | Length |
 |-------|--------|----------|------|--------|
 | You Have No Idea What Users Are Doing (PostHog) | NOT FILMED | Builder Advice | Callout | 45-60s |
-| You Probably Think I Just Vibe Code (Intro) | NOT FILMED | Builder Identity | Myth Killer | 45-60s |
-| Claude Just Took Over Your Computer | NOT FILMED | Breaking News | Urgency Frame | 45-60s |
+| You Probably Think I Just Vibe Code (Intro) | **SKIPPED** | Builder Identity | Myth Killer | 45-60s |
+| Claude Just Took Over Your Computer | **FILMED** | Breaking News | Urgency Frame | 45-60s |
 
 ---
 
@@ -176,23 +186,30 @@ These are ranked by predicted performance based on your TikTok data (breaking ne
 
 ## FILMING SCHEDULE SUGGESTION (5 per session)
 
-**Session 1 — Breaking News + High Performers:**
-1. Jensen Huang — Every SaaS Is Dead (time-sensitive)
-2. Claude Just Took Over Your Computer (just announced today)
-3. You Probably Think I Just Vibe Code (intro for new followers)
-4. I Woke Up to a Finished App (story hook)
-5. Why Your AI Gets Dumber Over Time (context rot)
+**Session 1 — DONE:**
+1. ~~Jensen Huang — Every SaaS Is Dead~~ **FILMED**
+2. ~~Claude Just Took Over Your Computer~~ **FILMED**
+3. ~~Why Your AI Gets Dumber Over Time~~ **FILMED**
+4. ~~You Probably Think I Just Vibe Code~~ SKIPPED
+5. ~~I Woke Up to a Finished App~~ SKIPPED
 
-**Session 2 — Cost Hacks + Builder Advice:**
-1. $200/Month AI = Staff Member
-2. Save $80/Month on Cursor
-3. User Stories Beat Feature Lists
-4. 3 Things Every App Needs Day 1
+**Session 2 — UP NEXT (VCP_NEW remaining):**
+1. User Stories Beat Feature Lists (#19)
+2. Software Is an Assembly Line (#20)
+3. Skills vs Sub-Agents Org Chart (#21)
+4. Agents as a Backend — 2026 Shift (#22)
+5. Anthropic Open-Sourced the Clay (#23)
+
+**Session 3 — VCP_NEW continued:**
+1. MCP Servers Changed Everything (#24)
+2. Real Bottleneck Isn't Leads (#25)
+3. 3 Things Every App Needs Day 1 (#26)
+4. $200/Month AI = Staff Member (#27)
+5. The Agent Era is Here (#28)
+
+**Session 4 — VCP_NEW finish + PostHog:**
+1. Why Your Vibe-Coded App Keeps Breaking (#29)
+2. Fresh Context > Long Context (#30)
+3. The Gap Is Widening (#31)
+4. Screwdriver Before Jackhammer (#32)
 5. You Have No Idea What Users Are Doing (PostHog)
-
-**Session 3 — Vibe Coding Core:**
-1. You Don't Need to Code (#1)
-2. Don't Go Learn Python (#35)
-3. AI Gives You 70% (#47)
-4. The Learning Curve Nobody Shows You (#38)
-5. Tool Ladder: ChatGPT → Lovable → Cursor (#41)
