@@ -1,6 +1,6 @@
 # SCRIPT DASHBOARD
 **Last Updated:** 2026-03-25
-**Quick Stats:** 6 Filmed | 3 Skipped | 80+ Ready to Film
+**Quick Stats:** 7 Filmed | 3 Skipped | 80+ Ready to Film
 
 ---
 
@@ -22,6 +22,7 @@ When you film a script, tell me and I'll update both this dashboard AND the orig
 | 33 | Jensen Huang — Every SaaS Is Dead | VCP_NEW | Breaking News | Urgency Frame | 60-90s |
 | 18 | Why Your AI Gets Dumber Over Time | VCP_NEW | Technical Insight | Nobody Talks About This | 45-60s |
 | — | Claude Just Took Over Your Computer | SCRIPTS.md (new) | Breaking News | Urgency Frame | 45-60s |
+| 19 | User Stories Beat Feature Lists | VCP_NEW | Vibe Coding | Stop Doing This | 45-60s |
 
 ## SKIPPED
 
@@ -39,8 +40,7 @@ These are ranked by predicted performance based on your TikTok data (breaking ne
 
 | Priority | # | Title | File | Category | Hook | Length |
 |----------|---|-------|------|----------|------|--------|
-| 1 | 19 | User Stories Beat Feature Lists | VCP_NEW | Vibe Coding | Stop Doing This | 45-60s |
-| 2 | 20 | Software Is an Assembly Line | VCP_NEW | AI & Emerging Tech | Urgency Frame | 45-60s |
+| 1 | 20 | Software Is an Assembly Line | VCP_NEW | AI & Emerging Tech | Urgency Frame | 45-60s |
 | 3 | 21 | Skills vs Sub-Agents Org Chart | VCP_NEW | AI & Emerging Tech | Nobody Talks About This | 45-60s |
 | 4 | 22 | Agents as a Backend — 2026 Shift | VCP_NEW | AI & Emerging Tech | Urgency Frame | 45-60s |
 | 5 | 23 | Anthropic Open-Sourced the Clay | VCP_NEW | AI Tools | Nobody Talks About This | 45-60s |
@@ -120,7 +120,7 @@ These are ranked by predicted performance based on your TikTok data (breaking ne
 |---|-------|--------|----------|------|--------|
 | 17 | I Woke Up to a Finished App | **SKIPPED** | Builder Story | Story Open | 45-60s |
 | 18 | Why Your AI Gets Dumber Over Time | **FILMED** | Technical Insight | Nobody Talks About This | 45-60s |
-| 19 | User Stories Beat Feature Lists | NOT FILMED | Vibe Coding | Stop Doing This | 45-60s |
+| 19 | User Stories Beat Feature Lists | **FILMED** | Vibe Coding | Stop Doing This | 45-60s |
 | 20 | Software Is an Assembly Line | NOT FILMED | AI & Emerging Tech | Urgency Frame | 45-60s |
 | 21 | Skills vs Sub-Agents Org Chart | NOT FILMED | AI & Emerging Tech | Nobody Talks About This | 45-60s |
 | 22 | Agents as a Backend — 2026 Shift | NOT FILMED | AI & Emerging Tech | Urgency Frame | 45-60s |
