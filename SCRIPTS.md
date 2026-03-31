@@ -2752,3 +2752,82 @@ This is not a chatbot anymore.
 This is a **digital employee**.
 
 **CTA:** "What's the first task you'd hand off to Claude? Drop it in the comments. I want to see how people would use this."
+
+---
+
+# HERMES AGENT SCRIPT
+
+---
+
+## SCRIPT: "I Found the Personal AI Agent That Actually Sticks"
+**Category:** AI Tools / Builder Experience | **Hook:** Nobody Talks About This | **Length:** 55-70 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "I just set up an AI agent that runs on my **phone**, my **terminal**, my **Slack**, and my **Telegram** -- all at the same **time**. And almost **nobody** is talking about it."
+- TEXT ON SCREEN: "this AI agent runs EVERYWHERE. nobody's talking about it."
+- VISUAL: Hold up phone, then gesture outward like expanding across platforms. Lean in on "nobody is talking about it."
+
+**COVER PHOTO TITLE:** "The AI Agent That Runs Everywhere"
+
+**CAPTION:**
+I tried OpenClaw. Spent more time connecting things than actually using it. Then Nous Research dropped Hermes Agent — open source, pre-configured, runs on Telegram, Slack, Discord, and your terminal simultaneously. It remembers everything. It writes its own skills. And the setup took me less than 10 minutes. This is the personal agent we've been waiting for.
+
+#hermesagent #nousresearch #aiagent #openclaw #opensource #vibecoding #automation #personalai
+
+**SCRIPT:**
+
+I just set up an AI agent that runs on my **phone**,
+my **terminal**, my **Slack**, and my **Telegram** --
+all at the same **time**.
+And almost **nobody** is talking about it.
+
+It's called **Hermes Agent**
+by Nous Research.
+
+And this is what OpenClaw
+was **supposed** to be.
+
+Shout out to OpenClaw -- they're doing their **thing**.
+But I stopped using it
+because I was spending more time **connecting** things
+than actually **using** it.
+
+Hermes is **different**.
+
+It comes **pre-configured**.
+Forty-plus built-in tools.
+Security baked in from **day one** --
+Docker isolation, sandboxed terminals,
+no data leaving your **machine**.
+
+But here's what makes it **special**.
+
+It **remembers** you.
+
+Every conversation, every task you give it --
+it builds **skills** from your interactions.
+
+So the second time you ask it
+to do something **similar**,
+it's already **faster**.
+
+It literally gets **smarter**
+the more you use it.
+
+And the setup?
+One **curl** command.
+Under **ten minutes**.
+
+You can run it from Telegram
+while you're on the **train**.
+Pick it up in Slack
+when you're at your **desk**.
+Same context. Same **memory**.
+
+This is the personal AI agent
+that actually fits into your **workflow**.
+
+Not one you have to build your workflow **around**.
+
+**CTA:** "Have you tried Hermes Agent or are you still on OpenClaw? Drop where you're at -- I want to know what people are using."

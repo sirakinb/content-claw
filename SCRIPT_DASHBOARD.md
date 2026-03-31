@@ -54,6 +54,7 @@ These are ranked by predicted performance based on your TikTok data (breaking ne
 | 13 | 31 | The Gap Is Widening | VCP_NEW | Urgency / Mindset | Urgency Frame | 45-60s |
 | 14 | 32 | Screwdriver Before Jackhammer | VCP_NEW | Vibe Coding 101 | Story Open | 45-60s |
 | 15 | — | You Have No Idea What Users Are Doing (PostHog) | SCRIPTS.md (new) | Builder Advice | Callout | 45-60s |
+| **NOW** | — | The AI Agent That Runs Everywhere (Hermes) | SCRIPTS.md (new) | AI Tools / Builder | Nobody Talks About This | 55-70s |
 
 ---
 
@@ -145,6 +146,7 @@ These are ranked by predicted performance based on your TikTok data (breaking ne
 | You Have No Idea What Users Are Doing (PostHog) | NOT FILMED | Builder Advice | Callout | 45-60s |
 | You Probably Think I Just Vibe Code (Intro) | **SKIPPED** | Builder Identity | Myth Killer | 45-60s |
 | Claude Just Took Over Your Computer | **FILMED** | Breaking News | Urgency Frame | 45-60s |
+| The AI Agent That Runs Everywhere (Hermes) | NOT FILMED | AI Tools / Builder | Nobody Talks About This | 55-70s |
 
 ---
 
