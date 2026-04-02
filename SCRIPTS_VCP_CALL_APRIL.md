@@ -1,0 +1,515 @@
+# VCP CALL SCRIPTS — April 2026
+**Source:** Vibe Code Pioneers community call
+**Scripts:** 8 | **Status:** Ready to Film
+**Style:** Builder sharing what he knows | **Length:** 45-60 sec | **Format:** Talking head (teleprompter)
+
+---
+
+## SCRIPT 1: "The AI Deleted His Entire .env File"
+**Category:** Vibe Coding Reality | **Hook:** Story Open | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Someone in my community was building an app and the AI just **deleted** his entire .env file. No warning. No reason."
+- TEXT ON SCREEN: "the AI deleted his .env file."
+- VISUAL: Lean in, slight wince. Hands up like "I'm not making this up." Dead serious energy.
+
+**CAPTION:**
+He was merging code between two AI platforms. The AI decided — on its own — to delete the .env file. No warning. No rollback. If you don't know what an .env file is, it holds every secret your app needs to run. Gone.
+
+#vibecoding #envfile #buildanapp #aitool #appdevelopment #cursor #security
+
+**SCRIPT:**
+
+Someone in my community was building an app
+and the AI just **deleted** his entire .env file.
+No warning. No **reason**.
+
+If you don't know what that is --
+that's the file that holds **every** secret your app needs.
+
+Your API keys.
+Your database **connection**.
+Your payment credentials.
+**Everything**.
+
+Gone.
+
+Here's what happened.
+
+He was working on the same project
+in **two** different AI coding tools.
+He tried to merge the code.
+And the AI just decided
+to **delete** the .env file.
+
+No one told it to.
+It just made that **decision**.
+
+And this is the part nobody talks about.
+
+These tools are making **architectural decisions**
+that you didn't ask for.
+
+And if you're not checking what changed
+before you accept the **output** --
+you might not catch it until your app is **broken**.
+
+Here's the fix.
+
+**One** -- always back up your .env file separately.
+Never trust it to **any** AI tool.
+
+**Two** -- use GitHub so you can **roll back**
+if something goes wrong.
+
+**Three** -- review the changes before you accept them.
+Every. Single. **Time**.
+
+The AI is powerful.
+But it doesn't always know what it should **leave alone**.
+
+**CTA:** "Has your AI ever done something you didn't ask it to do? I want to hear the horror stories. Drop them below."
+
+---
+
+## SCRIPT 2: "Stop Building on Two AI Platforms at the Same Time"
+**Category:** Vibe Coding Reality | **Hook:** Stop Doing This | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "If you're building the **same** app in two different AI tools -- **stop**. You're about to lose everything."
+- TEXT ON SCREEN: "two AI tools. same project. you're gonna lose work."
+- VISUAL: Hand up in stop gesture. Lean towards camera. Urgent energy.
+
+**CAPTION:**
+One project. Two AI tools. Different progress in each. Tried to merge. AI deleted critical files. Pick one tool, stay in it, and use GitHub as your safety net. This is the lesson most people learn the hard way.
+
+#vibecoding #cursor #windsurf #buildanapp #github #appdevelopment #devtips
+
+**SCRIPT:**
+
+If you're building the **same** app
+in two different AI tools --
+**stop**.
+You're about to lose everything.
+
+I just watched this happen in my **community**.
+
+Someone was building in **Windsurf**
+and **Bold** at the same time.
+
+Different progress in **each** tool.
+Different files. Different **decisions**.
+
+When he tried to **merge** them --
+the AI got confused
+and started **deleting** things.
+
+Critical files. **Gone**.
+
+And here's the thing.
+Each AI tool makes its **own** architectural decisions.
+Tool A structures your code **one** way.
+Tool B structures it **another** way.
+
+When you try to bring them **together** --
+they **conflict**.
+
+And the AI resolves that conflict
+by making choices you didn't **ask** for.
+
+So here's the rule.
+
+Pick **one** tool. Stay in it.
+
+If you want to experiment,
+**fine** -- but use a separate branch.
+And always, **always** use GitHub
+so you can roll **back**.
+
+Your codebase is not a playground
+for two AIs to fight **over**.
+
+**CTA:** "How many of you are using multiple AI coding tools on the same project right now? Be honest. Drop it below."
+
+---
+
+## SCRIPT 3: "You Built a Version 5 and Haven't Launched Anything"
+**Category:** MVP & Launch | **Hook:** Callout | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "You were supposed to build a **version one**. You built a version **five**. And you **still** haven't launched."
+- TEXT ON SCREEN: "you built a V5. you haven't launched."
+- VISUAL: Lean in. Count on fingers — one, then five. Slight head shake. Challenging energy.
+
+**CAPTION:**
+Someone in my community admitted it on a call. Was supposed to ship a simple V1. Ended up with authentication issues, payment integrations, advanced features — a whole V5. Still hasn't launched. Sound familiar?
+
+#mvp #vibecoding #buildanapp #startup #appdevelopment #launch #founder
+
+**SCRIPT:**
+
+You were supposed to build a **version one**.
+You built a version **five**.
+And you **still** haven't launched.
+
+Someone in my community just admitted this
+on a **call**.
+
+He was supposed to ship something **simple**.
+A clean V1. Core feature. Get it **out** there.
+
+Instead he built authentication
+with Google Cloud. **Payments**.
+Advanced outreach features.
+The **works**.
+
+And now he's stuck fighting
+Google OAuth **reviews**,
+production security **issues**,
+and bugs he can't even **trace**.
+
+Because every feature you add
+before you **launch**
+is another thing that can **break**.
+
+And when five things break at **once** --
+you don't know which one caused it.
+
+Here's the truth.
+
+Your V1 should be **embarrassing**.
+It should feel **too simple**.
+That means it's **ready**.
+
+Ship it. Let real people **use** it.
+Let **them** tell you what version two looks like.
+
+You're not building a product right now.
+You're building a **trap**.
+
+**CTA:** "What version are you on right now? And have you launched yet? Be real in the comments."
+
+---
+
+## SCRIPT 4: "You Don't Trust Your AI. That's the Real Problem."
+**Category:** Builder Mindset | **Hook:** Nobody Talks About This | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "The biggest problem with AI right now isn't the **technology**. It's that you don't **trust** it."
+- TEXT ON SCREEN: "you don't trust your AI. that's the problem."
+- VISUAL: Lean in, hands together. Serious, reflective energy. Direct eye contact.
+
+**CAPTION:**
+I tried Paperclip — a platform where multiple AI agents run your whole project like a company. CEO agent, CTO agent, engineers. Sounds amazing. But I couldn't trust the outputs. Couldn't control what was happening. That's the real bottleneck right now.
+
+#aiagents #trust #vibecoding #paperclip #buildanapp #claudecode #founder
+
+**SCRIPT:**
+
+The biggest problem with AI right now
+isn't the **technology**.
+It's that you don't **trust** it.
+
+I tested a platform called **Paperclip**.
+
+Multiple AI agents running like a **company**.
+CEO agent. CTO agent.
+Engineers building in **parallel**.
+
+Sounds **amazing**, right?
+
+But within a couple hours
+I had **no idea** what was happening.
+
+I couldn't trust the **outputs**.
+I couldn't control what the agents
+were **deciding**.
+
+And I connected it to my **GitHub**.
+My real **codebase**.
+
+So every bad decision
+had real **consequences**.
+
+And that's the thing
+nobody's talking about right now.
+
+The tools are **powerful**.
+But trust has to be **built**.
+
+The same way you'd onboard
+a new **employee**.
+
+You start with a **PRD**.
+You give clear **instructions**.
+You review the **output**.
+You build confidence **step by step**.
+
+You don't hand someone
+the keys to everything on **day one**.
+
+And you shouldn't do that
+with your AI **either**.
+
+**CTA:** "Do you trust your AI right now? Or are you second-guessing everything it builds? I want to hear it."
+
+---
+
+## SCRIPT 5: "How to Test Your App Without Being a Developer"
+**Category:** Vibe Coding 101 | **Hook:** Demystifier | **Length:** 50-65 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Let me explain app testing in a way that actually makes **sense** -- even if you've **never** written a test in your life."
+- TEXT ON SCREEN: "app testing explained simply. save this."
+- VISUAL: Lean in with genuine "let me help you" energy. Hands open, teaching mode.
+
+**CAPTION:**
+Unit testing. Functional testing. UAT. Regression suites. Sounds scary. It's not. Here's the breakdown every vibe coder needs. Save this.
+
+#testing #vibecoding #appdevelopment #buildanapp #qa #cursor #claudecode
+
+**SCRIPT:**
+
+Let me explain app testing in a way
+that actually makes **sense** --
+even if you've **never** written a test in your life.
+
+There are **four** levels. That's it.
+
+**One** -- unit testing.
+You're testing the smallest **pieces**.
+Does this one function do what it's supposed to?
+
+**Two** -- functional testing.
+You're testing the **workflows**.
+Can a user sign up, log in,
+and complete the main **action**?
+
+**Three** -- UAT. User acceptance testing.
+This is right before you **launch**.
+You're walking through every path
+a real user would **take**.
+
+**Four** -- and this is the one
+most vibe coders have never heard of --
+a **regression suite**.
+
+You build a set of tests
+for the things that should **never** change.
+
+Login works. Payments **process**.
+Core features **function**.
+
+And every time you add a **new** feature,
+you run that regression suite
+to make sure nothing **else** broke.
+
+Build it **once**.
+Run it **every** time you ship.
+
+That's how real engineering teams
+have **always** worked.
+
+And now you can do the **same** thing
+with Claude or Cursor
+running the tests **for** you.
+
+**CTA:** "Save this. How many of you have shipped an app with zero testing? No judgment — but let's fix that."
+
+---
+
+## SCRIPT 6: "100% AI Content Will Get You Shadow Banned"
+**Category:** Business Strategy | **Hook:** Stop Doing This | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "If you're posting **100%** AI-generated content right now, your account is about to get **shadow banned**."
+- TEXT ON SCREEN: "100% AI content = shadow banned"
+- VISUAL: Hand up in stop gesture. Lean towards camera. Warning energy — not fear, just real talk.
+
+**CAPTION:**
+The platforms can detect it. They're already filtering it. The move isn't full automation — it's automating everything EXCEPT the human part. That's the sweet spot most creators are missing.
+
+#contentcreation #ai #shadowban #socialmedia #tiktok #instagram #automation
+
+**SCRIPT:**
+
+If you're posting **100%** AI-generated content right now,
+your account is about to get **shadow banned**.
+
+The platforms can **detect** it.
+They're already **filtering** it.
+And they will tank your **reach**
+without telling you.
+
+Here's what the smartest creators are doing **instead**.
+
+They automate **everything** except the human part.
+
+The AI writes the **script**.
+You **record** the video.
+
+The AI drafts the **post**.
+You **edit** it in your voice.
+
+The AI schedules the **content**.
+But it pushes to your **drafts** folder --
+not straight to **publish**.
+
+That's the sweet spot.
+
+Because these platforms **reward**
+authentic human content.
+They're actively **punishing** the slop.
+
+And if your entire feed
+is AI-generated text, AI-generated images,
+AI-generated **everything** --
+
+You're not building a brand.
+You're building a **spam** account.
+
+Automate the **process**.
+Keep the human in the **product**.
+
+That's the only version of this
+that actually **works** right now.
+
+**CTA:** "Are you posting AI-generated content right now? Check your reach. You might already be getting hit. Drop what you're seeing."
+
+---
+
+## SCRIPT 7: "Sell the Outcome, Not the Software"
+**Category:** Business Strategy | **Hook:** Myth Killer | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "You built an app and you're charging **$20 a month** for it. That's the wrong model."
+- TEXT ON SCREEN: "$20/month? wrong model."
+- VISUAL: Slight wince on "$20." Lean towards camera. "Let me put you on" energy.
+
+**CAPTION:**
+In the early days, software alone can't justify premium pricing. But wrap it in a service — deliver the outcome, not just the tool — and you can charge 10x more. Your app becomes the engine, not the product.
+
+#saas #pricing #startup #vibecoding #buildanapp #entrepreneur #businessmodel
+
+**SCRIPT:**
+
+You built an app and you're charging
+**$20 a month** for it.
+That's the wrong model.
+
+Here's why.
+
+In the early days,
+you don't have **thousands** of users.
+You don't have **brand** recognition.
+You don't have the **volume**
+to make $20 a month work.
+
+But here's what you **do** have.
+
+You have a tool that **solves** a problem.
+
+So instead of selling **access** to the tool --
+sell the **outcome** the tool produces.
+
+If your app does outreach --
+don't sell the software.
+Sell **booked meetings**.
+
+If your app does analytics --
+don't sell dashboards.
+Sell **insights** that grow revenue.
+
+If your app does onboarding --
+don't sell the workflow.
+Sell **faster** time to value.
+
+Your software becomes the **engine**.
+But the client is paying for the **result**.
+
+You can charge **10x** more.
+You stay closer to your **users**.
+And you build **defensibility**
+because nobody can see how it works
+behind the scenes.
+
+Software as a service is fine.
+But service as **software** --
+that's the early-stage **cheat code**.
+
+**CTA:** "Are you selling software or selling outcomes? That one shift changes everything. What would yours look like?"
+
+---
+
+## SCRIPT 8: "Zero Human Companies Are Way Smaller Than You Think"
+**Category:** AI & Emerging Tech | **Hook:** Hard Number | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Someone vibe coded a portrait app. **One** person. Making over **$100K a month**. That's a zero human company."
+- TEXT ON SCREEN: "1 person. $100K/month. zero employees."
+- VISUAL: Hold up one finger. Lean back slightly, then lean in. "Let that sink in" energy.
+
+**CAPTION:**
+Everyone's talking about zero human companies like it's some sci-fi future. It's already here — just way smaller than you think. One person, one vibe-coded app, 100K+ a month. That's the version that actually works right now.
+
+#zerohumancompany #vibecoding #solofounder #startup #ai #entrepreneur #buildanapp
+
+**SCRIPT:**
+
+Someone vibe coded a portrait app.
+**One** person.
+Making over **$100K a month**.
+That's a zero human company.
+
+Everyone's talking about this concept
+like it's some **sci-fi** future.
+
+AI agents running **entire** corporations.
+CEOs and CTOs and engineers --
+all **artificial**.
+
+I tried it.
+I tested a platform called **Paperclip**
+that does exactly that.
+
+And within a couple hours
+it was **convoluted**.
+I couldn't trust the **decisions**.
+I couldn't control the **output**.
+
+Because we're not **there** yet.
+
+But here's what we **are** ready for.
+
+One person.
+One **vibe-coded** app.
+Automations handling the **operations**.
+AI handling the **support**.
+
+No employees. No **overhead**.
+
+That portrait app?
+Take a photo. AI converts it.
+Print on demand **ships** it.
+**Done**.
+
+That's a real business
+running with **zero** humans.
+
+The zero human company isn't a **fantasy**.
+It's just **smaller** than everyone imagines.
+
+And that's actually the **opportunity**.
+
+Because you can build **one** right now.
+Today. By **yourself**.
+
+**CTA:** "What's the smallest business you could build that runs itself? Drop your idea below. Best one wins."
