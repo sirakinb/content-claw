@@ -512,3 +512,73 @@ Because you can build **one** right now.
 Today. By **yourself**.
 
 **CTA:** "What's the smallest business you could build that runs itself? Drop your idea below. Best one wins."
+
+---
+
+# BREAKING NEWS SCRIPT
+
+---
+
+## SCRIPT 9: "Cursor Just Became an Agent Platform"
+**Category:** Breaking News / AI Tools | **Hook:** Urgency Frame | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Cursor just dropped **3.0** and it's not a code editor anymore. It's an **agent platform**."
+- TEXT ON SCREEN: "Cursor 3.0 just dropped. it's not a code editor anymore."
+- VISUAL: Lean in, hands apart like "this is big." Wide eyes, breaking news energy.
+
+**COVER PHOTO TITLE:** "Cursor 3.0 Changes Everything"
+
+**CAPTION:**
+Cursor just launched 3.0 — and it's a completely different product now. Agent-first interface. Up to 8 agents running in parallel. Built-in browser. Voice control. Cloud agents that build while you sleep. This isn't VS Code with AI anymore. This is an agent orchestration platform. The coding tool war just got real.
+
+#cursor #cursor3 #aiagent #vibecoding #claudecode #codex #appdevelopment #buildinpublic
+
+**SCRIPT:**
+
+Cursor just dropped **3.0**
+and it's not a code editor anymore.
+It's an **agent platform**.
+
+This literally just **launched**.
+
+The entire interface has been **redesigned**.
+It's no longer organized around **files**.
+It's organized around **agents**.
+
+You can run up to **eight** agents
+in parallel. At the same **time**.
+
+Each one gets its own isolated **environment**
+so they don't step on each other's **code**.
+
+You can trigger agents from **Slack**.
+From **GitHub**. From **Linear**.
+They spin up in the **cloud**,
+build your features,
+and deliver a merge-ready **pull request**.
+
+It has a built-in **browser** now.
+**Voice** control.
+And a web dashboard
+where you manage all your agents
+from **anywhere**.
+
+This is Cursor going directly at
+**Claude Code** and **Codex**.
+
+And here's what this means for **you**.
+
+If you're a vibe coder using Cursor --
+you're no longer just **prompting**.
+You're managing a **team** of agents.
+
+The tool you've been using
+just fundamentally **changed**
+what it is.
+
+And most people haven't even
+**opened** it yet today.
+
+**CTA:** "Have you updated Cursor yet? What's the first thing you're testing? Drop it below."
