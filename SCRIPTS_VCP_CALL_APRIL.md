@@ -10,7 +10,7 @@
 **Status:** NOT YET FILMED
 
 **HOOK:**
-- AUDIO: "Someone in my community was building an app and the AI just **deleted** his entire .env file. No warning. No reason."
+- AUDIO: "Someone was building an app and the AI just **deleted** his entire .env file. No warning. No reason."
 - TEXT ON SCREEN: "the AI deleted his .env file."
 - VISUAL: Lean in, slight wince. Hands up like "I'm not making this up." Dead serious energy.
 
@@ -21,7 +21,7 @@ He was merging code between two AI platforms. The AI decided — on its own — 
 
 **SCRIPT:**
 
-Someone in my community was building an app
+Someone was building an app
 and the AI just **deleted** his entire .env file.
 No warning. No **reason**.
 
@@ -94,7 +94,7 @@ in two different AI tools --
 **stop**.
 You're about to lose everything.
 
-I just watched this happen in my **community**.
+I just watched this **happen**.
 
 Someone was building in **Windsurf**
 and **Bold** at the same time.
@@ -145,7 +145,7 @@ for two AIs to fight **over**.
 - VISUAL: Lean in. Count on fingers — one, then five. Slight head shake. Challenging energy.
 
 **CAPTION:**
-Someone in my community admitted it on a call. Was supposed to ship a simple V1. Ended up with authentication issues, payment integrations, advanced features — a whole V5. Still hasn't launched. Sound familiar?
+Was supposed to ship a simple V1. Ended up with authentication issues, payment integrations, advanced features — a whole V5. Still hasn't launched. Sound familiar?
 
 #mvp #vibecoding #buildanapp #startup #appdevelopment #launch #founder
 
@@ -155,21 +155,20 @@ You were supposed to build a **version one**.
 You built a version **five**.
 And you **still** haven't launched.
 
-Someone in my community just admitted this
-on a **call**.
+I see this **all** the time.
 
-He was supposed to ship something **simple**.
+You start with a simple **idea**.
 A clean V1. Core feature. Get it **out** there.
 
-Instead he built authentication
+Instead you build authentication
 with Google Cloud. **Payments**.
 Advanced outreach features.
 The **works**.
 
-And now he's stuck fighting
+And now you're stuck fighting
 Google OAuth **reviews**,
 production security **issues**,
-and bugs he can't even **trace**.
+and bugs you can't even **trace**.
 
 Because every feature you add
 before you **launch**
