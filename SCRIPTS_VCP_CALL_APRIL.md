@@ -582,3 +582,76 @@ And most people haven't even
 **opened** it yet today.
 
 **CTA:** "Have you updated Cursor yet? What's the first thing you're testing? Drop it below."
+
+---
+
+## SCRIPT 10: "Google Just Open-Sourced a Model You Can Run on Your Phone"
+**Category:** Breaking News / AI Tools | **Hook:** Hard Number | **Length:** 45-60 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Google just dropped an AI model that's the **third** best open model in the world. And you can run it on your **phone**. For **free**."
+- TEXT ON SCREEN: "#3 open model in the world. runs on your phone. free."
+- VISUAL: Hold up phone. Three fingers on "third." Lean in on "free." Breaking news energy.
+
+**COVER PHOTO TITLE:** "Google's Free AI Model Changes Everything"
+
+**CAPTION:**
+Google just released Gemma 4 under Apache 2.0 — fully open source, commercially usable, runs locally on your phone, laptop, even a Raspberry Pi. No API costs. No cloud. No subscription. It handles video, images, audio, function calling, and agentic workflows. This isn't competing with Claude or GPT. This is a different game entirely.
+
+#gemma4 #google #opensource #aimodel #vibecoding #localai #freeai #appdevelopment
+
+**SCRIPT:**
+
+Google just dropped an AI model
+that's the **third** best open model in the world.
+And you can run it on your **phone**.
+For **free**.
+
+It's called **Gemma 4**.
+
+And before you ask --
+no, this is not competing with
+**Claude** or **ChatGPT**.
+
+Those are cloud models.
+You pay for **access**.
+
+This is a model you run
+on your **own** hardware.
+
+Your laptop. Your phone.
+Even a **Raspberry Pi**.
+
+No API costs. No **subscription**.
+No data leaving your **machine**.
+
+And it's not some watered-down toy.
+
+It handles **video**. **Images**. **Audio**.
+Function calling for **agents**.
+Up to **256K** context window.
+**140** languages.
+
+And Google just released it
+under **Apache 2.0** --
+which means you can use it commercially.
+Build products with it.
+**Sell** things powered by it.
+
+No restrictions.
+
+So why does this **matter** for you?
+
+Because now you can build
+**AI-powered features** into your app
+without paying OpenAI or Anthropic
+a single **cent** per request.
+
+Local AI. **Free** AI.
+Running inside **your** product.
+
+That's a completely different
+**business model**.
+
+**CTA:** "Would you use a free local AI model in your app instead of paying for API calls? What would you build with it? Drop it below."
