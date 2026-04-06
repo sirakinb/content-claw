@@ -754,7 +754,7 @@ changes **everything**.
 **COVER PHOTO TITLE:** "Vibe Coding's Creator Just Dropped 2 New Tools"
 
 **CAPTION:**
-Andrej Karpathy coined "vibe coding" — Collins Dictionary Word of the Year. Now he just shipped AutoResearch and LLM Knowledge Bases. The CEO of Shopify used AutoResearch overnight — woke up to a 19% better model and 53% faster rendering on Shopify's template engine. Then Karpathy dropped LLM Knowledge Bases — AI builds you a personal research wiki. 100 articles. 400K words. Zero written by him. Build your research base before you even open Cursor.
+Andrej Karpathy coined "vibe coding" — Collins Dictionary Word of the Year. Now he just shipped AutoResearch and LLM Knowledge Bases. The Shopify CEO used AutoResearch — went to sleep and woke up to an app that was 19% faster from 37 experiments the AI ran on its own. Then Karpathy dropped LLM Knowledge Bases — a system where the AI builds you a personal research wiki that compounds over time. The more you feed it, the smarter it gets. 100 articles. 400K words. Zero written by him.
 
 #karpathy #vibecoding #autoresearch #llm #ai #knowledgebase #claudecode #openai #tesla
 
@@ -782,19 +782,15 @@ The CEO of **Shopify** tried it.
 Went to bed. Woke up **8 hours** later.
 
 The agent had run **37 experiments**
-and made his AI model **19% better**.
+and his app was **19% faster**.
 
-A smaller model
-now **outperformed** the bigger one
-it was supposed to **replace**.
+Then he pointed it at Shopify's
+**core** software --
+the thing that powers millions of **stores** --
+and it got **53% faster**
+from **93** changes.
 
-Then he pointed it at **Liquid** --
-Shopify's 20-year-old template engine --
-and got **53% faster** rendering
-and **61% fewer** memory allocations
-from **93** automated commits.
-
-While he **slept**.
+All while he was **sleeping**.
 
 Imagine pointing that
 at **your** app.
@@ -804,23 +800,39 @@ for vibe coders.
 
 LLM Knowledge Bases.
 
-Instead of Googling for **hours**
-before you build something --
+Here's the problem right now.
 
-You dump your research
-into a **folder**.
-The AI reads all of it
-and builds you a personal **wiki**.
+Every time you start a **new** project
+you're starting from **scratch**.
+New chat. New **context**.
+The AI doesn't remember what you
+learned **last** time.
+
+Karpathy's fix is **simple**.
+
+You feed the AI your research --
+articles, docs, notes, **whatever** --
+and it builds you a living **knowledge base**
+that grows over **time**.
 
 **100** articles.
 **400,000** words.
-Fully **interlinked**.
-Not a single word written by **him**.
+All **interlinked**.
+All maintained by the **AI**.
 
-So before you even open **Cursor** --
-you have a complete research base
+And it **compounds**.
+
+Every new thing you add
+makes everything else
+more **connected**.
+
+So the more you **use** it
+the smarter it **gets**.
+
+Now before you even open **Cursor** --
+you have a research base
 that your coding agent
-can **reference**.
+can **pull** from.
 
 That's the cheat code.
 
