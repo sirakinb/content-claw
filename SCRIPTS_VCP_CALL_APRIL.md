@@ -742,38 +742,39 @@ changes **everything**.
 
 ---
 
-## SCRIPT 12: "The Guy Who Invented Vibe Coding Already Moved On"
-**Category:** Breaking News / AI Thought Leadership | **Hook:** Nobody Talks About This | **Length:** 60-75 sec
+## SCRIPT 12: "The Guy Who Coined Vibe Coding Is At It Again"
+**Category:** Breaking News / AI Thought Leadership | **Hook:** Hard Number | **Length:** 60-75 sec
 **Status:** NOT YET FILMED
 
 **HOOK:**
-- AUDIO: "The guy who **invented** the term vibe coding has already moved **past** it. And what he's doing now is way more interesting."
-- TEXT ON SCREEN: "the guy who coined vibe coding already moved on."
-- VISUAL: Lean in, knowing look. "Let me put you on to something" energy. Slight head tilt.
+- AUDIO: "The guy who coined **vibe coding** just shipped **three** open source projects in 60 days. And the last one might be the most powerful tool a vibe coder can use."
+- TEXT ON SCREEN: "the guy who coined vibe coding just shipped 3 projects in 60 days."
+- VISUAL: Hold up three fingers. Lean in. "You need to see this" energy.
 
-**COVER PHOTO TITLE:** "Vibe Coding's Creator Already Moved On"
+**COVER PHOTO TITLE:** "Vibe Coding's Creator Shipped 3 Projects in 60 Days"
 
 **CAPTION:**
-Andrej Karpathy coined "vibe coding" — it became the Collins Dictionary Word of the Year. Then he built an entire GPT in 243 lines of pure Python. Then he built AutoResearch — an AI agent that ran 700 experiments in 2 days and found improvements he missed. Now he's stopped using AI to write code entirely. He's using it to build a personal knowledge base — 100 articles, 400K words, none written by him. The guy who named how we all code in 2026 has already moved to the next phase. Pay attention to what he's doing.
+Andrej Karpathy coined "vibe coding" — Collins Dictionary Word of the Year. In the last 60 days he shipped MicroGPT (entire GPT in 243 lines of Python), AutoResearch (700 AI experiments in 2 days while he slept), and now LLM Knowledge Bases — a system where an AI builds you a personal research wiki automatically. 100 articles. 400K words. Zero written by him. If you're vibe coding, these tools make you 10x more dangerous.
 
 #karpathy #vibecoding #autoresearch #llm #ai #knowledgebase #claudecode #openai #tesla #microgpt
 
 **SCRIPT:**
 
-The guy who **invented** the term vibe coding
-has already moved **past** it.
-And what he's doing now
-is way more **interesting**.
+The guy who coined **vibe coding**
+just shipped **three** open source projects
+in 60 days.
+
+And the last one might be
+the most powerful tool
+a vibe coder can **use**.
 
 Andrej Karpathy.
 Co-founded **OpenAI**.
 Led AI at **Tesla**.
-Coined **vibe coding** --
-it became the Collins Dictionary
-Word of the **Year**.
+Named the thing we're all doing
+right **now**.
 
-But look at what he's shipped
-in the last **60 days**.
+Here's what he just **dropped**.
 
 **First** -- MicroGPT.
 An entire GPT built in
@@ -782,6 +783,10 @@ No libraries. No **dependencies**.
 Just math.
 
 He called it an **art project**.
+But it's actually the best way
+to **understand** how the AI
+you're vibe coding with
+actually **works**.
 
 **Second** -- AutoResearch.
 A 630-line script
@@ -794,37 +799,36 @@ that Karpathy himself had **missed**.
 Including a bug in attention scaling
 that no human **caught**.
 
-**Third** -- and this is the one
-that should change how you **think**.
+Imagine pointing that at
+**your** app's performance.
 
-He stopped using AI to write **code**.
+**Third** -- and this is the big one
+for vibe coders.
 
-He started using it
-to build a personal **knowledge base**.
+LLM Knowledge Bases.
+
+Instead of Googling for **hours**
+before you build something --
+
+You dump your research
+into a **folder**.
+The AI reads all of it
+and builds you a personal **wiki**.
 
 **100** articles.
 **400,000** words.
+Fully **interlinked**.
 Not a single word written by **him**.
 
-The AI reads raw **research**,
-writes structured **wiki** articles,
-and **interlinks** everything automatically.
+So before you even open **Cursor** --
+you have a complete research base
+that your coding agent
+can **reference**.
 
-No RAG. No **embeddings**.
-Just markdown files
-maintained by an **LLM**.
-
-So here's the pattern.
+That's the cheat code.
 
 The guy who **named** vibe coding
-went from writing code with AI
-to making AI **research** for him
-to making AI **think** for him.
+is now giving you the tools
+to be **dangerous** with it.
 
-He's not coding anymore.
-He's building a **second brain**.
-
-And that's where all of this
-is **headed**.
-
-**CTA:** "Are you still just using AI to write code? Or have you started using it to think? Drop what you're building below."
+**CTA:** "Which one are you trying first — MicroGPT, AutoResearch, or the knowledge base? Drop it below."
