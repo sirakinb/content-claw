@@ -754,7 +754,7 @@ changes **everything**.
 **COVER PHOTO TITLE:** "Vibe Coding's Creator Just Dropped 2 New Tools"
 
 **CAPTION:**
-Andrej Karpathy coined "vibe coding" — Collins Dictionary Word of the Year. Now he just shipped AutoResearch — an AI agent that ran 700 experiments in 2 days while he slept — and LLM Knowledge Bases, a system where AI builds you a personal research wiki automatically. 100 articles. 400K words. Zero written by him. Build your research base before you even open Cursor. These tools make vibe coders 10x more dangerous.
+Andrej Karpathy coined "vibe coding" — Collins Dictionary Word of the Year. Now he just shipped AutoResearch and LLM Knowledge Bases. The CEO of Shopify used AutoResearch overnight — woke up to a 19% better model and 53% faster rendering on Shopify's template engine. Then Karpathy dropped LLM Knowledge Bases — AI builds you a personal research wiki. 100 articles. 400K words. Zero written by him. Build your research base before you even open Cursor.
 
 #karpathy #vibecoding #autoresearch #llm #ai #knowledgebase #claudecode #openai #tesla
 
@@ -778,14 +778,26 @@ A 630-line script
 where an AI agent runs experiments
 **while you sleep**.
 
-It ran **700 experiments** in two days.
-Found **20** improvements
-that Karpathy himself had **missed**.
-Including a bug in attention scaling
-that no human **caught**.
+The CEO of **Shopify** tried it.
+Went to bed. Woke up **8 hours** later.
 
-Imagine pointing that at
-**your** app's performance.
+The agent had run **37 experiments**
+and made his AI model **19% better**.
+
+A smaller model
+now **outperformed** the bigger one
+it was supposed to **replace**.
+
+Then he pointed it at **Liquid** --
+Shopify's 20-year-old template engine --
+and got **53% faster** rendering
+and **61% fewer** memory allocations
+from **93** automated commits.
+
+While he **slept**.
+
+Imagine pointing that
+at **your** app.
 
 **Second** -- and this is the big one
 for vibe coders.
