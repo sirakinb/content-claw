@@ -802,16 +802,16 @@ LLM Knowledge Bases.
 
 Here's the problem right now.
 
-Every time you start a **new** project
-you're starting from **scratch**.
-New chat. New **context**.
-The AI doesn't remember what you
-learned **last** time.
+Every time you talk to your AI
+it starts **blank**.
+No memory. No **context**.
+It doesn't know what you've been
+researching for the last **six months**.
 
 Karpathy's fix is **simple**.
 
-You feed the AI your research --
-articles, docs, notes, **whatever** --
+You feed the AI everything --
+articles, notes, ideas, **conversations** --
 and it builds you a living **knowledge base**
 that grows over **time**.
 
@@ -826,13 +826,19 @@ Every new thing you add
 makes everything else
 more **connected**.
 
-So the more you **use** it
-the smarter it **gets**.
+So the more you **feed** it
+the smarter your AI **becomes**.
 
-Now before you even open **Cursor** --
-you have a research base
-that your coding agent
-can **pull** from.
+It starts to understand
+how you **think**.
+What you **care** about.
+What you've already **learned**.
+
+You're not just using AI anymore.
+You're **growing** with it.
+
+Building a personal AI
+that actually **knows** you.
 
 That's the cheat code.
 
