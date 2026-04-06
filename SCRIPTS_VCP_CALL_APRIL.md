@@ -655,3 +655,87 @@ That's a completely different
 **business model**.
 
 **CTA:** "Would you use a free local AI model in your app instead of paying for API calls? What would you build with it? Drop it below."
+
+---
+
+## SCRIPT 11: "OpenAI Just Told the Government to Tax Robots"
+**Category:** Breaking News / AI & Economy | **Hook:** Myth Killer | **Length:** 60-75 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "The company building the AI that's **replacing** your job just told the government to **tax** robots. Let that satisfying irony sink in for a second."
+- TEXT ON SCREEN: "OpenAI wants the government to tax robots."
+- VISUAL: Slight smirk, lean back, then lean IN. "You can't make this up" energy.
+
+**COVER PHOTO TITLE:** "OpenAI Wants to Tax Robots"
+
+**CAPTION:**
+OpenAI just dropped a 13-page policy document called "Industrial Policy for the Intelligence Age." Robot taxes. A public wealth fund that pays every American dividends from AI profits. Government-backed 4-day workweeks. Auto-triggering safety nets when job losses hit a threshold. White-collar payrolls have contracted 29 straight months. This is the company building the displacement — now proposing the safety net. Right before their IPO.
+
+#openai #robottax #aijobs #artificialintelligence #economy #samaltman #fourdayworkweek #publicwealthfund #ai
+
+**SCRIPT:**
+
+The company building the AI
+that's **replacing** your job
+just told the government
+to **tax** robots.
+
+OpenAI dropped a **13-page** document today
+called Industrial Policy for the Intelligence **Age**.
+
+And what's **in** it
+is actually wild.
+
+**One** -- a robot tax.
+If a company replaces a **human** with AI,
+that AI pays the same **taxes**
+the human would have.
+
+**Two** -- a public wealth fund.
+Think Alaska's **oil fund** --
+but for AI.
+AI companies put money **in**.
+Every American gets a **check**.
+
+**Three** -- government-backed
+**four-day** workweeks
+at **full** pay.
+
+**Four** -- automatic safety nets
+that **trigger** the moment
+unemployment in any sector
+passes a **threshold**.
+
+Now here's the part
+that should make you **think**.
+
+White-collar payrolls have contracted
+**29 straight months**.
+That's never happened outside
+a **recession**.
+
+And this document comes from
+the same company
+preparing for an **IPO**
+after raising **$110 billion**.
+
+They're building the **disruption**
+and writing the **playbook**
+for how to survive it.
+
+Whether that's **responsible**
+or just good **PR** before going public --
+
+That's for you to **decide**.
+
+But one thing is clear.
+
+The conversation about AI and **jobs**
+just moved from Twitter threads
+to **policy** proposals.
+
+And that shift
+changes **everything**.
+
+**CTA:** "Robot taxes. Public wealth fund. 4-day workweek. Which one would actually change your life? Drop it below."
