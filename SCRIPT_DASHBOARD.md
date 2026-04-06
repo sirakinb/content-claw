@@ -1,6 +1,6 @@
 # SCRIPT DASHBOARD
-**Last Updated:** 2026-03-25
-**Quick Stats:** 7 Filmed | 3 Skipped | 80+ Ready to Film
+**Last Updated:** 2026-04-06
+**Quick Stats:** 9 Filmed | 3 Skipped | 80+ Ready to Film
 
 ---
 
@@ -23,6 +23,8 @@ When you film a script, tell me and I'll update both this dashboard AND the orig
 | 18 | Why Your AI Gets Dumber Over Time | VCP_NEW | Technical Insight | Nobody Talks About This | 45-60s |
 | — | Claude Just Took Over Your Computer | SCRIPTS.md (new) | Breaking News | Urgency Frame | 45-60s |
 | 19 | User Stories Beat Feature Lists | VCP_NEW | Vibe Coding | Stop Doing This | 45-60s |
+| — | Cursor 3.0 | SCRIPTS_VCP_CALL_APRIL.md | Breaking News / AI Tools | Urgency Frame | 45-60s |
+| — | Gemma 4 | SCRIPTS_VCP_CALL_APRIL.md | Breaking News / AI Tools | Hard Number | 45-60s |
 
 ## SKIPPED
 
