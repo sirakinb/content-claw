@@ -739,3 +739,92 @@ And that shift
 changes **everything**.
 
 **CTA:** "Robot taxes. Public wealth fund. 4-day workweek. Which one would actually change your life? Drop it below."
+
+---
+
+## SCRIPT 12: "The Guy Who Invented Vibe Coding Already Moved On"
+**Category:** Breaking News / AI Thought Leadership | **Hook:** Nobody Talks About This | **Length:** 60-75 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "The guy who **invented** the term vibe coding has already moved **past** it. And what he's doing now is way more interesting."
+- TEXT ON SCREEN: "the guy who coined vibe coding already moved on."
+- VISUAL: Lean in, knowing look. "Let me put you on to something" energy. Slight head tilt.
+
+**COVER PHOTO TITLE:** "Vibe Coding's Creator Already Moved On"
+
+**CAPTION:**
+Andrej Karpathy coined "vibe coding" — it became the Collins Dictionary Word of the Year. Then he built an entire GPT in 243 lines of pure Python. Then he built AutoResearch — an AI agent that ran 700 experiments in 2 days and found improvements he missed. Now he's stopped using AI to write code entirely. He's using it to build a personal knowledge base — 100 articles, 400K words, none written by him. The guy who named how we all code in 2026 has already moved to the next phase. Pay attention to what he's doing.
+
+#karpathy #vibecoding #autoresearch #llm #ai #knowledgebase #claudecode #openai #tesla #microgpt
+
+**SCRIPT:**
+
+The guy who **invented** the term vibe coding
+has already moved **past** it.
+And what he's doing now
+is way more **interesting**.
+
+Andrej Karpathy.
+Co-founded **OpenAI**.
+Led AI at **Tesla**.
+Coined **vibe coding** --
+it became the Collins Dictionary
+Word of the **Year**.
+
+But look at what he's shipped
+in the last **60 days**.
+
+**First** -- MicroGPT.
+An entire GPT built in
+**243 lines** of pure Python.
+No libraries. No **dependencies**.
+Just math.
+
+He called it an **art project**.
+
+**Second** -- AutoResearch.
+A 630-line script
+where an AI agent runs experiments
+**while you sleep**.
+
+It ran **700 experiments** in two days.
+Found **20** improvements
+that Karpathy himself had **missed**.
+Including a bug in attention scaling
+that no human **caught**.
+
+**Third** -- and this is the one
+that should change how you **think**.
+
+He stopped using AI to write **code**.
+
+He started using it
+to build a personal **knowledge base**.
+
+**100** articles.
+**400,000** words.
+Not a single word written by **him**.
+
+The AI reads raw **research**,
+writes structured **wiki** articles,
+and **interlinks** everything automatically.
+
+No RAG. No **embeddings**.
+Just markdown files
+maintained by an **LLM**.
+
+So here's the pattern.
+
+The guy who **named** vibe coding
+went from writing code with AI
+to making AI **research** for him
+to making AI **think** for him.
+
+He's not coding anymore.
+He's building a **second brain**.
+
+And that's where all of this
+is **headed**.
+
+**CTA:** "Are you still just using AI to write code? Or have you started using it to think? Drop what you're building below."
