@@ -747,26 +747,23 @@ changes **everything**.
 **Status:** NOT YET FILMED
 
 **HOOK:**
-- AUDIO: "The guy who coined **vibe coding** just shipped **three** open source projects in 60 days. And the last one might be the most powerful tool a vibe coder can use."
-- TEXT ON SCREEN: "the guy who coined vibe coding just shipped 3 projects in 60 days."
-- VISUAL: Hold up three fingers. Lean in. "You need to see this" energy.
+- AUDIO: "The guy who coined **vibe coding** just dropped **two** tools that make every vibe coder way more **dangerous**."
+- TEXT ON SCREEN: "the guy who coined vibe coding just dropped 2 new tools."
+- VISUAL: Hold up two fingers. Lean in. "You need to see this" energy.
 
-**COVER PHOTO TITLE:** "Vibe Coding's Creator Shipped 3 Projects in 60 Days"
+**COVER PHOTO TITLE:** "Vibe Coding's Creator Just Dropped 2 New Tools"
 
 **CAPTION:**
-Andrej Karpathy coined "vibe coding" — Collins Dictionary Word of the Year. In the last 60 days he shipped MicroGPT (entire GPT in 243 lines of Python), AutoResearch (700 AI experiments in 2 days while he slept), and now LLM Knowledge Bases — a system where an AI builds you a personal research wiki automatically. 100 articles. 400K words. Zero written by him. If you're vibe coding, these tools make you 10x more dangerous.
+Andrej Karpathy coined "vibe coding" — Collins Dictionary Word of the Year. Now he just shipped AutoResearch — an AI agent that ran 700 experiments in 2 days while he slept — and LLM Knowledge Bases, a system where AI builds you a personal research wiki automatically. 100 articles. 400K words. Zero written by him. Build your research base before you even open Cursor. These tools make vibe coders 10x more dangerous.
 
-#karpathy #vibecoding #autoresearch #llm #ai #knowledgebase #claudecode #openai #tesla #microgpt
+#karpathy #vibecoding #autoresearch #llm #ai #knowledgebase #claudecode #openai #tesla
 
 **SCRIPT:**
 
 The guy who coined **vibe coding**
-just shipped **three** open source projects
-in 60 days.
-
-And the last one might be
-the most powerful tool
-a vibe coder can **use**.
+just dropped **two** tools
+that make every vibe coder
+way more **dangerous**.
 
 Andrej Karpathy.
 Co-founded **OpenAI**.
@@ -774,21 +771,9 @@ Led AI at **Tesla**.
 Named the thing we're all doing
 right **now**.
 
-Here's what he just **dropped**.
+Here's what he just **shipped**.
 
-**First** -- MicroGPT.
-An entire GPT built in
-**243 lines** of pure Python.
-No libraries. No **dependencies**.
-Just math.
-
-He called it an **art project**.
-But it's actually the best way
-to **understand** how the AI
-you're vibe coding with
-actually **works**.
-
-**Second** -- AutoResearch.
+**First** -- AutoResearch.
 A 630-line script
 where an AI agent runs experiments
 **while you sleep**.
@@ -802,7 +787,7 @@ that no human **caught**.
 Imagine pointing that at
 **your** app's performance.
 
-**Third** -- and this is the big one
+**Second** -- and this is the big one
 for vibe coders.
 
 LLM Knowledge Bases.
@@ -831,4 +816,4 @@ The guy who **named** vibe coding
 is now giving you the tools
 to be **dangerous** with it.
 
-**CTA:** "Which one are you trying first — MicroGPT, AutoResearch, or the knowledge base? Drop it below."
+**CTA:** "Which one are you trying first — AutoResearch or the knowledge base? Drop it below."
