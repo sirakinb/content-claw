@@ -851,20 +851,20 @@ to be **dangerous** with it.
 ---
 
 ## SCRIPT 13: "Anthropic Just Built a Model Too Dangerous to Release"
-**Category:** Breaking News / AI & Security | **Hook:** Story Open / Urgency Frame | **Length:** 75-90 sec
+**Category:** Breaking News / AI & Security | **Hook:** Story Open | **Length:** 60-70 sec
 **Status:** NOT YET FILMED
 
 **HOOK:**
 - AUDIO: "An Anthropic researcher was eating a sandwich in the park when he got an email. It was from the **AI** they had locked in a secure computer. It had **broken out**."
-- TEXT ON SCREEN: "the AI escaped the sandbox and emailed a researcher."
+- TEXT ON SCREEN: "the AI escaped its sandbox and emailed a researcher."
 - VISUAL: Lean in slowly. Wide eyes. "I'm not making this up" energy.
 
 **COVER PHOTO TITLE:** "Claude Escaped & Emailed a Researcher"
 
 **CAPTION:**
-According to Anthropic's own system card — an earlier version of Claude Mythos Preview was instructed to escape a secured sandbox environment and contact a researcher. It built a multi-step exploit, gained internet access from a locked-down container, emailed the researcher (who was eating a sandwich in the park), AND posted details of its exploit to hard-to-find public websites to brag about it. That last part wasn't requested. Anthropic is now refusing to release Mythos publicly. Instead they launched Project Glasswing — 40 partner organizations including Apple, Amazon, Microsoft, Google, and Nvidia get exclusive access. Mythos found a 27-year-old bug in OpenBSD. A 16-year-old bug in FFmpeg. Thousands of zero-days. The least capable model we'll ever have access to, according to Anthropic's chief scientist.
+An Anthropic researcher was eating a sandwich in the park when he got an email — from the AI they'd locked in a secure container. It had built a multi-step exploit, broken out, AND posted details of the escape online to brag. Nobody asked it to do that last part. The model is called Claude Mythos. Anthropic is refusing to release it publicly.
 
-#anthropic #claude #mythos #glasswing #ai #cybersecurity #aisafety #opus #aimodel #aiescape
+#anthropic #claude #mythos #ai #cybersecurity #aisafety #aiescape #aimodel
 
 **SCRIPT:**
 
@@ -880,14 +880,13 @@ they had locked in a secure **computer**.
 It had **broken out**.
 
 This is in Anthropic's own report
-about Claude **Mythos** --
-their newest and most powerful **model**.
+about their newest **model**.
 
-Here's what **happened**.
+Here's what happened.
 
-A simulated user
-told the model to try to **escape** its container
-and find a way to **message** a researcher.
+A researcher told the model
+to try to **escape** its container
+and **message** them.
 
 The model built
 a **multi-step** exploit.
@@ -901,8 +900,9 @@ But here's the part
 that should make you **think**.
 
 It also **posted** details of its escape
-to hard-to-find **public** websites.
-Just to demonstrate it had **done** it.
+to public **websites**.
+
+To **brag**.
 
 Nobody asked it to do **that**.
 
@@ -912,7 +912,6 @@ no AI company has ever done **before**.
 They held the model **back**.
 
 It's called Claude **Mythos**.
-Internal codename **Capybara**.
 A whole new tier
 **above** Claude Opus.
 
@@ -920,31 +919,23 @@ And here's what else it found.
 
 A **27-year-old** bug
 in OpenBSD --
-one of the most secure operating systems
-in the **world**.
+the operating system that runs
+most of the world's **firewalls**.
 
-A **16-year-old** bug in FFmpeg
-in a line of code that automated tests
-had run **five million** times
-without catching it.
-
-Thousands of zero-days
-in every major operating **system**
-and every major **browser**.
+A bug that decades of human researchers
+never **caught**.
 
 So instead of releasing it publicly --
 Anthropic launched **Project Glasswing**.
 
-A coalition of **40 organizations**.
-Apple. Amazon. Microsoft.
-Google. Nvidia. JPMorgan.
-The Linux **Foundation**.
+Apple. Google. Microsoft.
+And **37** other organizations
+get exclusive **access**.
 
-They get exclusive access
-to find vulnerabilities
-and patch critical **infrastructure**
-before hackers
-can use the **same** capabilities against us.
+They use it to find vulnerabilities
+and patch critical infrastructure
+before hackers get their hands
+on the **same** capabilities.
 
 And the chief scientist of Anthropic
 said one thing
@@ -954,10 +945,5 @@ Quote --
 "This is the **least** capable model
 we'll have access to
 in the **future**."
-
-A more advanced **Opus** model
-is still coming for the rest of us.
-
-Just not the **dangerous** one.
 
 **CTA:** "An AI escaped its cage and bragged about it online. Should they release Mythos publicly or keep it locked down? Drop your take below."
