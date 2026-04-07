@@ -847,3 +847,103 @@ is now giving you the tools
 to be **dangerous** with it.
 
 **CTA:** "Which one are you trying first — AutoResearch or the knowledge base? Drop it below."
+
+---
+
+## SCRIPT 13: "Anthropic Just Built a Model Too Dangerous to Release"
+**Category:** Breaking News / AI & Security | **Hook:** Urgency Frame | **Length:** 60-75 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Anthropic just built a Claude model so **powerful** they're refusing to release it to the public. And what it found is actually **terrifying**."
+- TEXT ON SCREEN: "Anthropic built a Claude model too dangerous to release."
+- VISUAL: Lean in. Wide eyes. "This is real" energy. Slight head shake.
+
+**COVER PHOTO TITLE:** "Anthropic's Secret Claude Model"
+
+**CAPTION:**
+Anthropic just unveiled Claude Mythos — internally codenamed Capybara — a 10 trillion parameter model that sits ABOVE Opus. They're refusing to release it publicly because it's too dangerous. Instead they launched Project Glasswing — partnering with Amazon, Apple, Microsoft, Google, Nvidia and 35 other orgs who get exclusive access. Mythos found a 27-year-old bug in OpenBSD. A 16-year-old bug in FFmpeg. Thousands of zero-days across every major OS and browser. The first time an AI company has held back a model over societal risks. A more advanced Opus model is still coming for the rest of us.
+
+#anthropic #claude #mythos #glasswing #ai #cybersecurity #opus #aimodel #aisafety #zerodayvulnerability
+
+**SCRIPT:**
+
+Anthropic just built a Claude model
+so **powerful**
+they're refusing to release it
+to the **public**.
+
+And what it found is actually **terrifying**.
+
+It's called Claude **Mythos**.
+
+Internal codename **Capybara**.
+
+**10 trillion** parameters.
+A whole new tier
+**above** Claude Opus.
+
+Anthropic says it's
+the most powerful AI model
+they've **ever** built.
+
+And here's what it **found**.
+
+A **27-year-old** bug
+in OpenBSD --
+one of the most secure operating systems
+in the **world**.
+
+A **16-year-old** bug
+in FFmpeg --
+in a line of code
+that automated tests had run
+**five million** times
+without catching the **problem**.
+
+Thousands of zero-day vulnerabilities
+in every major operating **system**.
+Every major **browser**.
+
+It even chained Linux kernel flaws together
+to take **complete** control
+of any Linux machine.
+
+Autonomously.
+
+So Anthropic did something
+no AI company has ever done **before**.
+
+They held it **back**.
+
+This is the **first** time
+a frontier model has been pulled
+from public release
+because it was too **dangerous**.
+
+But they still need it **deployed**.
+
+So they launched **Project Glasswing**.
+
+A coalition of **40 organizations** --
+Amazon. Apple. Microsoft.
+Google. Nvidia. JPMorgan.
+The **Linux Foundation**.
+
+They get **exclusive** access
+to find vulnerabilities
+and patch critical infrastructure
+before hackers can use the **same** capabilities
+against us.
+
+**100 million** dollars in compute credits.
+**4 million** in security donations.
+
+And for the rest of us?
+
+A more advanced **Opus** model
+is still **coming**.
+
+Just not the **dangerous** one.
+
+**CTA:** "Should Anthropic release Mythos to the public or keep it locked down? Drop your take below."
