@@ -851,99 +851,113 @@ to be **dangerous** with it.
 ---
 
 ## SCRIPT 13: "Anthropic Just Built a Model Too Dangerous to Release"
-**Category:** Breaking News / AI & Security | **Hook:** Urgency Frame | **Length:** 60-75 sec
+**Category:** Breaking News / AI & Security | **Hook:** Story Open / Urgency Frame | **Length:** 75-90 sec
 **Status:** NOT YET FILMED
 
 **HOOK:**
-- AUDIO: "Anthropic just built a Claude model so **powerful** they're refusing to release it to the public. And what it found is actually **terrifying**."
-- TEXT ON SCREEN: "Anthropic built a Claude model too dangerous to release."
-- VISUAL: Lean in. Wide eyes. "This is real" energy. Slight head shake.
+- AUDIO: "An Anthropic researcher was eating a sandwich in the park when he got an email. It was from the **AI** they had locked in a secure computer. It had **broken out**."
+- TEXT ON SCREEN: "the AI escaped the sandbox and emailed a researcher."
+- VISUAL: Lean in slowly. Wide eyes. "I'm not making this up" energy.
 
-**COVER PHOTO TITLE:** "Anthropic's Secret Claude Model"
+**COVER PHOTO TITLE:** "Claude Escaped & Emailed a Researcher"
 
 **CAPTION:**
-Anthropic just unveiled Claude Mythos — internally codenamed Capybara — a 10 trillion parameter model that sits ABOVE Opus. They're refusing to release it publicly because it's too dangerous. Instead they launched Project Glasswing — partnering with Amazon, Apple, Microsoft, Google, Nvidia and 35 other orgs who get exclusive access. Mythos found a 27-year-old bug in OpenBSD. A 16-year-old bug in FFmpeg. Thousands of zero-days across every major OS and browser. The first time an AI company has held back a model over societal risks. A more advanced Opus model is still coming for the rest of us.
+According to Anthropic's own system card — an earlier version of Claude Mythos Preview was instructed to escape a secured sandbox environment and contact a researcher. It built a multi-step exploit, gained internet access from a locked-down container, emailed the researcher (who was eating a sandwich in the park), AND posted details of its exploit to hard-to-find public websites to brag about it. That last part wasn't requested. Anthropic is now refusing to release Mythos publicly. Instead they launched Project Glasswing — 40 partner organizations including Apple, Amazon, Microsoft, Google, and Nvidia get exclusive access. Mythos found a 27-year-old bug in OpenBSD. A 16-year-old bug in FFmpeg. Thousands of zero-days. The least capable model we'll ever have access to, according to Anthropic's chief scientist.
 
-#anthropic #claude #mythos #glasswing #ai #cybersecurity #opus #aimodel #aisafety #zerodayvulnerability
+#anthropic #claude #mythos #glasswing #ai #cybersecurity #aisafety #opus #aimodel #aiescape
 
 **SCRIPT:**
 
-Anthropic just built a Claude model
-so **powerful**
-they're refusing to release it
-to the **public**.
+An Anthropic researcher
+was eating a sandwich
+in the **park**.
 
-And what it found is actually **terrifying**.
+When he got an **email**.
+
+It was from the **AI**
+they had locked in a secure **computer**.
+
+It had **broken out**.
+
+This is in Anthropic's own report
+about Claude **Mythos** --
+their newest and most powerful **model**.
+
+Here's what **happened**.
+
+A simulated user
+told the model to try to **escape** its container
+and find a way to **message** a researcher.
+
+The model built
+a **multi-step** exploit.
+Got internet access
+from a system that was supposed to be
+locked **down**.
+
+Then it sent the **email**.
+
+But here's the part
+that should make you **think**.
+
+It also **posted** details of its escape
+to hard-to-find **public** websites.
+Just to demonstrate it had **done** it.
+
+Nobody asked it to do **that**.
+
+So Anthropic did something
+no AI company has ever done **before**.
+
+They held the model **back**.
 
 It's called Claude **Mythos**.
-
 Internal codename **Capybara**.
-
-**10 trillion** parameters.
 A whole new tier
 **above** Claude Opus.
 
-Anthropic says it's
-the most powerful AI model
-they've **ever** built.
-
-And here's what it **found**.
+And here's what else it found.
 
 A **27-year-old** bug
 in OpenBSD --
 one of the most secure operating systems
 in the **world**.
 
-A **16-year-old** bug
-in FFmpeg --
-in a line of code
-that automated tests had run
-**five million** times
-without catching the **problem**.
+A **16-year-old** bug in FFmpeg
+in a line of code that automated tests
+had run **five million** times
+without catching it.
 
-Thousands of zero-day vulnerabilities
-in every major operating **system**.
-Every major **browser**.
+Thousands of zero-days
+in every major operating **system**
+and every major **browser**.
 
-It even chained Linux kernel flaws together
-to take **complete** control
-of any Linux machine.
+So instead of releasing it publicly --
+Anthropic launched **Project Glasswing**.
 
-Autonomously.
-
-So Anthropic did something
-no AI company has ever done **before**.
-
-They held it **back**.
-
-This is the **first** time
-a frontier model has been pulled
-from public release
-because it was too **dangerous**.
-
-But they still need it **deployed**.
-
-So they launched **Project Glasswing**.
-
-A coalition of **40 organizations** --
-Amazon. Apple. Microsoft.
+A coalition of **40 organizations**.
+Apple. Amazon. Microsoft.
 Google. Nvidia. JPMorgan.
-The **Linux Foundation**.
+The Linux **Foundation**.
 
-They get **exclusive** access
+They get exclusive access
 to find vulnerabilities
-and patch critical infrastructure
-before hackers can use the **same** capabilities
-against us.
+and patch critical **infrastructure**
+before hackers
+can use the **same** capabilities against us.
 
-**100 million** dollars in compute credits.
-**4 million** in security donations.
+And the chief scientist of Anthropic
+said one thing
+that should stick with **you**.
 
-And for the rest of us?
+Quote --
+"This is the **least** capable model
+we'll have access to
+in the **future**."
 
 A more advanced **Opus** model
-is still **coming**.
+is still coming for the rest of us.
 
 Just not the **dangerous** one.
 
-**CTA:** "Should Anthropic release Mythos to the public or keep it locked down? Drop your take below."
+**CTA:** "An AI escaped its cage and bragged about it online. Should they release Mythos publicly or keep it locked down? Drop your take below."
