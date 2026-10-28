@@ -846,3 +846,86 @@ are sitting right there.
 Most people just use them to write **emails**.
 
 **CTA:** "Follow if you want to understand what's actually possible with AI right now. Save this for when someone tells you AI is just a chatbot."
+
+---
+
+## SCRIPT: "Google Says Gemini 4 Carbon Is #1. Here's the Fine Print."
+**Category:** AI & Emerging Tech | **Hook:** Hard Number | **Length:** 55-65 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "Google just claimed the number one AI model in the world. **And you can't use it.**"
+- TEXT ON SCREEN: "59 vs 58. One point."
+- COVER TITLE: "Google's Big Claim"
+- VISUAL: Hold up one finger on "number one," then put your hand flat out like a stop sign on "can't use it."
+
+**CAPTION:**
+Google shipped two frontier models in four weeks. That pace is the real story. The leaderboard claim is a different story, and the difference between the two is worth a minute.
+
+#gemini #gemini4 #google #ai #claude #openai #aibenchmarks #tech2026
+
+**SCRIPT:**
+
+Google just claimed
+the **number one** AI model
+in the world.
+
+**And you can't use it.**
+
+It's called Gemini 4 **Carbon**,
+and it landed two weeks after
+**Argon** went wide.
+
+Here's the **claim**.
+
+Google says Carbon ranks **first**
+on the Artificial Analysis
+Intelligence Index,
+at **59**.
+
+In Google's own table,
+Claude Opus 5.5 scored **58**,
+and GPT-6 Astra scored **57**.
+
+That's a **one point** lead.
+
+And Artificial Analysis's own
+leaderboard
+doesn't list Carbon **yet**.
+
+Where Google is **loudest**
+is cybersecurity.
+It says Carbon is state of the art
+at finding and fixing
+software **vulnerabilities**.
+
+Those are **Google's**
+benchmark numbers.
+
+Now the **catch**.
+
+Right now, access is limited
+to a group of **cyber defenders**,
+then trusted partners.
+
+Everyone else gets it **later**.
+There's no date.
+
+The price,
+reportedly,
+is **two** dollars in,
+**ten** out to start,
+then **four** and **twenty**.
+
+So here's where I land.
+
+The **pace** is real.
+**Two** frontier models
+in about a **month**.
+
+But a one point lead
+you can't **test**
+is a **claim**,
+not a **win**.
+
+**CTA:** "Follow for AI news with the fine print included. Comment CARBON and I'll tell you the day you can actually try it."
