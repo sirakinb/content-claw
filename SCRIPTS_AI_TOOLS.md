@@ -929,3 +929,85 @@ is a **claim**,
 not a **win**.
 
 **CTA:** "Follow for AI news with the fine print included. Comment CARBON and I'll tell you the day you can actually try it."
+
+---
+
+## SCRIPT: "REA Growth Reverse Engineers How Any Company Grew"
+**Category:** AI & Emerging Tech | **Hook:** Famous Name + Cost (Sabrina Patterns 9 and 10) | **Length:** 55-65 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "A full teardown of how **Lovable** grew costs **58 cents**."
+- TEXT ON SCREEN: "ads? SEO? founder content? now you can see"
+- COVER TITLE: "Reverse Engineer Any Competitor"
+- VISUAL: Hold up a coin between two fingers on "58 cents," then lean into the camera on "Lovable."
+
+**CAPTION:**
+Everyone has a competitor they'd love to see inside of. Now you can see the playbook they ran, in plain order, for pennies. What you do with it is the part nobody can automate. Tool link: treg.to/rea-growth
+
+#reagrowth #aitools #growthmarketing #marketing #aiagents #competitoranalysis #buildwithai #opensource
+
+**SCRIPT:**
+
+A full teardown
+of how **Lovable** grew
+costs **58 cents**.
+
+That's what the creator
+of a new open source tool says.
+
+It's called **REA Growth**.
+
+You've heard of **REA**,
+the one that went viral
+for reverse engineering **software**.
+
+This one reverse engineers
+**growth**.
+
+You name a **company**.
+
+It builds a **timeline**
+of how they grew.
+
+SEO.
+Showing up in **AI answers**.
+**Ads**.
+**Social**.
+
+Did they run **ads**?
+Lean on **SEO**?
+Build around the **founder**?
+
+Then it turns that
+into a **playbook**
+you can run yourself.
+
+It's **usage based**,
+so you pay for the **research**
+you actually run.
+
+Now the **honest** part.
+
+It shows you what they **did**.
+Not what **worked**.
+
+It can't see
+their conversion **rates**.
+Or the **things** that flopped.
+
+And a playbook
+doesn't copy their **timing**
+or their **brand**.
+
+But competitor research
+used to be **manual**.
+
+Now it costs **pennies**.
+
+The playbook is **cheap**.
+Doing it for 90 days,
+**consistently**,
+is still on **you**.
+
+**CTA:** "Follow for AI tools I'd actually look at. Comment GROWTH and I'll send you the link."
