@@ -1014,104 +1014,108 @@ is still on **you**.
 
 ---
 
-## SCRIPT: "DeepSeek Open Sourced an Agent That Doesn't Wait to Be Asked"
-**Category:** AI & Emerging Tech | **Hook:** Story Open | **Length:** 65-80 sec
+## SCRIPT: "An AI Agent Fixed a Bug Nobody Asked It To" (DeepSeek Super-agent, v2)
+**Category:** AI & Emerging Tech | **Hook:** Secret / Insider (Sabrina Patterns 5 and 8) | **Length:** 55-65 sec
 **Status:** NOT YET FILMED
 
+**HOOK OPTIONS (first 2 to 3 seconds):**
+1. (Recommended, Story/Secret) "An AI agent fixed a bug **nobody asked it to** fix."
+2. (Urgency, Pattern 3) "If your AI still waits for your prompt, you're already **behind**."
+3. (Myth killer, Pattern 2) "The chat window is **dead**. DeepSeek just showed why."
+
 **HOOK:**
-- AUDIO: "DeepSeek says its AI agent spotted a bug in a group chat and opened the fix. **Nobody asked it to.**"
+- AUDIO: "An AI agent fixed a bug **nobody asked it to** fix."
 - TEXT ON SCREEN: "no prompt. no @mention. just the fix."
-- COVER TITLE: "DeepSeek's Always-On Agent"
-- VISUAL: Pretend to type a prompt, then stop and pull your hands away on "nobody asked it to." Lean in and raise your eyebrows.
+- COVER TITLE: "AI That Doesn't Wait"
+- VISUAL: Start already mid-sentence, leaning into the camera. Pretend to type, then pull your hands away hard on "nobody asked it to."
 
 **CAPTION:**
-Chat windows made AI feel like a tool you pick up. This is a design for AI that behaves more like a teammate who's always online. It's a prototype, not a product, and that distinction is the whole story.
+Chat windows made AI feel like a tool you pick up. This is a design for AI that acts like a teammate who's always online. It's a prototype, not a product, and that distinction is the whole story.
 
 #deepseek #aiagents #claudecode #opensource #ai #superagent #agenticai #tech2026
 
 **SCRIPT:**
 
-DeepSeek says
-its AI agent spotted a bug
-in a group chat
-and opened the fix.
+An AI agent fixed a bug
+**nobody asked it to** fix.
 
-**Nobody asked it to.**
+That's DeepSeek's **claim**,
+and on Halloween
+they open sourced how it **works**.
 
-It's called a **Super-agent**,
-and DeepSeek just
-open sourced a **prototype**.
+Three ideas.
+The last one
+changes how you'll use **AI**.
 
-Bloomberg is framing it
-as a challenge
-to **Claude Code**.
+**One.**
+A **Router**.
 
-Here's the idea.
+It only talks to people
+and hands out **tasks**.
+It never does the work **itself**.
 
-Today's coding agents
-work in **one session**
-at a time.
+**Two.**
+**Workers**.
+
+One per task,
+each in its own **bubble**,
+so nothing gets **mixed up**.
 
 DeepSeek says
 a person can only follow
-**three to five** of them
-at once.
+**three to five** AI sessions at once.
 
-So the bottleneck
-isn't the **model**.
+This is how you get
+**past** that.
 
-It's your **attention**.
+**Three.**
+It **listens**.
 
-Their design has
-a few **pieces**.
+Not for prompts.
+For **events**.
+A chat message.
+A GitHub comment.
+A failed **test**.
 
-A **Router**
-that talks to people
-and hands out **tasks**.
+It decides on its **own**
+if something's worth **fixing**.
+And if not,
+it stays **quiet**.
 
-**Workers**
-that each do one task
-on their **own**.
-
-A **Watchdog**
-that checks whether they're
-actually making **progress**.
-
-And instead of waiting
-for **prompts**,
-it listens to events,
-like chat messages
-and **GitHub**.
-
-In their own test,
-tasks finished in about
-**12 minutes**
-versus **20**
-for a single session setup.
-
-That's **their** test,
-on simulated work,
-and they call
-the results **indicative**.
+That's the bug fix.
 
 Now the **catch**.
 
+And it's a big **one**.
+
 DeepSeek says
 this is a **prototype**.
-Not an official **product**.
+Not a product.
 Not production **ready**.
 
-So it's not a **Claude Code** replacement
-today.
+And the speed numbers
+are from **their own** test.
+About **12 minutes** per task
+versus **20** for one session.
 
-But watch the **direction**.
+So no,
+it doesn't replace
+**Claude Code** today.
+
+But look
+at where everyone's **heading**.
 
 Muse.
 Dots.
-Claude Duet.
+Claude **Duet**.
 Now **DeepSeek**.
 
-The chat window
-is becoming **optional**.
+Every one of them
+wants an agent
+that doesn't **wait**.
+
+So the next time
+a bug gets **fixed**,
+and **nobody asked**...
 
 **CTA:** "Follow for AI news with the fine print included. Comment SUPERAGENT and I'll break down how the Router and Workers idea works."

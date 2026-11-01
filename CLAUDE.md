@@ -24,3 +24,12 @@ These are hard rules for writing TikTok scripts, captions, hooks, and cover titl
 - Company-reported numbers (revenue, usage, benchmarks) get labeled as the company's own claims.
 - Financial content (stocks, IPOs, trading) never predicts price or says whether to buy; add a short "not financial advice" line.
 - When the user supplies reference material (e.g. another creator's video) for context only, don't cite or name that person.
+
+## Retention rules (the post has to perform)
+- Pick the hook from HOOK_LIBRARY_SABRINA.md and name the pattern used. Offer 3 options and recommend one.
+- The first 2 to 3 seconds must say something concrete and surprising. No warm-up, no "so today", no setup.
+- Cover title: 2 to 5 words, emotional or curiosity-driven, readable at thumbnail size. Never a summary.
+- Open a loop in the first 10 seconds ("three ideas, and the last one changes how you use AI"), then pay it off late.
+- Put a pattern interrupt or re-hook about two thirds in ("but there's a catch").
+- End by looping back to the opening line so a replay feels seamless.
+- Short lines. Cut anything that doesn't add a fact, a stake, or a payoff.
