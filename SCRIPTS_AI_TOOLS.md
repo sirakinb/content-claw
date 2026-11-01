@@ -1011,3 +1011,107 @@ Doing it for 90 days,
 is still on **you**.
 
 **CTA:** "Follow for AI tools I'd actually look at. Comment GROWTH and I'll send you the link."
+
+---
+
+## SCRIPT: "DeepSeek Open Sourced an Agent That Doesn't Wait to Be Asked"
+**Category:** AI & Emerging Tech | **Hook:** Story Open | **Length:** 65-80 sec
+**Status:** NOT YET FILMED
+
+**HOOK:**
+- AUDIO: "DeepSeek says its AI agent spotted a bug in a group chat and opened the fix. **Nobody asked it to.**"
+- TEXT ON SCREEN: "no prompt. no @mention. just the fix."
+- COVER TITLE: "DeepSeek's Always-On Agent"
+- VISUAL: Pretend to type a prompt, then stop and pull your hands away on "nobody asked it to." Lean in and raise your eyebrows.
+
+**CAPTION:**
+Chat windows made AI feel like a tool you pick up. This is a design for AI that behaves more like a teammate who's always online. It's a prototype, not a product, and that distinction is the whole story.
+
+#deepseek #aiagents #claudecode #opensource #ai #superagent #agenticai #tech2026
+
+**SCRIPT:**
+
+DeepSeek says
+its AI agent spotted a bug
+in a group chat
+and opened the fix.
+
+**Nobody asked it to.**
+
+It's called a **Super-agent**,
+and DeepSeek just
+open sourced a **prototype**.
+
+Bloomberg is framing it
+as a challenge
+to **Claude Code**.
+
+Here's the idea.
+
+Today's coding agents
+work in **one session**
+at a time.
+
+DeepSeek says
+a person can only follow
+**three to five** of them
+at once.
+
+So the bottleneck
+isn't the **model**.
+
+It's your **attention**.
+
+Their design has
+a few **pieces**.
+
+A **Router**
+that talks to people
+and hands out **tasks**.
+
+**Workers**
+that each do one task
+on their **own**.
+
+A **Watchdog**
+that checks whether they're
+actually making **progress**.
+
+And instead of waiting
+for **prompts**,
+it listens to events,
+like chat messages
+and **GitHub**.
+
+In their own test,
+tasks finished in about
+**12 minutes**
+versus **20**
+for a single session setup.
+
+That's **their** test,
+on simulated work,
+and they call
+the results **indicative**.
+
+Now the **catch**.
+
+DeepSeek says
+this is a **prototype**.
+Not an official **product**.
+Not production **ready**.
+
+So it's not a **Claude Code** replacement
+today.
+
+But watch the **direction**.
+
+Muse.
+Dots.
+Claude Duet.
+Now **DeepSeek**.
+
+The chat window
+is becoming **optional**.
+
+**CTA:** "Follow for AI news with the fine print included. Comment SUPERAGENT and I'll break down how the Router and Workers idea works."
