@@ -495,3 +495,112 @@ Set it up **once**
 and never crash your live app **again**.
 
 **CTA:** "Save this if you've ever broken your live app with a bad update. Follow for more build fundamentals."
+
+---
+
+## SCRIPT: "Your Vibe Coded App Has Never Been Security Audited" (Cloudflare skill and Zero Wire)
+**Category:** Vibe Coding 101 | **Hook:** Urgency / Callout (Sabrina Patterns 3 and 7) | **Length:** 60-70 sec
+**Status:** NOT YET FILMED
+
+**HOOK OPTIONS (first 2 to 3 seconds):**
+1. (Recommended, Urgency/Callout) "Your vibe coded app has probably **never** had a security audit."
+2. (This changed everything, Pattern 8) "Cloudflare just open sourced a **security team** for your coding agent."
+3. (Stop doing this, Pattern 6) "Stop shipping your vibe coded app until you run **this**."
+
+**HOOK:**
+- AUDIO: "Your vibe coded app has probably **never** had a security audit."
+- TEXT ON SCREEN: "6 phases. 1 skill. free to install."
+- COVER TITLE: "Is Your App Safe?"
+- VISUAL: Start mid-sentence, leaning into the camera. Hold up your phone with an app open, then turn it toward yourself and shake your head on "never."
+
+**CAPTION:**
+Shipping fast is the easy part of vibe coding. Knowing what you shipped is the hard part. Two free things from Cloudflare that help, and one important thing neither of them does.
+
+#vibecoding #cybersecurity #claudecode #codex #cloudflare #buildwithai #appsecurity #aitools
+
+**SCRIPT:**
+
+Your vibe coded app
+has probably **never**
+had a security audit.
+
+Cloudflare just pointed people at
+a way to run one
+with your **coding agent**.
+
+Two tools.
+The **second** one
+is the one I'd **bookmark**.
+
+**One.**
+The **security audit skill**.
+
+It's open source,
+and it turns your coding agent
+into a team of **auditors**.
+
+Six **phases**.
+
+It **maps** your codebase.
+**Hunts** for vulnerabilities.
+**Challenges** each one.
+**Records** what it found.
+**Verifies** it.
+And reports what's **confirmed**,
+what's **rejected**,
+and what still needs a **human**.
+
+That challenge step
+is the **clever** part.
+Reportedly,
+a **different** agent
+checks the first agent's **work**.
+
+Cloudflare says this skill
+seeded its own
+vulnerability **discovery** system.
+
+You point your agent
+at your **repo**
+and ask it to run the **audit**.
+
+**Two.**
+**Zero Wire.**
+
+It launched this **week**
+on Cloudflare **Radar**.
+
+A public feed
+of **critical** vulnerabilities
+in internet-facing **software**.
+
+Plain English.
+Who should **investigate**.
+What to do **next**.
+
+And a ready-made **prompt**
+for your agent
+to check if **you're** affected.
+
+Now the **catch**.
+
+And it matters
+for **both**.
+
+Zero Wire doesn't **scan** anything.
+That prompt asks your agent
+for a **read-only** look.
+
+And the audit skill
+**costs tokens**,
+should run in a **sandbox**,
+and **isn't** a guarantee.
+
+An AI audit finds **more**.
+It doesn't find **everything**.
+
+So run it **tonight**.
+
+Because right **now**...
+
+**CTA:** "Follow for ways to ship vibe coded apps without regretting it. Comment AUDIT and I'll send you the exact prompt I'd use."
