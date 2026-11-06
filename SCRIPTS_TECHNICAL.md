@@ -584,8 +584,8 @@ to check if **you're** affected.
 
 Now the **catch**.
 
-And it matters
-for **both**.
+And it applies
+to **both**.
 
 Zero Wire doesn't **scan** anything.
 That prompt asks your agent
