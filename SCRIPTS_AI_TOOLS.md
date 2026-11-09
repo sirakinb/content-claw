@@ -1119,3 +1119,94 @@ a bug gets **fixed**,
 and **nobody asked**...
 
 **CTA:** "Follow for AI news with the fine print included. Comment SUPERAGENT and I'll break down how the Router and Workers idea works."
+
+---
+
+## SCRIPT: "Claude's Most Expensive Model Might Be the Cheap One Now" (Fable 5.2)
+**Category:** AI & Emerging Tech | **Hook:** Myth Killer + Cost (Sabrina Patterns 2 and 10) | **Length:** 55-65 sec
+**Status:** NOT YET FILMED
+
+**HOOK OPTIONS (first 2 to 3 seconds):**
+1. (Recommended, Myth killer + Cost) "Claude's most **expensive** model might be the **cheaper** one to use now."
+2. (Urgency, Pattern 3) "If you're still saving Fable for special occasions, you might be **overpaying**."
+3. (Hard number, Pattern 1) "Same coding score. **Half** the cost per task. From the expensive model."
+
+**HOOK:**
+- AUDIO: "Claude's most **expensive** model might be the **cheaper** one to use now."
+- TEXT ON SCREEN: "costs 2x per token. half per task?"
+- COVER TITLE: "The Price Twist"
+- VISUAL: Start mid-sentence, leaning in. Hold up two fingers on "expensive," then flip your hand palm down on "cheaper."
+
+**CAPTION:**
+Everyone compares AI models by price per token. That's the wrong number. What you actually pay for is a finished task, and Anthropic just made the case that the two can point in opposite directions.
+
+#claude #fable #anthropic #claudecode #ai #aicoding #aitools #tech2026
+
+**SCRIPT:**
+
+Claude's most **expensive** model
+might be the **cheaper** one
+to use now.
+
+Anthropic just dropped
+Claude **Fable 5.2**.
+
+Two numbers.
+The **second** one
+changes how you **pick** a model.
+
+**Number one.**
+It got **cheaper**.
+
+Eight dollars in,
+forty out,
+per million tokens.
+
+Down **20 percent**
+from Fable **5.1**.
+
+But that's still **double**
+Opus **5.5**.
+
+So most people
+will keep Opus
+as their **daily driver**.
+
+**Number two.**
+
+Anthropic says
+on its agentic coding test,
+Fable 5.2 at **high** effort
+matched Opus 5.5
+at **max** effort.
+
+For about **half**
+the cost **per task**.
+
+Because it gets there
+in **fewer** steps.
+
+So, **double** the price per token.
+**Half** the price per task.
+
+Now the **catch**.
+
+That's **Anthropic's** test.
+On **coding**.
+Early **results**.
+
+And it's not a clean **sweep**.
+Gemini 4 Carbon still beats it
+on business **workflows**.
+
+So test it on **your** work
+before you **switch**.
+
+But it means the price tag
+on a model
+isn't the **bill**.
+
+Which is why
+the most **expensive** model...
+
+**CTA:** "Follow for AI news that saves you money. Comment FABLE and I'll show you how I'd test both on the same task."
