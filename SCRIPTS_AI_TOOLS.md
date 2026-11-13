@@ -1210,3 +1210,109 @@ Which is why
 the most **expensive** model...
 
 **CTA:** "Follow for AI news that saves you money. Comment FABLE and I'll show you how I'd test both on the same task."
+
+---
+
+## SCRIPT: "Claude Joined the Meeting and Started the Work" (Claude Meetings)
+**Category:** AI & Emerging Tech | **Hook:** This Changed Everything (Sabrina Patterns 8 and 3) | **Length:** 55-65 sec
+**Status:** NOT YET FILMED
+
+**HOOK OPTIONS (first 2 to 3 seconds):**
+1. (Recommended, This changed everything) "Nobody on your next meeting has to take **notes** again."
+2. (Story, Pattern 4) "Claude joined our call and had the plan **written** before we hung up."
+3. (Urgency, Pattern 3) "If your meetings still end with 'who's writing this up,' you're **behind**."
+
+**HOOK:**
+- AUDIO: "Nobody on your next meeting has to take **notes** again."
+- TEXT ON SCREEN: "the meeting ends. the doc already exists."
+- COVER TITLE: "AI Joined My Call"
+- VISUAL: Start mid-sentence holding a pen and notepad, then toss the notepad off camera on "notes."
+
+**CAPTION:**
+The worst part of a meeting isn't the meeting. It's the three days after where nobody turns the talk into the doc. Anthropic is going after exactly that gap, and the privacy defaults are more careful than you'd expect.
+
+#claude #anthropic #claudemeetings #googlemeet #ai #productivity #aitools #remotework
+
+**SCRIPT:**
+
+Nobody on your next meeting
+has to take **notes** again.
+
+Anthropic just launched
+**Claude Meetings**.
+
+Claude joins your video call
+as a **visible** participant.
+
+Three things it does.
+The **third** one
+is why this is different
+from a note taker.
+
+**One.**
+It **listens**.
+
+Notes, action items,
+a full **transcript**.
+
+**Two.**
+You can **ask** it things.
+
+Out loud, or in the chat.
+
+"What did last year's
+event **cost**?"
+
+It asks permission,
+looks it **up**
+in your connected tools,
+and posts the **answer**.
+
+**Three.**
+It **builds**.
+
+"Claude, start a doc
+for this **plan**."
+
+It writes up
+what you've said so **far**,
+and your team edits it
+**live**,
+while you keep **talking**.
+
+Whiteboards too.
+
+So the meeting **ends**,
+and the work has **already started**.
+
+Now the **catch**.
+
+It's **beta**.
+**Team** and **Enterprise** plans only.
+And just **Google Meet**
+for now.
+
+By default,
+it **won't join**
+if someone outside your company
+is on the **invite**.
+
+And it saves the **transcript**,
+not the audio.
+
+Anthropic still says
+make sure everyone's **OK**
+being transcribed.
+
+But think about
+what that **changes**.
+
+The doc used to come
+**days** after the meeting.
+
+Now it's done
+before you **hang up**.
+
+And nobody had to take...
+
+**CTA:** "Follow for AI tools that actually save you hours. Comment MEETINGS and I'll show you how I'd use it with a client."
