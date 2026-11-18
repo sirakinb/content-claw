@@ -1425,3 +1425,101 @@ Because a model can win
 every **chart**...
 
 **CTA:** "Follow for AI news from someone who actually uses this stuff. Comment which model you're on right now."
+
+---
+
+## SCRIPT: "Google Keeps Winning Benchmarks. Is Anyone Using It?" (Gemini 4 Neon)
+**Category:** AI & Emerging Tech | **Hook:** Question / Challenge (Sabrina Patterns 7 and 5) | **Length:** 55-65 sec
+**Status:** NOT YET FILMED
+
+**HOOK OPTIONS (first 2 to 3 seconds):**
+1. (Recommended, Question/Secret) "Google just beat Claude Opus on **16 of 19** benchmarks. And **nobody's** talking about it."
+2. (Hard number, Pattern 1) "**Four** frontier models in **seven weeks**. That's Google right now."
+3. (Question, Pattern 7) "Is anyone **actually** using Gemini? Because it keeps **winning**."
+
+**HOOK:**
+- AUDIO: "Google just beat Claude Opus on **16 of 19** benchmarks. And **nobody's** talking about it."
+- TEXT ON SCREEN: "4 models. 7 weeks. still quiet."
+- COVER TITLE: "Google's Silent Run"
+- VISUAL: Start mid-sentence, hold up one hand with fingers spread on "16," then put a finger to your lips on "nobody's."
+
+**CAPTION:**
+Every AI conversation right now is Claude vs OpenAI. Meanwhile Google has shipped four frontier models since the end of September and almost nobody I know has switched. Real question: have you actually tried Gemini for work?
+
+#gemini #gemini4 #google #claude #ai #aicoding #aitools #tech2026
+
+**SCRIPT:**
+
+Google just beat Claude Opus
+on **16 of 19** benchmarks.
+
+And **nobody's** talking about it.
+
+It's called Gemini 4 **Neon**.
+
+Two of the three it lost
+are the **ones** I'd care about most.
+I'll get to **that**.
+
+First, the **pace**.
+
+Gemini 4 **Argon**.
+**Carbon**.
+**Hydrogen**.
+Now **Neon**.
+
+**Four** models
+in about **seven weeks**.
+
+Now the **numbers**.
+
+On the Artificial Analysis
+Intelligence **Index**,
+Neon scores **61**.
+Opus 5.5 scores **59**.
+
+It's **number one**
+on their coding **agent** index.
+
+It wins Zapier's
+business workflow **test**.
+
+And it's **cheaper**.
+Three dollars **in**,
+fifteen **out**.
+About **25 percent**
+less than Opus.
+
+Now the **catch**.
+
+Those are mostly
+**Google's** numbers.
+
+And the tests it **lost**?
+
+Terminal-Bench
+and **FrontierCode**.
+
+The two that look most like
+an agent writing **real code**
+in a **real** repo.
+
+Opus **still** wins those.
+
+And Fable 5.2 and GPT-6.2 Astra
+still score **higher** overall.
+
+So here's my **honest** take.
+
+I'm not in Google's
+**ecosystem**.
+And I don't know many builders
+**who are**.
+
+The model keeps getting **better**.
+The **habit** isn't there.
+
+Which is why Google
+can win **16 of 19**...
+
+**CTA:** "Real question. Have you actually used Gemini for work? Tell me in the comments. If enough of you have, I'll put Neon head to head with Opus on a real build."
