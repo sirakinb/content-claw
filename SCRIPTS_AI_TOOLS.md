@@ -1380,8 +1380,7 @@ on full builds.
 **Complaint one.**
 It **blocks** itself.
 
-One developer gave it
-a two hour **task**,
+One developer was **two hours** into a task,
 and it stopped to ask
 which **file name**
 an internal reviewer used.
