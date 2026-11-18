@@ -1316,3 +1316,113 @@ before you **hang up**.
 And nobody had to take...
 
 **CTA:** "Follow for AI tools that actually save you hours. Comment MEETINGS and I'll show you how I'd use it with a client."
+
+---
+
+## SCRIPT: "OpenAI's New Model Won the Benchmarks. Testers Hated It." (GPT-6.2 Astra and Sol)
+**Category:** AI & Emerging Tech | **Hook:** Myth Killer / Contrarian (Sabrina Pattern 2) | **Length:** 60-70 sec
+**Status:** NOT YET FILMED
+
+**HOOK OPTIONS (first 2 to 3 seconds):**
+1. (Recommended, Contrarian) "OpenAI's new model topped its own benchmarks. The people who tested it **hated** it."
+2. (Story, Pattern 4) "A developer spent **seven days** on one task with OpenAI's new model. It made **zero** progress."
+3. (Myth killer, Pattern 2) "Benchmarks are **lying** to you. GPT-6.2 just proved it."
+
+**HOOK:**
+- AUDIO: "OpenAI's new model topped its own benchmarks. The people who tested it **hated** it."
+- TEXT ON SCREEN: "7 days. 0 improvements."
+- COVER TITLE: "The Benchmark Lie"
+- VISUAL: Start mid-sentence, hold up a thumbs up on "benchmarks," then flip it to a thumbs down on "hated."
+
+**CAPTION:**
+Every AI launch comes with a chart where the new model wins. The question that decides what you actually use is what happens on day three of real work. Here's where I landed after this one. Which model are you using right now?
+
+#openai #gpt6 #chatgpt #claude #aicoding #ai #codex #tech2026
+
+**SCRIPT:**
+
+OpenAI's new model
+topped its own **benchmarks**.
+
+The people who tested it
+**hated** it.
+
+GPT-6.2 **Astra** and **Sol**
+just dropped.
+
+Three complaints keep coming **up**.
+The **third** one
+is the scariest for anyone
+running **agents**.
+
+On **paper**,
+it looks great.
+
+OpenAI says Astra beats
+Claude Fable 5.2
+on long professional **tasks**,
+at about **5 percent**
+of the cost.
+
+And it's **20 percent** cheaper
+than the last Astra.
+
+Then the testers got their **hands** on it.
+
+The team at **Every**,
+30 people who test models
+on real **work**,
+said nobody **switched** to it.
+Weaker **writing**.
+And it stopped **too soon**
+on full builds.
+
+**Complaint one.**
+It **blocks** itself.
+
+One developer gave it
+a two hour **task**,
+and it stopped to ask
+which **file name**
+an internal reviewer used.
+
+**Complaint two.**
+You can't **read** it.
+
+Four paragraphs
+on package **internals**,
+where Claude just said,
+"the drive is **slow**."
+
+**Complaint three.**
+It **loops**.
+
+Seven days on one **project**.
+**Zero** improvements.
+Four more days.
+Still **zero**.
+
+Now, it's not all **bad**.
+
+Testers say it's a **great** code reviewer,
+**strong** at 3D and games,
+and computer use is **real**.
+
+And **Sol**
+is the quieter **win**.
+Same price as before,
+and **smarter**.
+
+But here's where I **land**.
+
+**Opus 5.5**
+for about 85 percent of my **work**.
+**Fable**
+for the rest.
+
+Until somebody catches **up**.
+
+Because a model can win
+every **chart**...
+
+**CTA:** "Follow for AI news from someone who actually uses this stuff. Comment which model you're on right now."
