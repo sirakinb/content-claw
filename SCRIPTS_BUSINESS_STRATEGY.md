@@ -557,3 +557,100 @@ The question is whether **YOU** set them up
 or your **COMPETITOR** does first.
 
 **CTA:** "What part of your workflow would you hand to an AI agent? Drop it in the comments."
+
+---
+
+## SCRIPT: "OpenAI Will Pay You Up to $8,000 a Month to Help Small Businesses" (OpenWorks)
+**Category:** AI Automation / Business Strategy | **Hook:** Cost / Money + Authority (Sabrina Patterns 10 and 9) | **Length:** 55-65 sec
+**Status:** NOT YET FILMED
+
+**HOOK OPTIONS (first 2 to 3 seconds):**
+1. (Recommended, Money) "OpenAI will pay you up to **$8,000 a month** to help small businesses use AI."
+2. (Story/credibility, Pattern 4) "I help small businesses with AI for a living. Now **OpenAI** wants to pay people to do it."
+3. (Secret, Pattern 5) "Nobody's talking about this, but OpenAI just made **AI consultant** a funded job."
+
+**HOOK:**
+- AUDIO: "OpenAI will pay you up to **$8,000 a month** to help small businesses use AI."
+- TEXT ON SCREEN: "the business pays $0. OpenAI pays you."
+- COVER TITLE: "OpenAI Is Hiring Locals"
+- VISUAL: Start mid-sentence, hold up eight fingers on "$8,000," then point straight at the camera on "you."
+
+**CAPTION:**
+The hardest part of selling AI services to small businesses has always been the price tag. OpenAI just took the price tag off. If you know AI and you know your town, this is worth ten minutes today.
+
+#openai #openworks #smallbusiness #aiconsultant #aiautomation #chatgpt #sidehustle #entrepreneur
+
+**SCRIPT:**
+
+OpenAI will pay you
+up to **$8,000 a month**
+to help small businesses use **AI**.
+
+It's called **OpenWorks**.
+
+Two things to know.
+The **second** one
+decides if you can even **apply**.
+
+Here's how it **works**.
+
+OpenAI funds local
+**AI experts**.
+They call them
+OpenWorks **Partners**.
+
+You spend days each month
+with local **businesses**.
+Restaurants.
+Shops.
+Service **companies**.
+Manufacturers.
+
+You run a monthly **workshop**.
+
+And you teach owners and their **teams**
+how to actually **use** AI.
+
+And the businesses?
+They pay **nothing**.
+
+OpenAI also gives you
+tools and workshop **support**.
+
+I know that's **huge**,
+because it's
+the **exact** work I do.
+The hardest part is never the **AI**.
+It's getting an owner to **pay**
+before they've seen it **work**.
+
+Now the **catch**.
+
+It's a **pilot**.
+About **20** U.S. communities
+to start.
+
+It's **up to** $8,000.
+Not guaranteed.
+You have to **apply**
+and get **picked**.
+
+And it's for **independent**
+small businesses.
+No software companies.
+No venture or private equity **backed**.
+
+But think about what
+OpenAI just **said**.
+
+The money in AI
+isn't just in building **models**.
+
+It's in the person
+who can sit down
+with a **local** business
+and make it **work**.
+
+That's why OpenAI will pay you...
+
+**CTA:** "Comment WORKS and I'll send you the link to apply. Follow if you want to build an AI business that helps real local companies."
