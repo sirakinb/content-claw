@@ -611,11 +611,11 @@ You run a monthly **workshop**.
 And you teach owners and their **teams**
 how to actually **use** AI.
 
-And the businesses?
-They pay **nothing**.
-
 OpenAI also gives you
 tools and workshop **support**.
+
+And the businesses?
+They pay **nothing**.
 
 I know that's **huge**,
 because it's
