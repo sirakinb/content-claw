@@ -1523,3 +1523,103 @@ Which is why Google
 can win **16 of 19**...
 
 **CTA:** "Real question. Have you actually used Gemini for work? Tell me in the comments. If enough of you have, I'll put Neon head to head with Opus on a real build."
+
+---
+
+## SCRIPT: "Anthropic Broke Its IPO Price in 4 Days" (ANT drops below $83)
+**Category:** AI & Emerging Tech / Markets | **Hook:** Hard Number + Contrast (Sabrina Patterns 1 and 3) | **Length:** 55-65 sec
+**Status:** NOT YET FILMED
+
+**HOOK OPTIONS (first 2 seconds):**
+1. (Recommended, Contrast) "SpaceX took **21 days** to fall below its IPO price. Anthropic took **four**."
+2. (Hard number) "Anthropic opened at **$111**. Today it's under **$80**."
+3. (Insider angle, Pattern 5) "Anthropic's stock fell below its IPO price, and the scariest reason came from **inside** the company."
+
+**HOOK:**
+- AUDIO: "SpaceX took **21 days** to fall below its IPO price. Anthropic took **four**."
+- TEXT ON SCREEN: "$111 open. under $83 by day 4."
+- COVER TITLE: "Anthropic's Rough Week"
+- VISUAL: Start mid-sentence. Hold up two fingers then one on "21," then snap down to four fingers on "four" and hold the stare.
+
+**CAPTION:**
+The biggest IPO in history just slipped under its offering price, and the reasons are more interesting than "the market was red." Here's what actually moved it, and what nobody knows yet. Not financial advice.
+
+#anthropic #ant #ipo #claude #stockmarket #ai #nvidia #investing
+
+**SCRIPT:**
+
+SpaceX took **21 days**
+to fall below its IPO price.
+
+Anthropic took **four**.
+
+The stock priced at **$83**.
+It opened at **$111**.
+Today it traded
+under **$80**.
+
+There are three reasons
+people are pointing **to**.
+The **third** one
+is the one I can't stop thinking **about**.
+
+**One.**
+The whole **AI trade** sold off.
+
+Nvidia fell around **7 percent**.
+CoreWeave and Nebius,
+around **8**.
+
+When the sector drops,
+the newest stock
+usually drops **harder**.
+
+**Two.**
+The **hype** came out.
+
+A first day pop
+on the biggest IPO **ever**,
+then reality.
+Some analysts are now calling
+the price **too high**.
+
+And there are reports
+of executives selling **shares**
+around the listing.
+The details are still **murky**.
+
+**Three.**
+
+The **same day**,
+Axios reported that staff
+at Anthropic **and** OpenAI
+doubt their most powerful
+**unreleased** models
+can be released **safely**.
+
+Anthropic **disputed**
+that holding a model back
+fixes the **problem**.
+
+But that's a hard headline
+for a company that sells
+**trust**.
+
+Now the **other** side.
+
+Three Wall Street firms
+just started coverage
+this week.
+All three said **buy**.
+
+So nobody **knows**
+where this goes.
+
+But four days in,
+the market just found out
+Anthropic can **fall**.
+
+And SpaceX
+took **21 days**...
+
+**CTA:** "Not financial advice. Follow for AI news that connects the tech to the money. Comment ANT if you want me to keep tracking this."
