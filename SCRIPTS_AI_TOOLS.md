@@ -1610,7 +1610,7 @@ Now the **other** side.
 Three Wall Street firms
 just started coverage
 this week.
-All three said **buy**.
+All three are **bullish**.
 
 So nobody **knows**
 where this goes.
