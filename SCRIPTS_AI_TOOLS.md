@@ -1526,100 +1526,126 @@ can win **16 of 19**...
 
 ---
 
-## SCRIPT: "Anthropic Broke Its IPO Price in 4 Days" (ANT drops below $83)
-**Category:** AI & Emerging Tech / Markets | **Hook:** Hard Number + Contrast (Sabrina Patterns 1 and 3) | **Length:** 55-65 sec
+## SCRIPT: "The Stock Fell. Claude Didn't." (ANT below IPO price, Version A)
+**Structure:** Contrarian Take | **Hook:** Myth Killer (Sabrina Pattern 2) | **Length:** 45-55 sec
 **Status:** NOT YET FILMED
 
-**HOOK OPTIONS (first 2 seconds):**
-1. (Recommended, Contrast) "SpaceX took **21 days** to fall below its IPO price. Anthropic took **four**."
-2. (Hard number) "Anthropic opened at **$111**. Today it's under **$80**."
-3. (Insider angle, Pattern 5) "Anthropic's stock fell below its IPO price, and the scariest reason came from **inside** the company."
-
 **HOOK:**
-- AUDIO: "SpaceX took **21 days** to fall below its IPO price. Anthropic took **four**."
-- TEXT ON SCREEN: "$111 open. under $83 by day 4."
-- COVER TITLE: "Anthropic's Rough Week"
-- VISUAL: Start mid-sentence. Hold up two fingers then one on "21," then snap down to four fingers on "four" and hold the stare.
+- AUDIO: "Anthropic's stock just broke its IPO price. Claude didn't get **one bit** worse."
+- TEXT ON SCREEN: "the stock fell. the model didn't."
+- COVER TITLE: "Should Builders Worry?"
+- VISUAL: Phone in hand showing the red ANT chart, then flip the phone around to show a Claude Code session mid-build.
 
 **CAPTION:**
-The biggest IPO in history just slipped under its offering price, and the reasons are more interesting than "the market was red." Here's what actually moved it, and what nobody knows yet. Not financial advice.
+Everyone's screenshotting the red candle. I'm watching a different story underneath it, and it's the one that actually affects anyone who builds with AI. Not financial advice.
 
-#anthropic #ant #ipo #claude #stockmarket #ai #nvidia #investing
+#anthropic #claude #ipo #ant #ai #claudecode #stockmarket #buildwithai
 
 **SCRIPT:**
 
-SpaceX took **21 days**
-to fall below its IPO price.
+Anthropic's stock
+just broke its **IPO price**.
 
-Anthropic took **four**.
+Claude didn't get
+**one bit** worse.
 
-The stock priced at **$83**.
-It opened at **$111**.
-Today it traded
-under **$80**.
+Everyone's posting the **chart**,
+and fair enough.
 
-There are three reasons
-people are pointing **to**.
-The **third** one
-is the one I can't stop thinking **about**.
+It priced at **$83**.
+Opened Thursday at **$111**.
+By Tuesday it traded under **$80**.
 
-**One.**
-The whole **AI trade** sold off.
+SpaceX needed **21 days**
+to fall under its IPO price.
+Anthropic needed **four**.
 
-Nvidia fell around **7 percent**.
-CoreWeave and Nebius,
-around **8**.
+People are blaming
+an **AI selloff**.
+Nvidia dropped around **7 percent**
+the same morning.
 
-When the sector drops,
-the newest stock
-usually drops **harder**.
+They're blaming a price
+set for **perfection**.
 
-**Two.**
-The **hype** came out.
+I build on Claude **every day**.
+Tuesday it wrote code
+exactly like it did **Monday**.
 
-A first day pop
-on the biggest IPO **ever**,
-then reality.
-Some analysts are now calling
-the price **too high**.
+A stock is a **bet**
+on the next ten years.
+The product is what I used
+**this morning**.
 
-And there are reports
-of executives selling **shares**
-around the listing.
-The details are still **murky**.
+There's one piece of this
+I am **watching**, though.
 
-**Three.**
-
-The **same day**,
+The same day,
 Axios reported that staff
 at Anthropic **and** OpenAI
-doubt their most powerful
-**unreleased** models
+doubt their strongest **unreleased** models
 can be released **safely**.
 
-Anthropic **disputed**
-that holding a model back
-fixes the **problem**.
+**That** one touches builders.
 
-But that's a hard headline
-for a company that sells
-**trust**.
+If the best models
+stay **locked up**,
+none of us get to **use** them.
 
-Now the **other** side.
+So ignore the **ticker**.
 
-Three Wall Street firms
-just started coverage
-this week.
-All three are **bullish**.
+Watch what **ships**.
 
-So nobody **knows**
-where this goes.
+**CTA:** "Not financial advice. Follow if you build with AI and want the story behind the headline."
 
-But four days in,
-the market just found out
-Anthropic can **fall**.
+---
 
-And SpaceX
-took **21 days**...
+## SCRIPT: "Four Days, Under $83" (ANT below IPO price, Version B)
+**Structure:** Shot-by-Shot Timeline | **Hook:** Hard Number + Contrast (Sabrina Pattern 1) | **Length:** 45-55 sec
+**Status:** NOT YET FILMED
 
-**CTA:** "Not financial advice. Follow for AI news that connects the tech to the money. Comment ANT if you want me to keep tracking this."
+**COVER TITLE:** Anthropic's Day Four
+**CAPTION:**
+The biggest IPO ever, from the opening bell to below its price, in four trading days. Here's the whole week in under a minute, with the receipts on screen. Not financial advice.
+
+#anthropic #ant #ipo #stockmarket #investing #ai #nvidia #claude
+
+**PART 1 (0 to 3 sec)**
+- ON SCREEN: "$111 → $79"
+- VISUAL: Green screen over the ANT chart. Point at the peak, then drag your finger down to today.
+- SAY: "This is the biggest IPO in history. And it's **underwater** in four days."
+
+**PART 2**
+- ON SCREEN: "Thursday: opens $111.50"
+- VISUAL: Zoom on the first-day candle.
+- SAY: "Thursday. Priced at **$83**, opens at **$111**. For a moment, it's near a **two trillion** dollar company."
+
+**PART 3**
+- ON SCREEN: "Friday: about 10% gone"
+- VISUAL: Next candle, red.
+- SAY: "Friday, it gives back about **10 percent**. Normal for a hot IPO."
+
+**PART 4**
+- ON SCREEN: "SpaceX: 21 days. Anthropic: 4."
+- VISUAL: Split screen, both charts.
+- SAY: "Tuesday, it breaks **$83**. SpaceX took **21** trading days to do that."
+
+**PART 5**
+- ON SCREEN: Nvidia -7% headline
+- VISUAL: Screenshot of the Nvidia headline.
+- SAY: "Same morning, Nvidia drops around **7 percent**. The whole AI trade goes **red**."
+
+**PART 6**
+- ON SCREEN: Axios headline
+- VISUAL: Screenshot of the Axios report coverage.
+- SAY: "Same day, Axios reports staff at Anthropic and OpenAI doubt their strongest unreleased models can be released **safely**. Anthropic pushed back."
+
+**PART 7**
+- ON SCREEN: "Analyst targets: $120 to $150"
+- VISUAL: Screenshot of the analyst initiations.
+- SAY: "And three Wall Street firms started coverage this week, all **bullish**."
+
+**PART 8 (close, back to face cam)**
+- ON SCREEN: "not financial advice"
+- VISUAL: Face to camera, no green screen.
+- SAY: "Nobody knows where the bottom is. What I'm watching is whether the best models actually **ship**. Follow and I'll keep you posted."

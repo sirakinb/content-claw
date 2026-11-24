@@ -29,7 +29,8 @@ These are hard rules for writing TikTok scripts, captions, hooks, and cover titl
 - Pick the hook from HOOK_LIBRARY_SABRINA.md and name the pattern used. Offer 3 options and recommend one.
 - The first 2 to 3 seconds must say something concrete and surprising. No warm-up, no "so today", no setup.
 - Cover title: 2 to 5 words, emotional or curiosity-driven, readable at thumbnail size. Never a summary.
-- Open a loop in the first 10 seconds ("three ideas, and the last one changes how you use AI"), then pay it off late.
-- Put a pattern interrupt or re-hook about two thirds in ("but there's a catch").
-- End by looping back to the opening line so a replay feels seamless.
+- Pick a structure from STRUCTURES.md that fits the story, name it, and never repeat the previous script's structure.
+- Open a loop early and pay it off late, written fresh for each story. Never reuse the crutch lines banned in STRUCTURES.md.
+- Re-hook in the back half with something specific to the story, not a stock phrase.
+- Loop endings are optional and can't appear in back-to-back scripts.
 - Short lines. Cut anything that doesn't add a fact, a stake, or a payoff.
