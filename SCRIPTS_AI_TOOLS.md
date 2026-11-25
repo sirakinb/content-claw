@@ -1749,20 +1749,20 @@ This week.
 
 ---
 
-## SCRIPT: "Your AI Agent Now Asks Before It Deletes Your Stuff" (MCP turns two)
-**Structure:** Then vs Now | **Hook:** This Changed Everything (Sabrina Pattern 8) | **Length:** 55-65 sec
+## SCRIPT: "Shopify Can Now Teach Claude" (MCP turns two)
+**Structure:** Then vs Now | **Hook:** Contrast (Sabrina Pattern 2) | **Length:** 50-60 sec
 **Status:** NOT YET FILMED
 
 **HOOK OPTIONS (first 2 seconds):**
-1. (Recommended, This changed everything) "Your AI agent will now **ask you** before it deletes your database."
-2. (Then vs Now) "Two years ago, AI could only **use** a tool. Today the tool can **teach** it."
-3. (Hard number, Pattern 1) "**700 million** downloads a month. And MCP just got its biggest upgrade yet."
+1. (Recommended, Contrast) "Claude used to **guess** how to use Shopify. Now Shopify **tells** it."
+2. (Story/Authority, Pattern 9) "Two years ago Anthropic gave away the **plug**. Now OpenAI and Google use it too."
+3. (Curiosity + number) "**700 million** downloads a month, and most people still don't know what MCP is."
 
 **HOOK:**
-- AUDIO: "Your AI agent will now **ask you** before it deletes your database."
-- TEXT ON SCREEN: "MCP turned 2. it grew up."
-- COVER TITLE: "AI Got Manners"
-- VISUAL: Mime hovering a finger over a big delete key, then freeze and turn to the camera like someone just tapped your shoulder.
+- AUDIO: "Claude used to **guess** how to use Shopify. Now Shopify **tells** it."
+- TEXT ON SCREEN: "your apps can now train your AI"
+- COVER TITLE: "Apps Teach AI Now"
+- VISUAL: Shrug with a confused face on "guess," then point at the camera like you're giving instructions on "tells it."
 
 **CAPTION:**
 Two years ago MCP was a way to plug tools into AI. This week it became something closer to an operating system for agents. If you build with Claude, three of these change how your workflows behave starting now.
@@ -1771,78 +1771,64 @@ Two years ago MCP was a way to plug tools into AI. This week it became something
 
 **SCRIPT:**
 
-Your AI agent
-will now **ask you**
-before it deletes your **database**.
+Claude used to **guess**
+how to use Shopify.
+
+Now Shopify **tells** it.
 
 That's one of the upgrades
-Anthropic just shipped
-for **MCP**,
-two years after it **launched**.
+Anthropic just shipped for **MCP**,
+the plug that connects AI
+to your **apps**,
+on its **second birthday**.
 
-Two years **ago**,
-MCP did one thing.
+**Then.**
 
-It let AI **plug into** your tools.
-Your CRM.
-Your files.
-Your **code**.
+You connect a tool,
+and the AI shows up
+knowing the **buttons**,
+not the **playbook**.
 
-Useful.
-But the AI showed up
-not knowing **how** to use them,
-it had to wait on **slow** jobs,
-and it never **stopped to ask**.
+It freezes on **slow** jobs.
 
-**Today.**
+And it never stops
+to **ask** you anything.
+
+**Now.**
 
 **Skills.**
-A server can now ship
-the **know-how**
+The app ships the **know-how**
 with the tool.
-
 Shopify, HubSpot, Atlassian
-can teach Claude
+teaching Claude
 how **their** product works.
 Nothing extra to **install**.
 
 **Tasks.**
-Long jobs run in the **background**.
-Claude keeps working
-instead of **waiting**.
-ZoomInfo uses it for research
-that used to take **several prompts**.
+Long jobs run in the **background**,
+so Claude keeps **working**
+instead of waiting.
 
-And **elicitation**.
-
+**Elicitation.**
 The tool can **pause**
-and ask you.
-
-Supabase confirms the **cost**
-before it spins up a paid project.
+and check with you.
 GitHub makes you **type the repo name**
-before an agent deletes it.
+before an agent can delete it.
 
-**That's** the one that lets me
-hand agents real **client** work.
-
-The old fear
-was an agent doing something
-you can't **undo**.
-
-Now the **tool itself**
-can make it stop and **check**.
+So the agent finally gets
+the **manual**,
+the **patience**,
+and the **brakes**.
 
 Skills are in **beta**.
-Tasks and elicitation
-are live in Claude and Claude Code
-on Pro, Max and **Ultra**,
-with Team and Enterprise **rolling out**.
+Tasks and elicitation are **live**
+in Claude and Claude Code
+on Pro, Max and **Ultra**.
 
-Two years in,
-MCP stopped being a **plug**.
+Two years ago
+MCP gave AI **hands**.
 
-It became a **coworker**
-with **manners**.
+This update
+gave it **training**.
 
 **CTA:** "Follow if you build with Claude. Comment MCP and I'll show you which servers I'd connect first."
