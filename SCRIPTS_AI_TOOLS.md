@@ -1649,3 +1649,100 @@ The biggest IPO ever, from the opening bell to below its price, in four trading 
 - ON SCREEN: "not financial advice"
 - VISUAL: Face to camera, no green screen.
 - SAY: "Nobody knows where the bottom is. What I'm watching is whether the best models actually **ship**. Follow and I'll keep you posted."
+
+---
+
+## SCRIPT: "The FBI Warned About This AI Tool 11 Days Before the CIA Breach"
+**Structure:** Timeline Cold Open | **Hook:** Urgency / Warning (Sabrina Pattern 3) | **Length:** 55-65 sec
+**Status:** NOT YET FILMED
+
+**HOOK OPTIONS (first 2 seconds):**
+1. (Recommended, Warning) "The FBI warned about this AI hacking tool **eleven days** before it reportedly hit the **CIA**."
+2. (Hard number, Pattern 1) "**Under three hours.** That's how fast the FBI says this AI tool goes from first contact to admin access."
+3. (Secret, Pattern 5) "The hackers who got into a CIA system reportedly didn't need a team. They needed an **AI**."
+
+**HOOK:**
+- AUDIO: "The FBI warned about this AI hacking tool **eleven days** before it reportedly hit the **CIA**."
+- TEXT ON SCREEN: "Nov 13: FBI warning. Nov 24: CIA breach."
+- COVER TITLE: "They Were Warned"
+- VISUAL: Hold up a printed or on-screen calendar, tap Nov 13, then drag your finger to Nov 24 and look up at the camera.
+
+**CAPTION:**
+The scary part of this story isn't the CIA. It's that the tool reportedly behind it plugs into the same AI models most of us use every day, and it's already copied all over the internet. If you run a website or an app, read this one twice.
+
+#cybersecurity #cia #ai #hacking #fbi #aitools #infosec #vibecoding
+
+**SCRIPT:**
+
+The FBI warned about
+this AI hacking **tool**
+**eleven days**
+before it reportedly hit the **CIA**.
+
+**November 13th.**
+
+The FBI sends out a **flash** alert.
+
+The tool is called **ARTEX**.
+
+It started as a **security testing**
+tool.
+Attackers turned it into
+a **weapon**.
+
+The FBI says it can go
+from first contact
+to **admin access**
+in under **three hours**.
+
+**November 24th.**
+
+The New York Times reports
+hackers got into
+a CIA **system**.
+
+An **unclassified** one,
+used to analyze public **information**.
+
+Officials say classified systems
+weren't **touched**.
+
+And the tool investigators
+reportedly suspect?
+
+**ARTEX.**
+
+Nobody has named
+**who** did it yet.
+
+What stopped me
+was how it **works**.
+
+ARTEX doesn't have
+its own **brain**.
+
+It plugs into **AI models**.
+The FBI's list includes
+**Claude**.
+**GPT**.
+**DeepSeek**.
+
+The same models
+you and I use to **build**.
+
+And copies of the code
+are already all over the **internet**.
+
+So if a CIA system
+can get **hit**,
+your Shopify store,
+your booking app,
+your **client portal**
+isn't **special**.
+
+Run a **security audit**
+on what you've **built**.
+
+This week.
+
+**CTA:** "Follow for the AI news that actually affects your business. Comment AUDIT and I'll send you the free tool I'd run first."
